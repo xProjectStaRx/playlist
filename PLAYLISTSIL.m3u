@@ -18,6 +18,6 @@ http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ 24"  group-title="New Group",ערוץ 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-p.m3u8?sd=10&b=100-700&rebase=on
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kakaערוץ הקניות"  group-title="New Group",ערוץ הקניות
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kkkkערוץ הקניות"  group-title="New Group",ערוץ הקניות
 http://80.244.172.14/ch21Live/ch21Live_med.m3u8
 
