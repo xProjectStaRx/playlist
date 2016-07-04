@@ -4,7 +4,7 @@
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 1"  group-title="Group N/A",ערוץ 1
-http://82.80.192.27/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1722014513_b592000.m3u8?ttl=1467738898
+http://80.244.172.14/ch21Live/ch21Live_med.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 22"  group-title="Group N/A",ערוץ 22
 http://cdn.tvtogo.co.il:1935/CH_22/smil:C8.smil/chunklist_w2083502380_b1200000.m3u8?token=615cdedf-02bd-4808-b2eb-614eeeb87c1d
@@ -18,6 +18,6 @@ http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ 24"  group-title="New Group",ערוץ 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-p.m3u8?sd=10&b=100-700&rebase=on
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="kkkkערוץ הקניות"  group-title="New Group",עkkkkkרוץ הקניות
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ הקניות"  group-title="New Group",ערוץ הקניות
 http://80.244.172.14/ch21Live/ch21Live_med.m3u8
 
