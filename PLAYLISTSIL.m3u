@@ -4,7 +4,7 @@
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 1"  group-title="Group N/A",ערוץ 1
-http://80.244.172.14/ch21Live/ch21Live_med.m3u8
+http://62.90.90.52/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w2050026899_b1392000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 22"  group-title="kaka",ערוץ 22
 http://cdn.tvtogo.co.il:1935/CH_22/smil:C8.smil/chunklist_w2083502380_b1200000.m3u8?token=615cdedf-02bd-4808-b2eb-614eeeb87c1d
