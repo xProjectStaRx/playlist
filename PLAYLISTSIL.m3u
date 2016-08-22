@@ -4,10 +4,10 @@
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 1"  group-title="Israel",ערוץ 1
-http://62.90.90.52/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w2050026899_b1392000.m3u8
+http://82.80.192.27/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w169466705_b1392000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 22"  group-title="Israel",ערוץ 22
-http://89.45.186.26:1935/live/222/manifest.m3u8
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_1200_av-p.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 22 רביעי-שבת"  group-title="Israel",ערוץ 22 רביעי-שבת
 http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3u8
