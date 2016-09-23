@@ -17,6 +17,36 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
 #EXTINF:0,Shopping Channel
 http://80.244.172.14/ch21Live/ch21Live_med.m3u8
 
+#EXTINF:0,Пятница!
+http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica?krasview.ru
+#EXTINF:-1,Пятница +2
+http://hlstv.kuz.211.ru/239.211.211.21/stream.m3u8
+#EXTINF:0,СТС
+http://0E9B00ECD326CCAC:@t.kraslan.ru/stst2?krasview.ru
+#EXTINF:0,НТВ
+http://0E9B00ECD326CCAC:@t.kraslan.ru/ntvt2?krasview.ru
+#EXTINF:-1,Домашний
+http://vt.freeslynet.online/ch/4knemp/kgv7
+#EXTINF:-1,Домашний +4
+http://hlstv.kuz.211.ru/239.211.4.29/stream.m3u8
+#EXTINF:0,360hd
+http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
+#EXTINF:0,Точка ТВ
+http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka?krasview.ru
+#EXTINF:-1,Euronews UA
+http://vt.freeslynet.online/ch/4knemp/zg6h
+
+#EXTINF:-1,Кинокомедия
+http://vt.freeslynet.online/ch/4knemp/ys4u
+#EXTINF:-1,Киномикс
+http://vt.freeslynet.online/ch/4knemp/17p1
+#EXTINF:-1,Киносвидание
+http://vt.freeslynet.online/ch/4knemp/tsbx
+#EXTINF:-1,Киносемья
+http://vt.freeslynet.online/ch/4knemp/q7l7
+#EXTINF:-1,Кинохит
+http://vt.freeslynet.online/ch/4knemp/itvu
+
 #EXTINF:0,MTV Live HD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
 #EXTINF:-1,MTV
@@ -48,7 +78,6 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 #EXTINF:-1,Ля Минор
 http://vt.freeslynet.online/ch/4knemp/rkzn
 
-
 #EXTINF:0,Никелодеон-Россия
 http://0E9B00ECD326CCAC:@t.kraslan.ru/nickelodeon?krasview.ru
 #EXTINF:0,Boomerang
@@ -77,36 +106,3 @@ http://37.193.14.51:81/udp/239.1.3.7:1234
 http://77.120.118.233:8000/4
 #EXTINF:-1,Lale
 http://vt.freeslynet.online/ch/4knemp/ks0d
-
-#EXTINF:0,360hd
-http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
-
-
-#EXTINF:0,Точка ТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka?krasview.ru
-#EXTINF:0,Пятница!
-http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica?krasview.ru
-#EXTINF:-1,Пятница +2
-http://hlstv.kuz.211.ru/239.211.211.21/stream.m3u8
-#EXTINF:0,СТС
-http://0E9B00ECD326CCAC:@t.kraslan.ru/stst2?krasview.ru
-#EXTINF:0,НТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/ntvt2?krasview.ru
-#EXTINF:-1,Домашний
-http://vt.freeslynet.online/ch/4knemp/kgv7
-#EXTINF:-1,Домашний +4
-http://hlstv.kuz.211.ru/239.211.4.29/stream.m3u8
-#EXTINF:-1,Euronews UA
-http://vt.freeslynet.online/ch/4knemp/zg6h
-
-#EXTINF:-1,Кинокомедия
-http://vt.freeslynet.online/ch/4knemp/ys4u
-#EXTINF:-1,Киномикс
-http://vt.freeslynet.online/ch/4knemp/17p1
-#EXTINF:-1,Киносвидание
-http://vt.freeslynet.online/ch/4knemp/tsbx
-#EXTINF:-1,Киносемья
-http://vt.freeslynet.online/ch/4knemp/q7l7
-#EXTINF:-1,Кинохит
-http://vt.freeslynet.online/ch/4knemp/itvu
-
