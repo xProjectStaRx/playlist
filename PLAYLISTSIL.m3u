@@ -2,22 +2,16 @@
 
 #EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
-
 #EXTINF:0,Arutz 1
 http://82.80.192.27/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w169466705_b1392000.m3u8?krasview.ru
-
 #EXTINF:0,Arutz 2
 http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/chunklist.m3u8?krasview.ru
-
 #EXTINF:0,Arutz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8?krasview.ru
-
 #EXTINF:0,Arutz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8?krasview.ru
-
 #EXTINF:0,Arutz 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
-
 #EXTINF:0,Shopping Channel
 http://80.244.172.14/ch21Live/ch21Live_med.m3u8
 
@@ -29,44 +23,38 @@ http://vt.freeslynet.online/ch/4knemp/436m
 http://vt.freeslynet.online/ch/4knemp/xv3m
 #EXTINF:-1,MTV Rocks
 http://vt.freeslynet.online/ch/4knemp/ifgw
-
 #EXTINF:-1,Europa Plus TV
 http://vt.freeslynet.online/ch/4knemp/ib6k
-
 #EXTINF:0,Music box ru
 http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box-ru?krasview.ru
-
 #EXTINF:-1,MusicBox UA
 http://vt.freeslynet.online/ch/4knemp/9pvu
-
 #EXTINF:0,music-box
 http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box?krasview.ru
-
 #EXTINF:0,МУЗ ТВ
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mustvt2?krasview.ru
-
 #EXTINF:-1,Музыка Первого
 http://vt.freeslynet.online/ch/4knemp/rd8z
+#EXTINF:-1,Ля Минор
+http://vt.freeslynet.online/ch/4knemp/rkzn
+#EXTINF:-1,М1
+http://vt.freeslynet.online/ch/4knemp/wwuo
+#EXTINF:-1,М2
+http://vt.freeslynet.online/ch/4knemp/et34
 
 
 #EXTINF:0,Никелодеон-Россия
 http://0E9B00ECD326CCAC:@t.kraslan.ru/nickelodeon?krasview.ru
-
 #EXTINF:0,Мультимания
 http://0E9B00ECD326CCAC:@t.kraslan.ru/multimania?krasview.ru
-
 #EXTINF:-1,Детский Мир/Телеклуб
 http://vt.freeslynet.online/ch/4knemp/ag2b
-
 #EXTINF:-1,Карусель
 http://vt.freeslynet.online/ch/4knemp/sjec
-
 #EXTINF:-1,JimJam
 http://vt.freeslynet.online/ch/4knemp/l10u
-
 #EXTINF:-1,Lale
 http://vt.freeslynet.online/ch/4knemp/ks0d
-
 
 #EXTINF:0,360hd
 http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
@@ -74,24 +62,29 @@ http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
 
 #EXTINF:0,Точка ТВ
 http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka?krasview.ru
-
 #EXTINF:0,Пятница!
 http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica?krasview.ru
-
 #EXTINF:0,СТС
 http://0E9B00ECD326CCAC:@t.kraslan.ru/stst2?krasview.ru
 #EXTINF:-1,СТС Мир
 http://hlstv.nsk.211.ru/239.211.255.18/stream.m3u8
-
 #EXTINF:0,НТВ
 http://0E9B00ECD326CCAC:@t.kraslan.ru/ntvt2?krasview.ru
-
 #EXTINF:-1,Домашний
 http://vt.freeslynet.online/ch/4knemp/kgv7
-
 #EXTINF:-1,Euronews UA
 http://vt.freeslynet.online/ch/4knemp/zg6h
 
 #EXTINF:0,Bollywood HD
 udp://@239.72.4.47:1234
+#EXTINF:-1,Кинокомедия
+http://vt.freeslynet.online/ch/4knemp/ys4u
+#EXTINF:-1,Киномикс
+http://vt.freeslynet.online/ch/4knemp/17p1
+#EXTINF:-1,Киносвидание
+http://vt.freeslynet.online/ch/4knemp/tsbx
+#EXTINF:-1,Киносемья
+http://vt.freeslynet.online/ch/4knemp/q7l7
+#EXTINF:-1,Кинохит
+http://vt.freeslynet.online/ch/4knemp/itvu
 
