@@ -7,7 +7,7 @@ http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 http://82.80.192.27/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w169466705_b1392000.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 22"  group-title="Israel",ערוץ 22
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_1200_av-p.m3u8
+http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/chunklist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 22 רביעי-שבת"  group-title="Israel",ערוץ 22 רביעי-שבת
 http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3u8
@@ -16,7 +16,7 @@ http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ 10"  group-title="Israel",ערוץ 10
-http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/index_2_av-p.m3u8
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ 24"  group-title="Israel",ערוץ 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-p.m3u8?sd=10&b=100-700&rebase=on
