@@ -15,7 +15,7 @@ http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3
 #EXTINF:0,ערוץ 2 חדשות
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ 10"  group-title="Israel",ערוץ 10
+#EXTINF:0,ערוץ 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
 #EXTINF:0,ערוץ 24
