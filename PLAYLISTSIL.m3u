@@ -9,10 +9,7 @@ http://82.80.192.27/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chun
 #EXTINF:0,Arutz 2
 http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/chunklist.m3u8?krasview.ru
 
-#EXTINF:0,ערוץ 22 רביעי-שבת
-http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3u8?krasview.ru
-
-#EXTINF:0,ערוץ 2 חדשות
+#EXTINF:0,Arutz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8?krasview.ru
 
 #EXTINF:0,ערוץ 10
@@ -60,7 +57,4 @@ http://0E9B00ECD326CCAC:@t.kraslan.ru/stst2?krasview.ru
 http://0E9B00ECD326CCAC:@t.kraslan.ru/ntvt2?krasview.ru
 
 #EXTINF:0,Euronews
-http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
-
-#EXTINF:0,Домашний
-http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+http://ewns-hls-b-cdn.hexaglobe.net/aac16d3d825e5f7911dec0946c1ac2d9/57e4fe22/euronews_rus.smil/chunklist_b1100000.m3u8
