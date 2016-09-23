@@ -1,26 +1,62 @@
 ﻿#EXTM3U
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="iLand"  group-title="Israel",iLand
+#EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 1"  group-title="Israel",ערוץ 1
+#EXTINF:0,ערוץ 1
 http://82.80.192.27/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w169466705_b1392000.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 22"  group-title="Israel",ערוץ 22
+#EXTINF:0,ערוץ 22
 http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/chunklist.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 22 רביעי-שבת"  group-title="Israel",ערוץ 22 רביעי-שבת
+#EXTINF:0,ערוץ 22 רביעי-שבת
 http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ערוץ 2 חדשות"  group-title="Israel",ערוץ 2 חדשות
+#EXTINF:0,ערוץ 2 חדשות
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
 
 #EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ 10"  group-title="Israel",ערוץ 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ 24"  group-title="Israel",ערוץ 24
+#EXTINF:0,ערוץ 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-p.m3u8?sd=10&b=100-700&rebase=on
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ערוץ הקניות"  group-title="Israel",ערוץ הקניות
+#EXTINF:0,ערוץ הקניות
 http://80.244.172.14/ch21Live/ch21Live_med.m3u8
+
+#EXTINF:0,MTV Live HD
+http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
+
+#EXTINF:0,Music box ru
+http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box-ru?krasview.ru
+
+#EXTINF:0,music-box
+http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box?krasview.ru
+
+#EXTINF:0,МУЗ ТВ [цифровой эфир]
+http://0E9B00ECD326CCAC:@t.kraslan.ru/mustvt2?krasview.ru
+
+
+#EXTINF:0,Никелодеон-Россия
+http://0E9B00ECD326CCAC:@t.kraslan.ru/nickelodeon?krasview.ru
+
+#EXTINF:0,Мультимания
+http://0E9B00ECD326CCAC:@t.kraslan.ru/multimania?krasview.ru
+
+#EXTINF:0,Карусель
+http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd?krasview.ru
+
+
+#EXTINF:0,Точка ТВ
+http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka?krasview.ru
+
+#EXTINF:0,Пятница!
+http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica?krasview.ru
+
+#EXTINF:0,СТС
+http://0E9B00ECD326CCAC:@t.kraslan.ru/stst2?krasview.ru
+
+#EXTINF:0,НТВ
+http://0E9B00ECD326CCAC:@t.kraslan.ru/ntvt2?krasview.ru
+
 
