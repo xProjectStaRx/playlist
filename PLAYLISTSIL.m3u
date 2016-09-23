@@ -3,7 +3,7 @@
 #EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 
-#EXTINF:0,ערוץ 1
+#EXTINF:0,Arutz 1
 http://82.80.192.27/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w169466705_b1392000.m3u8?krasview.ru
 
 #EXTINF:0,Arutz 2
@@ -12,29 +12,38 @@ http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/chunk
 #EXTINF:0,Arutz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8?krasview.ru
 
-#EXTINF:0,ערוץ 10
+#EXTINF:0,Arutz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8?krasview.ru
 
-#EXTINF:0,ערוץ 24
+#EXTINF:0,Arutz 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
 
-#EXTINF:0,ערוץ הקניות
+#EXTINF:0,Shopping Channel
 http://80.244.172.14/ch21Live/ch21Live_med.m3u8
 
 #EXTINF:0,MTV Live HD
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
+#EXTINF:-1,MTV
+http://vt.freeslynet.online/ch/4knemp/436m
+#EXTINF:-1,MTV Dance
+http://vt.freeslynet.online/ch/4knemp/xv3m
+#EXTINF:-1,MTV Rocks
+http://vt.freeslynet.online/ch/4knemp/ifgw
+
+#EXTINF:-1,Europa Plus TV
+http://vt.freeslynet.online/ch/4knemp/ib6k
 
 #EXTINF:0,Music box ru
 http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box-ru?krasview.ru
+
+#EXTINF:-1,MusicBox UA
+http://vt.freeslynet.online/ch/4knemp/9pvu
 
 #EXTINF:0,music-box
 http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box?krasview.ru
 
 #EXTINF:0,МУЗ ТВ
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mustvt2?krasview.ru
-
-#EXTINF:-1,Europa Plus TV
-http://vt.freeslynet.online/ch/4knemp/ib6k
 
 #EXTINF:-1,Музыка Первого
 http://vt.freeslynet.online/ch/4knemp/rd8z
@@ -51,6 +60,12 @@ http://vt.freeslynet.online/ch/4knemp/ag2b
 
 #EXTINF:-1,Карусель
 http://vt.freeslynet.online/ch/4knemp/sjec
+
+#EXTINF:-1,JimJam
+http://vt.freeslynet.online/ch/4knemp/l10u
+
+#EXTINF:-1,Lale
+http://vt.freeslynet.online/ch/4knemp/ks0d
 
 
 #EXTINF:0,360hd
