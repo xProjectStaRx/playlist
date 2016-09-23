@@ -41,20 +41,40 @@ http://vt.freeslynet.online/ch/4knemp/rd8z
 http://vt.freeslynet.online/ch/4knemp/wwuo
 #EXTINF:-1,М2
 http://vt.freeslynet.online/ch/4knemp/et34
+#EXTINF:-1,ПИК ТВ
+rtmp://78.140.209.14:1935/live/piktv3pik3tv
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 #EXTINF:-1,Ля Минор
 http://vt.freeslynet.online/ch/4knemp/rkzn
 
 
 #EXTINF:0,Никелодеон-Россия
 http://0E9B00ECD326CCAC:@t.kraslan.ru/nickelodeon?krasview.ru
+#EXTINF:0,Boomerang
+http://77.120.118.233:8000/6
+#EXTINF:0,Cartoon Network
+http://37.193.34.37:81/udp/239.1.3.3:1234
+#EXTINF:0,Disney Channel
+http://95.27.185.85:4022/udp/233.33.210.7:5050
+#EXTINF:-1,Disney Channel +2
+http://hlstv.kuz.211.ru/239.211.211.24/stream.m3u8
 #EXTINF:0,Мультимания
 http://0E9B00ECD326CCAC:@t.kraslan.ru/multimania?krasview.ru
 #EXTINF:-1,Детский Мир/Телеклуб
 http://vt.freeslynet.online/ch/4knemp/ag2b
+#EXTINF:0,Detskiy
+http://77.120.118.233:8000/1
 #EXTINF:-1,Карусель
 http://vt.freeslynet.online/ch/4knemp/sjec
 #EXTINF:-1,JimJam
 http://vt.freeslynet.online/ch/4knemp/l10u
+#EXTINF:0,Guli Girl
+http://37.193.97.142:81/udp/239.1.3.6:1234
+#EXTINF:0,Tiji
+http://37.193.14.51:81/udp/239.1.3.7:1234
+#EXTINF:0,Baby TV
+http://77.120.118.233:8000/4
 #EXTINF:-1,Lale
 http://vt.freeslynet.online/ch/4knemp/ks0d
 
@@ -66,19 +86,19 @@ http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
 http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka?krasview.ru
 #EXTINF:0,Пятница!
 http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica?krasview.ru
+#EXTINF:-1,Пятница +2
+http://hlstv.kuz.211.ru/239.211.211.21/stream.m3u8
 #EXTINF:0,СТС
 http://0E9B00ECD326CCAC:@t.kraslan.ru/stst2?krasview.ru
-#EXTINF:-1,СТС Мир
-http://hlstv.nsk.211.ru/239.211.255.18/stream.m3u8
 #EXTINF:0,НТВ
 http://0E9B00ECD326CCAC:@t.kraslan.ru/ntvt2?krasview.ru
 #EXTINF:-1,Домашний
 http://vt.freeslynet.online/ch/4knemp/kgv7
+#EXTINF:-1,Домашний +4
+http://hlstv.kuz.211.ru/239.211.4.29/stream.m3u8
 #EXTINF:-1,Euronews UA
 http://vt.freeslynet.online/ch/4knemp/zg6h
 
-#EXTINF:0,Bollywood HD
-udp://@239.72.4.47:1234
 #EXTINF:-1,Кинокомедия
 http://vt.freeslynet.online/ch/4knemp/ys4u
 #EXTINF:-1,Киномикс
