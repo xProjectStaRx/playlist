@@ -35,6 +35,8 @@ http://hlstv.kuz.211.ru/239.211.4.29/stream.m3u8
 http://langamepp.com/chtst/5727E7317985914C2640A486CA836B1B6011D6054EF940C2.m3u8
 #EXTINF:0,Ю +3
 http://langamepp.com/chtst/9FDA3E30E2CA5DC5000EA3D9E6D32F3DA8EC0F04D5B68C4B5B7CD6F2D5BD5B60.m3u8
+#EXTINF:0,RTVi
+http://ott2.odessa.tv:7321/index.php?channel=205&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:0,360hd
 http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
 #EXTINF:0,Точка ТВ
@@ -59,8 +61,14 @@ http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
 http://vt.freeslynet.online/ch/4knemp/436m
 #EXTINF:-1,MTV Dance
 http://vt.freeslynet.online/ch/4knemp/xv3m
+#EXTINF:0, MTV Hits
+http://ott2.odessa.tv:7321/index.php?channel=414&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:-1,MTV Rocks
 http://vt.freeslynet.online/ch/4knemp/ifgw
+#EXTINF:0, VH 1
+http://ott2.odessa.tv:7321/index.php?channel=193&key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:0, Vh1 Classic
+http://ott2.odessa.tv:7321/index.php?channel=415&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:-1,Europa Plus TV
 http://vt.freeslynet.online/ch/4knemp/ib6k
 #EXTINF:0,music-box
@@ -86,6 +94,8 @@ http://vt.freeslynet.online/ch/4knemp/rkzn
 
 #EXTINF:0,Никелодеон-Россия
 http://0E9B00ECD326CCAC:@t.kraslan.ru/nickelodeon?krasview.ru
+#EXTINF:0,Nick Junior
+http://ott2.odessa.tv:7321/index.php?channel=2&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:0,Boomerang
 http://77.120.118.233:8000/6
 #EXTINF:0,Cartoon Network
