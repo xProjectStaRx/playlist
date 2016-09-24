@@ -3,13 +3,13 @@
 #EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,Arutz 1
-https://raw.githubusercontent.com/xProjectStaRx/playlist/master/fixing.avi
+https://raw.githubusercontent.com/xProjectStaRx/playlist/master/fixing.m3u8
 #EXTINF:0,Arutz 2
 http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/chunklist.m3u8?krasview.ru
 #EXTINF:0,Arutz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8?krasview.ru
 #EXTINF:0,Arutz 9
-https://raw.githubusercontent.com/xProjectStaRx/playlist/master/fixing.avi
+https://raw.githubusercontent.com/xProjectStaRx/playlist/master/fixing.m3u8
 #EXTINF:0,Arutz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8?krasview.ru
 #EXTINF:0,Arutz 20
