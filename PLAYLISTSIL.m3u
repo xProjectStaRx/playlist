@@ -10,9 +10,9 @@ http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/chunk
 http://37.142.91.201:9981/stream/channelid/871333024?ticket=9B6B824A152F73640FF8A906A2F87F69540AE08C&profile=pass
 #EXTINF:0,Arutz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
-#EXTINF:0,Arutz 9
-rtmp://5.8.52.88/live/ playpath=tv9_id847 swfUrl=http://ovego.tv/uppod/uppod32.swf pageUrl=http://ovego.tv/publ/live_tv/razvlekatelnye/9channel_israel/7-1-0-950
 #EXTINF:0,9 канал Израиль
+rtmp://5.8.52.88/live/ playpath=tv9_id847 swfUrl=http://ovego.tv/uppod/uppod32.swf pageUrl=http://ovego.tv/publ/live_tv/razvlekatelnye/9channel_israel/7-1-0-950
+#EXTINF:0,9 канал Израиль Gibuy
 http://ts://127.0.0.1:81/cgi-bin/rtmp.sh?rtmp://5.8.52.88/live/ playpath=tv9_id847 swfUrl=http://ovego.tv/uppod/uppod32.swf pageUrl=http://ovego.tv/publ/live_tv/razvlekatelnye/9channel_israel/7-1-0-950
 #EXTINF:0,Arutz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8?krasview.ru
