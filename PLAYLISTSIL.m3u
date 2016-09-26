@@ -45,6 +45,8 @@ http://ott2.odessa.tv:7321/index.php?channel=205&key_ott=5f7690fd0bd330afafb91f3
 http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
 #EXTINF:0,Точка ТВ
 http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka?krasview.ru
+#EXTINF:-1,Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
 #EXTINF:-1,Euronews UA
 http://vt.freeslynet.online/ch/4knemp/zg6h
 
@@ -69,18 +71,26 @@ http://vt.freeslynet.online/ch/4knemp/xv3m
 http://ott2.odessa.tv:7321/index.php?channel=414&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:-1,MTV Rocks
 http://vt.freeslynet.online/ch/4knemp/ifgw
+#EXTINF:-1,DOT DANCE
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u
 #EXTINF:0, VH 1
 http://ott2.odessa.tv:7321/index.php?channel=193&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:0, Vh1 Classic
 http://ott2.odessa.tv:7321/index.php?channel=415&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:-1,Europa Plus TV
 http://vt.freeslynet.online/ch/4knemp/ib6k
+#EXTINF:-1,Deluxe Music
+rtmp://91.201.78.3:1935/live/jazzhd
+#EXTINF:-1,POP HD
+rtmp://91.201.78.3:1935/live/pophd
 #EXTINF:0,music-box
 http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box?krasview.ru
 #EXTINF:0,Music box ru
 http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box-ru?krasview.ru
 #EXTINF:-1,MusicBox UA
 http://vt.freeslynet.online/ch/4knemp/9pvu
+#EXTINF:-1,OTV Music
+http://vt.freeslynet.online/ch/4knemp/4ghi
 #EXTINF:0,МУЗ ТВ
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mustvt2?krasview.ru
 #EXTINF:-1,Музыка Первого
@@ -91,6 +101,8 @@ http://vt.freeslynet.online/ch/4knemp/wwuo
 http://vt.freeslynet.online/ch/4knemp/et34
 #EXTINF:-1,ПИК ТВ
 rtmp://78.140.209.14:1935/live/piktv3pik3tv
+#EXTINF:-1,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 #EXTINF:-1,Ля Минор
@@ -130,12 +142,16 @@ http://vt.freeslynet.online/ch/4knemp/l10u
 http://5.189.57.118:4022//udp/239.255.2.195:1234
 #EXTINF:0,Тлум HD
 http://5.189.57.118:4022//udp/239.255.3.18:1234
-#EXTINF:-1,Тлум HD Gibuy
-http://46.160.131.40:81/udp/239.254.3.18:1234
 #EXTINF:0,Улыбка ребенка
 http://langamepp.com/chtst/9F88D2E7E8B3116B1AE33049B6175776A8BEE3D3DFCFC0E8CA58E1C266A687CC4F3803673806C1DACA56E0F466AD87C6C4FAA78681EE.m3u8
 #EXTINF:0,ANI
 http://hlstv.kuz.211.ru/239.211.211.98/stream.m3u8
 #EXTINF:0,Baby TV
 http://77.120.118.233:8000/4
+
+#EXTINF:-1,Gamanoid HD
+http://vsd4.mycdn.me/hls/104149945029_high/index.m3u8
+#EXTINF:-1,Gameshow
+http://vsd4.mycdn.me/hls/103402834522_high/index.m3u8
+
  
