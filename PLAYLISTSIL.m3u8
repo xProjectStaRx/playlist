@@ -1,0 +1,157 @@
+﻿#EXTM3U
+ 
+#EXTINF:0,iLand
+http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
+#EXTINF:0,Arutz 1
+http://37.142.91.201:9981/stream/channelid/1890778329?ticket=114EB0E2D948616F8254EB4B97F0689A3513C4B3&profile=pass
+#EXTINF:0,Arutz 2
+http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/chunklist.m3u8
+#EXTINF:0,Arutz 2 Gibuy
+http://37.142.91.201:9981/stream/channelid/871333024?ticket=9B6B824A152F73640FF8A906A2F87F69540AE08C&profile=pass
+#EXTINF:0,Arutz 2 news
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
+#EXTINF:0,9 канал Израиль
+rtmp://5.8.52.88/live/ playpath=tv9_id847 swfUrl=http://ovego.tv/uppod/uppod32.swf pageUrl=http://ovego.tv/publ/live_tv/razvlekatelnye/9channel_israel/7-1-0-950
+#EXTINF:0,9 канал Израиль Gibuy
+http://ts://127.0.0.1:81/cgi-bin/rtmp.sh?rtmp://5.8.52.88/live/ playpath=tv9_id847 swfUrl=http://ovego.tv/uppod/uppod32.swf pageUrl=http://ovego.tv/publ/live_tv/razvlekatelnye/9channel_israel/7-1-0-950
+#EXTINF:0,Arutz 10
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8?krasview.ru
+#EXTINF:0,Arutz 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
+#EXTINF:0,Arutz 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
+#EXTINF:0,Shopping Channel
+http://80.244.172.14/ch21Live/ch21Live_med.m3u8
+
+#EXTINF:0,Пятница!
+http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica?krasview.ru
+#EXTINF:-1,Пятница +2
+http://hlstv.kuz.211.ru/239.211.211.21/stream.m3u8
+#EXTINF:0,СТС
+http://0E9B00ECD326CCAC:@t.kraslan.ru/stst2?krasview.ru
+#EXTINF:0,НТВ
+http://0E9B00ECD326CCAC:@t.kraslan.ru/ntvt2?krasview.ru
+#EXTINF:-1,Домашний
+http://vt.freeslynet.online/ch/4knemp/kgv7
+#EXTINF:-1,Домашний +4
+http://hlstv.kuz.211.ru/239.211.4.29/stream.m3u8
+#EXTINF:0,ю
+http://langamepp.com/chtst/5727E7317985914C2640A486CA836B1B6011D6054EF940C2.m3u8
+#EXTINF:0,Ю +3
+http://langamepp.com/chtst/9FDA3E30E2CA5DC5000EA3D9E6D32F3DA8EC0F04D5B68C4B5B7CD6F2D5BD5B60.m3u8
+#EXTINF:0,RTVi
+http://ott2.odessa.tv:7321/index.php?channel=205&key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:0,360hd
+http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
+#EXTINF:0,Точка ТВ
+http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka?krasview.ru
+#EXTINF:-1,Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
+#EXTINF:-1,Euronews UA
+http://vt.freeslynet.online/ch/4knemp/zg6h
+
+#EXTINF:-1,Кинокомедия
+http://vt.freeslynet.online/ch/4knemp/ys4u
+#EXTINF:-1,Киномикс
+http://vt.freeslynet.online/ch/4knemp/17p1
+#EXTINF:-1,Киносвидание
+http://vt.freeslynet.online/ch/4knemp/tsbx
+#EXTINF:-1,Киносемья
+http://vt.freeslynet.online/ch/4knemp/q7l7
+#EXTINF:-1,Кинохит
+http://vt.freeslynet.online/ch/4knemp/itvu
+
+#EXTINF:0,MTV Live HD
+http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
+#EXTINF:-1,MTV
+http://vt.freeslynet.online/ch/4knemp/436m
+#EXTINF:-1,MTV Dance
+http://vt.freeslynet.online/ch/4knemp/xv3m
+#EXTINF:0, MTV Hits
+http://ott2.odessa.tv:7321/index.php?channel=414&key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:-1,MTV Rocks
+http://vt.freeslynet.online/ch/4knemp/ifgw
+#EXTINF:-1,DOT DANCE
+http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u
+#EXTINF:0, VH 1
+http://ott2.odessa.tv:7321/index.php?channel=193&key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:0, Vh1 Classic
+http://ott2.odessa.tv:7321/index.php?channel=415&key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:-1,Europa Plus TV
+http://vt.freeslynet.online/ch/4knemp/ib6k
+#EXTINF:-1,Deluxe Music
+rtmp://91.201.78.3:1935/live/jazzhd
+#EXTINF:-1,POP HD
+rtmp://91.201.78.3:1935/live/pophd
+#EXTINF:0,music-box
+http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box?krasview.ru
+#EXTINF:0,Music box ru
+http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box-ru?krasview.ru
+#EXTINF:-1,MusicBox UA
+http://vt.freeslynet.online/ch/4knemp/9pvu
+#EXTINF:-1,OTV Music
+http://vt.freeslynet.online/ch/4knemp/4ghi
+#EXTINF:0,МУЗ ТВ
+http://0E9B00ECD326CCAC:@t.kraslan.ru/mustvt2?krasview.ru
+#EXTINF:-1,Музыка Первого
+http://vt.freeslynet.online/ch/4knemp/rd8z
+#EXTINF:-1,М1
+http://vt.freeslynet.online/ch/4knemp/wwuo
+#EXTINF:-1,М2
+http://vt.freeslynet.online/ch/4knemp/et34
+#EXTINF:-1,ПИК ТВ
+rtmp://78.140.209.14:1935/live/piktv3pik3tv
+#EXTINF:-1,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1,Ля Минор
+http://vt.freeslynet.online/ch/4knemp/rkzn
+
+#EXTINF:0,Никелодеон-Россия
+http://0E9B00ECD326CCAC:@t.kraslan.ru/nickelodeon?krasview.ru
+#EXTINF:0,Nick Junior
+http://ott2.odessa.tv:7321/index.php?channel=2&key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:0,Boomerang
+http://77.120.118.233:8000/6
+#EXTINF:0,Cartoon Network
+http://vt.freeslynet.online/ch/4knemp/akrc
+#EXTINF:0,Disney Channel
+http://95.27.185.85:4022/udp/233.33.210.7:5050
+#EXTINF:-1,Disney Channel +2
+http://hlstv.kuz.211.ru/239.211.211.24/stream.m3u8
+#EXTINF:-1,Мульт
+http://hlstv.kuz.211.ru/239.211.211.6/stream.m3u8
+#EXTINF:-1,Рыжий
+http://81.30.223.164:8080/play/a031
+#EXTINF:0,Мультимания
+http://0E9B00ECD326CCAC:@t.kraslan.ru/multimania?krasview.ru
+#EXTINF:0,Детский Мир
+http://37.193.14.51:81/udp/239.1.3.7:1234
+#EXTINF:-1,Детский Мир/Телеклуб
+http://vt.freeslynet.online/ch/4knemp/ag2b
+#EXTINF:0,Detskiy
+http://77.120.118.233:8000/1
+#EXTINF:-1,Карусель
+http://vt.freeslynet.online/ch/4knemp/sjec
+#EXTINF:-1,Радость Моя
+http://5.189.57.118:4022//udp/239.255.2.177:1234
+#EXTINF:-1,JimJam
+http://vt.freeslynet.online/ch/4knemp/l10u
+#EXTINF:0,Tiji
+http://5.189.57.118:4022//udp/239.255.2.195:1234
+#EXTINF:0,Тлум HD
+http://5.189.57.118:4022//udp/239.255.3.18:1234
+#EXTINF:0,Улыбка ребенка
+http://langamepp.com/chtst/9F88D2E7E8B3116B1AE33049B6175776A8BEE3D3DFCFC0E8CA58E1C266A687CC4F3803673806C1DACA56E0F466AD87C6C4FAA78681EE.m3u8
+#EXTINF:0,ANI
+http://hlstv.kuz.211.ru/239.211.211.98/stream.m3u8
+#EXTINF:0,Baby TV
+http://77.120.118.233:8000/4
+
+#EXTINF:-1,Gamanoid HD
+http://vsd4.mycdn.me/hls/104149945029_high/index.m3u8
+#EXTINF:-1,Gameshow
+http://vsd4.mycdn.me/hls/103402834522_high/index.m3u8
+
+ 
