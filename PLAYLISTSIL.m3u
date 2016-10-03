@@ -127,8 +127,8 @@ http://hlstv.kuz.211.ru/239.211.211.6/stream.m3u8
 http://81.30.223.164:8080/play/a031
 #EXTINF:0,Мультимания
 http://0E9B00ECD326CCAC:@t.kraslan.ru/multimania?krasview.ru
-#EXTINF:0,Детский Мир
-http://37.193.14.51:81/udp/239.1.3.7:1234
+//#EXTINF:0,Детский Мир
+//http://37.193.14.51:81/udp/239.1.3.7:1234
 //#EXTINF:-1,Детский Мир/Телеклуб
 //http://vt.freeslynet.online/ch/4knemp/ag2b
 #EXTINF:0,Detskiy
@@ -137,14 +137,14 @@ http://77.120.118.233:8000/1
 //http://vt.freeslynet.online/ch/4knemp/sjec
 #EXTINF:-1,Радость Моя
 http://5.189.57.118:4022//udp/239.255.2.177:1234
-#EXTINF:-1,JimJam
-http://vt.freeslynet.online/ch/4knemp/l10u
-#EXTINF:0,Tiji
-http://5.189.57.118:4022//udp/239.255.2.195:1234
+//#EXTINF:-1,JimJam
+//http://vt.freeslynet.online/ch/4knemp/l10u
+//#EXTINF:0,Tiji
+//http://5.189.57.118:4022//udp/239.255.2.195:1234
 #EXTINF:0,Тлум HD
-http://5.189.57.118:4022//udp/239.255.3.18:1234
-#EXTINF:0,Улыбка ребенка
-http://langamepp.com/chtst/9F88D2E7E8B3116B1AE33049B6175776A8BEE3D3DFCFC0E8CA58E1C266A687CC4F3803673806C1DACA56E0F466AD87C6C4FAA78681EE.m3u8
+http://46.160.131.40:81/udp/239.254.3.18:1234
+//#EXTINF:0,Улыбка ребенка
+//http://langamepp.com/chtst/9F88D2E7E8B3116B1AE33049B6175776A8BEE3D3DFCFC0E8CA58E1C266A687CC4F3803673806C1DACA56E0F466AD87C6C4FAA78681EE.m3u8
 #EXTINF:0,ANI
 http://hlstv.kuz.211.ru/239.211.211.98/stream.m3u8
 #EXTINF:0,Baby TV
