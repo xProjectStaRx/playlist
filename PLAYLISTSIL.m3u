@@ -42,14 +42,18 @@ http://langamepp.com/chtst/5727E7317985914C2640A486CA836B1B6011D6054EF940C2.m3u8
 http://langamepp.com/chtst/9FDA3E30E2CA5DC5000EA3D9E6D32F3DA8EC0F04D5B68C4B5B7CD6F2D5BD5B60.m3u8
 #EXTINF:0,RTVi
 http://ott2.odessa.tv:7321/index.php?channel=205&key_ott=5f7690fd0bd330afafb91f331adc46dd
+#EXTINF:-1,RTVI UA
+http://94.158.80.100:9000/play/ch_287_1
 #EXTINF:0,360hd
 http://0E9B00ECD326CCAC:@t.kraslan.ru/360hd
 #EXTINF:0,Точка ТВ
 http://0E9B00ECD326CCAC:@t.kraslan.ru/tochka?krasview.ru
+#EXTINF:DaVinci Learning
+http://94.158.80.100:9000/play/ch_574_1
 #EXTINF:-1,Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
-//#EXTINF:-1,Euronews UA
-//http://vt.freeslynet.online/ch/4knemp/zg6h
+#EXTINF:-1,Euronews UA
+http://94.158.80.100:9000/play/ch_215_1
 
 #EXTINF:-1,Кино ТВ
 http://109.74.166.89:81/udp/239.255.0.124:1234
@@ -63,8 +67,8 @@ http://109.74.166.89:81/udp/239.255.0.128:1234
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mtvlivehd?krasview.ru
 //#EXTINF:-1,MTV
 //http://vt.freeslynet.online/ch/4knemp/436m
-//#EXTINF:-1,MTV Dance
-//http://vt.freeslynet.online/ch/4knemp/xv3m
+#EXTINF:-1,MTV Dance
+http://94.158.80.100:9000/play/ch_264_1
 #EXTINF:0, MTV Hits
 http://ott2.odessa.tv:7321/index.php?channel=414&key_ott=5f7690fd0bd330afafb91f331adc46dd
 //#EXTINF:-1,MTV Rocks
@@ -77,6 +81,8 @@ http://ott2.odessa.tv:7321/index.php?channel=193&key_ott=5f7690fd0bd330afafb91f3
 http://ott2.odessa.tv:7321/index.php?channel=415&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:-1,Europa Plus TV
 http://vt.freeslynet.online/ch/4knemp/ib6k
+#EXTINF:-1,360 Tune Box
+http://94.158.80.100:9000/play/ch_166_1
 #EXTINF:-1,Deluxe Music
 rtmp://91.201.78.3:1935/live/jazzhd
 #EXTINF:-1,POP HD
@@ -93,6 +99,8 @@ http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box-ru?krasview.ru
 http://0E9B00ECD326CCAC:@t.kraslan.ru/mustvt2?krasview.ru
 //#EXTINF:-1,Музыка Первого
 //http://vt.freeslynet.online/ch/4knemp/rd8z
+#EXTINF:-1,Pro BCE
+http://94.158.80.100:9000/play/ch_239_1
 #EXTINF:-1,THT MUSIC
 http://109.74.166.89:81/udp/239.255.0.105:1234
 //#EXTINF:-1,М1
@@ -110,12 +118,14 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 
 #EXTINF:0,Никелодеон-Россия
 http://0E9B00ECD326CCAC:@t.kraslan.ru/nickelodeon?krasview.ru
+#EXTINF:-1,Никелодеон-UA
+http://94.158.80.100:9000/play/ch_397_1
 #EXTINF:0,Nick Junior
 http://ott2.odessa.tv:7321/index.php?channel=2&key_ott=5f7690fd0bd330afafb91f331adc46dd
 #EXTINF:0,Boomerang
 http://77.120.118.233:8000/6
-//#EXTINF:0,Cartoon Network
-//http://vt.freeslynet.online/ch/4knemp/akrc
+#EXTINF:0,Cartoon Network
+http://94.158.80.100:9000/play/ch_188_1
 #EXTINF:0,Disney Channel
 http://95.27.185.85:4022/udp/233.33.210.7:5050
 #EXTINF:-1,Disney Channel +2
@@ -127,11 +137,13 @@ http://81.30.223.164:8080/play/a031
 #EXTINF:0,Мультимания
 http://0E9B00ECD326CCAC:@t.kraslan.ru/multimania?krasview.ru
 #EXTINF:0,Детский Мир
-http://37.194.20.160:81/udp/239.1.3.7:1234
+http://94.158.80.100:9000/play/ch_338_1
 //#EXTINF:-1,Детский Мир/Телеклуб
 //http://vt.freeslynet.online/ch/4knemp/ag2b
 #EXTINF:0,Detskiy
 http://77.120.118.233:8000/1
+#EXTINF:-1,Plus+
+http://94.158.80.100:9000/play/ch_280_1
 #EXTINF:-1,Карусель
 http://37.235.210.170:81/udp/225.50.66.5:1234
 #EXTINF:-1,Радость Моя
