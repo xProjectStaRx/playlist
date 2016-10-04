@@ -19,11 +19,11 @@ http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlis
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
 #EXTINF:0,Arutz 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
-#EXTINF:0,Shopping Channel
-http://80.244.172.14/ch21Live/ch21Live_med.m3u8
+//#EXTINF:0,Shopping Channel
+//http://80.244.172.14/ch21Live/ch21Live_med.m3u8
 
-#EXTINF:-1, ПЕРВЫЙ КАНАЛ
-http://178.78.14.47:2000/udp/239.32.0.1:1234
+#EXTINF:-1, Первый Канал HD
+http://109.74.166.89:81/udp/239.255.0.140:1234
 #EXTINF:0,Пятница!
 http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica?krasview.ru
 #EXTINF:-1,Пятница +2
