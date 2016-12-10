@@ -3,19 +3,19 @@
 #EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 
-#EXTINF:-1,Arutz 1 HD
+#EXTINF:-1,Aruz 1 HD
 http://cdn.tvtogo.co.il:1935/CH_11/smil:C6.smil/chunklist_w79792626_b1200000.m3u8?token=6ae540b8-cdaf-40ff-a7b4-efcc2bd2729a
-#EXTINF:-1,Arutz 2
+#EXTINF:-1,Aruz 2
 http://cdn.tvtogo.co.il:1935/CH_22/smil:C8.smil/chunklist_w449634351_b1200000.m3u8?token=3e39e05e-6ee7-47fb-afcf-bfcc7324f81e
-#EXTINF:0,Arutz 2 news
+#EXTINF:0,Aruz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
-#EXTINF:0,Arutz 10
+#EXTINF:0,Aruz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8?krasview.ru
-#EXTINF:0,Arutz 20
+#EXTINF:0,Aruz 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
-#EXTINF:0,Arutz 24
+#EXTINF:0,Aruz 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
-#EXTINF:0,99 канал Knesset 
+#EXTINF:0,99 Aruz Knesset 
 mmsh://212.235.5.241/knessetlive
 
 
