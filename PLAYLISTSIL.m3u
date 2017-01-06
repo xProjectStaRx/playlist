@@ -2,11 +2,14 @@
  
 #EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
+#EXTINF:0,9 Канал / Израиль+
+rtmp://89.163.134.104:2000/site/anal911_..........
 
-#EXTINF:-1,Aruz 1 HD
-http://cdn.tvtogo.co.il:1935/CH_11/smil:C6.smil/chunklist_w79792626_b1200000.m3u8?token=6ae540b8-cdaf-40ff-a7b4-efcc2bd2729a
 #EXTINF:-1,Aruz 2
-http://cdn.tvtogo.co.il:1935/CH_22/smil:C8.smil/chunklist_w449634351_b1200000.m3u8?token=3e39e05e-6ee7-47fb-afcf-bfcc7324f81e
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
+#EXTINF:-1,Aruz 2 Gibuy
+http://212.5.144.245:4022/udp/239.255.0.1:5000
+
 #EXTINF:0,Aruz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
 #EXTINF:0,Aruz 10
@@ -19,8 +22,6 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
 mmsh://212.235.5.241/knessetlive
 
 
-#EXTINF:-1, Первый Канал
-http://37.235.210.170:81/udp/225.50.66.93:1234
 #EXTINF:0,Пятница!
 http://0E9B00ECD326CCAC:@t.kraslan.ru/piatnica?krasview.ru
 #EXTINF:0,СТС
@@ -32,48 +33,15 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
 
 #EXTINF:-1,POP HD
 rtmp://91.201.78.3:1935/live/pophd
-#EXTINF:0,music-box
-http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box?krasview.ru
-#EXTINF:0,Music box ru
-http://0E9B00ECD326CCAC:@t.kraslan.ru/music-box-ru?krasview.ru
-#EXTINF:0,МУЗ ТВ
-http://0E9B00ECD326CCAC:@t.kraslan.ru/mustvt2?krasview.ru
-#EXTINF:-1,ПИК ТВ
-rtmp://78.140.209.14:1935/live/piktv3pik3tv
 #EXTINF:-1,Fresh TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 
-#EXTINF:0,Nick Junior
-http://ott2.odessa.tv:7321/index.php?channel=2&key_ott=5f7690fd0bd330afafb91f331adc46dd
-#EXTINF:0,Мультимания
-http://0E9B00ECD326CCAC:@t.kraslan.ru/multimania?krasview.ru
-#EXTINF:-1,Радость Моя
-http://5.189.57.118:4022//udp/239.255.2.177:1234
-#EXTINF:0,Tiji
-http://37.194.20.160:81/udp/239.1.3.6:1234
 
-
-#EXTINF:-1,Gamanoid HD
-http://vsd4.mycdn.me/hls/104149945029_high/index.m3u8
-
-
-
-#EXTINF:-1, Az Tv
-http://149.255.152.72/hls-live/livepkgr/aztv/aztv/aztv.m3u8
-
-#EXTINF:-1, Space Tv
-http://149.255.152.72/hls-live/livepkgr/space/space/space.m3u8
 
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,Kanal7
-http://149.255.152.69/hls-live/livepkgr/kanal7/kanal7/kanal7.m3u8
-#EXTINF:-1,Kanal24
-http://149.255.152.69/hls-live/livepkgr/kanal24/kanal24/kanal24.m3u8
-#EXTINF:-1,StarTV
-http://149.255.152.69/hls-live/livepkgr/startv/startv/startv.m3u8
 #EXTINF:0,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:0,TRT SPOR HD
@@ -82,10 +50,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0,TRT TÜRK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:0,TRT AVAZ
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:0,TRT DİYANET
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:0,TRT KURDÎ
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:0,TRT BELGESEL
