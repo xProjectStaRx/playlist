@@ -5,6 +5,14 @@ http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,9 Канал / Израиль+
 rtmp://89.163.134.104:2000/site/anal911_..........
 
+
+#EXTINF:-1,Aruz 1
+http://37.142.91.201:9981/stream/channelid/1661470442?ticket=0E6E1AEBB5A816417017A8200C8368B21D9E6FC4&profile=pass
+#EXTINF:-1,Aruz 2
+http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D756665348DE36168D79B&profile=pass
+
+
+
 #EXTINF:-1,Aruz 2
 http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
 #EXTINF:-1,Aruz 2 Gibuy
