@@ -15,8 +15,10 @@ http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D
 
 #EXTINF:-1,Aruz 2
 http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D756665348DE36168D79B&profile=pass
-#EXTINF:-1,Aruz 2 Gibuy
+#EXTINF:-1,Aruz 2 Gibuy 1
 http://212.5.144.245:4022/udp/239.255.0.1:5000
+#EXTINF:-1,Aruz 2 Gibuy 2
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
 
 #EXTINF:0,Aruz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
