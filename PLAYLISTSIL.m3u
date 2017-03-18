@@ -3,25 +3,21 @@
 #EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,9 Канал / Израиль+
-rtmp://89.163.134.104:2000/site/anal911_..........
+http://s3a.privit.pro:8081/9_izrail/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggd156ef37f74f41af2ab97c1872e34fd4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
+
 
 
 #EXTINF:-1,Aruz 1
 http://37.142.91.201:9981/stream/channelid/1661470442?ticket=0E6E1AEBB5A816417017A8200C8368B21D9E6FC4&profile=pass
-#EXTINF:-1,Aruz 2 Air
-http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D756665348DE36168D79B&profile=pass
-
-
-
 #EXTINF:-1,Aruz 2
 http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D756665348DE36168D79B&profile=pass
+
 #EXTINF:-1,Aruz 2 Gibuy 1
 http://212.5.144.245:4022/udp/239.255.0.1:5000
-#EXTINF:-1,Aruz 2 Gibuy 2
-http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
 
 #EXTINF:0,Aruz 2 news
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_500_av-p.m3u8
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:0,Aruz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8?krasview.ru
 #EXTINF:0,Aruz 20
@@ -35,8 +31,7 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1,Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
 
-#EXTINF:-1,POP HD
-rtmp://91.201.78.3:1935/live/pophd
+
 #EXTINF:-1,Fresh TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:-1,Шансон ТВ
