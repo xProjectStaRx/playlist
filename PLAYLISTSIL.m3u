@@ -31,11 +31,25 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1,Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
 
+#EXTINF:-1,Тлум HD
+http://62.148.136.134:5000/udp/225.33.53.70:5000
+#EXTINF:-1,Детский
+http://cdn-01.bonus-tv.ru/btv/detsky/type/user/devname/LG-SmartTV/devid/LG-1469191513/eol/20200101T00/hash/0fca988f39b64663335d4dbf37524c1c125fdefd/playlist.m3u8
 
 #EXTINF:-1,Fresh TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1,MusicBoxUA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,EU Music
+http://78.26.128.94:7321/index.php
+#EXTINF:-1,Europa Plus TV
+http://188.226.29.168:34040//udp/239.255.2.151:1234
+#EXTINF:-1,Муз ТВ
+http://46.181.116.168:81/udp/239.255.42.105:1234
+#EXTINF:-1,ТНТ Music
+http://cdn-g.bonus-tv.ru/tntmusic/playlist.m3u8
 
 
 
