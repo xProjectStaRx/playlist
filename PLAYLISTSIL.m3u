@@ -40,8 +40,6 @@ http://cdn-01.bonus-tv.ru/btv/detsky/type/user/devname/LG-SmartTV/devid/LG-14691
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF:-1,MusicBoxUA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
 #EXTINF:-1,EU Music
 http://78.26.128.94:7321/index.php
 #EXTINF:-1,Europa Plus TV
