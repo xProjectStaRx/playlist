@@ -3,8 +3,7 @@
 #EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,9 Канал / Израиль+
-http://s3a.privit.pro:8081/9_izrail/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggd156ef37f74f41af2ab97c1872e34fd4T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
-
+http://s3a.privit.pro:8081/9_izrail/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg9c8710ea53433cbc1b022c6726478aa1T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
 
 
