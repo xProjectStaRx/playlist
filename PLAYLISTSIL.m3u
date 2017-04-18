@@ -3,17 +3,15 @@
 #EXTINF:0,iLand
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,9 Канал / Израиль+
-http://s3a.privit.pro:8081/9_izrail/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg9c8710ea53433cbc1b022c6726478aa1T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 
 
 
-#EXTINF:-1,Aruz 1
-http://37.142.91.201:9981/stream/channelid/1661470442?ticket=0E6E1AEBB5A816417017A8200C8368B21D9E6FC4&profile=pass
 #EXTINF:-1,Aruz 2
 http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D756665348DE36168D79B&profile=pass
 
 #EXTINF:-1,Aruz 2 Gibuy 1
-http://212.5.144.245:4022/udp/239.255.0.1:5000
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
 
 #EXTINF:0,Aruz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
