@@ -33,18 +33,20 @@ http://62.148.136.134:5000/udp/225.33.53.70:5000
 #EXTINF:-1,Детский
 http://cdn-01.bonus-tv.ru/btv/detsky/type/user/devname/LG-SmartTV/devid/LG-1469191513/eol/20200101T00/hash/0fca988f39b64663335d4dbf37524c1c125fdefd/playlist.m3u8
 
-#EXTINF:-1,Домашний
-http://auth.nnm-list.ru/h/22/1/1/aHdHSm1pT00rRmgyV1NFWHpFWWdXUm5T/isr
+
+#EXTINF:-1,Первый канал
+http://auth.nnm-list.ru/h/14/1/1/UXdNcTRLcm4rRmlTbE1tNGpTR3FkRC9J/isr
 #EXTINF:-1,НТВ
 http://auth.nnm-list.ru/h/952/1/1/aUFHWE5pT00rRmg5WnNnSFprMGJiYVRr/isr
-#EXTINF:-1,Первый канал
-http://auth.nnm-list.ru/h/14/1/1/aVFIbjBpT00rRmhMQnNIQ3RoQXRjMGM3/isr
+#EXTINF:-1,ТНТ
+http://auth.nnm-list.ru/h/21/1/1/akFFVkhTT00rRmp3blpvUGZVSlNDS0Js/isr
+#EXTINF:-1,Домашний
+http://auth.nnm-list.ru/h/22/1/1/aHdHSm1pT00rRmgyV1NFWHpFWWdXUm5T/isr
 #EXTINF:-1,Россия 1
 http://auth.nnm-list.ru/h/15/1/1/aWdIZnVpT00rRmdTcDNwU0l5ZnJ6cWh5/isr
 #EXTINF:-1,Россия К
 http://auth.nnm-list.ru/h/18/1/1/aXdFYjJ5T00rRmpXWE5adzBqN3dvRzRy/isr
-#EXTINF:-1,ТНТ
-http://auth.nnm-list.ru/h/21/1/1/akFFVkhTT00rRmp3blpvUGZVSlNDS0Js/isr
+
 
 
 #EXTINF:-1,Fresh TV
