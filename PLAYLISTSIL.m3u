@@ -5,8 +5,8 @@ http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,9 Канал / Израиль+
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 
-#EXTINF:0,Aruz 1
-http://62.90.90.37/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1857418976_b1392000.m3u8?ttl=1493056641&cdn_token=d9b9eb3a8d3bdc2de2e13813d582028f
+//#EXTINF:0,Aruz 1
+
 #EXTINF:0,Aruz 2
 http://37.142.91.201:9981/stream/channelid/228405383?ticket=0F200063BAA7851CAD3D756665348DE36168D79B&profile=pass
 #EXTINF:0,Aruz 2 Gibuy 1
