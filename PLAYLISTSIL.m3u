@@ -21,8 +21,6 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
 #EXTINF:0,99 Aruz Knesset 
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:0,i24 News
-https://stream-08.vty.dailymotion.com/40/dm/1/x29atae/live.isml/events/live.m3u8
 #EXTINF:0,Aruz ha-kniyot
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w1042429606_b2128000.m3u8?ttl=1493035864&cdn_token=764dd798ce271452b3ebc159bc72398f
 
