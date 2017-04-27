@@ -5,8 +5,8 @@ http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,9 Канал / Израиль+
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 
-//#EXTINF:0,Aruz 1
-
+#EXTINF:0,Aruz 1
+http://l1.isramedia.net:1935/live/smil:11r.smil/playlist.m3u8
 #EXTINF:0,Aruz 2
 http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
 #EXTINF:0,Aruz 2 news
