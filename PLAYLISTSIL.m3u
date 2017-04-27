@@ -12,8 +12,6 @@ http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/
 #EXTINF:0,Aruz 2 news
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:0,Aruz 10
-http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
-#EXTINF:0,Aruz 10 gibuy
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:mob_,500,800,1000,/chunklist_b800000.m3u8
 #EXTINF:0,Aruz 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
