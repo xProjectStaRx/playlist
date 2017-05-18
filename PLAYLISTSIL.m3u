@@ -5,8 +5,7 @@ http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,9 Канал / Израиль+
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 
-#EXTINF:0,Aruz 1
-http://l1.isramedia.net:1935/live/smil:11r.smil/playlist.m3u8
+
 #EXTINF:0,Aruz 2
 http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8
 #EXTINF:0,Aruz 2 news
@@ -22,49 +21,115 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:0,Aruz ha-kniyot
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w1042429606_b2128000.m3u8?ttl=1493035864&cdn_token=764dd798ce271452b3ebc159bc72398f
 
-#EXTINF:-1,Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
-
 #EXTINF:-1,Тлум HD
 http://62.148.136.134:5000/udp/225.33.53.70:5000
-#EXTINF:-1,Детский
-http://cdn-01.bonus-tv.ru/btv/detsky/type/user/devname/LG-SmartTV/devid/LG-1469191513/eol/20200101T00/hash/0fca988f39b64663335d4dbf37524c1c125fdefd/playlist.m3u8
-
-
-#EXTINF:-1,Первый канал
-http://auth.nnm-list.ru/h/14/1/1/UXdNcTRLcm4rRmlTbE1tNGpTR3FkRC9J/isr
-#EXTINF:-1,НТВ
-http://auth.nnm-list.ru/h/952/1/1/aUFHWE5pT00rRmg5WnNnSFprMGJiYVRr/isr
-#EXTINF:-1,ТНТ
-http://auth.nnm-list.ru/h/21/1/1/akFFVkhTT00rRmp3blpvUGZVSlNDS0Js/isr
-#EXTINF:-1,Домашний
-http://auth.nnm-list.ru/h/22/1/1/aHdHSm1pT00rRmgyV1NFWHpFWWdXUm5T/isr
-#EXTINF:-1,Россия 1
-http://auth.nnm-list.ru/h/15/1/1/aWdIZnVpT00rRmdTcDNwU0l5ZnJ6cWh5/isr
-#EXTINF:-1,Россия К
-http://auth.nnm-list.ru/h/18/1/1/aXdFYjJ5T00rRmpXWE5adzBqN3dvRzRy/isr
 
 #EXTINF:-1,HD Media
 http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1,Luxury
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-
-
-
-
 
 #EXTINF:-1,Fresh TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF:-1,ТНТ Music
-http://cdn-g.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://wow01.105.net/live/rmc1/playlist.m3u8
 #EXTINF:-1,OneBY HD
 http://rtmp.one.by:1300
 #EXTINF:-1,OneRUS HD
 http://rtmp.one.by:2300
+
+
+
+#EXTINF:-1,TV1000
+http://87.76.100.99:5555/play/227
+#EXTINF:-1,TV 1000 ACTION
+http://87.76.100.99:5555/play/225
+#EXTINF:-1,TV 1000 COMEDY
+http://87.76.100.99:5555/play/226
+#EXTINF:-1,ТВ 1000 русское кино
+http://87.76.100.99:5555/play/224
+#EXTINF:-1,VIASAT EXPLORE
+http://87.76.100.99:5555/play/169
+#EXTINF:-1,Viasat history
+http://87.76.100.99:5555/play/170
+#EXTINF:-1,Viasat nature
+http://87.76.100.99:5555/play/171
+#EXTINF:-1,Еврокино
+http://87.76.100.99:5555/play/25
+#EXTINF:-1,XXI
+http://87.76.100.99:5555/play/165
+#EXTINF:-1,RTVi
+http://87.76.100.99:5555/play/157
+#EXTINF:-1,Star sinema
+http://87.76.100.99:5555/play/273
+#EXTINF:-1,BOLT
+http://87.76.100.99:5555/play/283
+#EXTINF:-1,FILMBOX
+http://87.76.100.99:5555/play/195
+#EXTINF:-1,FILMBOX ARTHOUSE
+http://87.76.100.99:5555/play/196
+#EXTINF:-1,Евроспорт
+http://87.76.100.99:5555/play/120
+#EXTINF:-1,Евроспорт 2
+http://87.76.100.99:5555/play/121
+#EXTINF:-1,СПОРТ 1
+http://87.76.100.99:5555/play/82
+#EXTINF:-1,СПОРТ 2
+http://87.76.100.99:5555/play/83
+#EXTINF:-1,XSport
+http://87.76.100.99:5555/play/258
+#EXTINF:-1,Квартал тв
+http://87.76.100.99:5555/play/271
+#EXTINF:-1,1+1
+http://87.76.100.99:5555/play/1
+#EXTINF:-1,R 1
+http://193.8.246.110:8880/play/10007
+#EXTINF:-1,Зоопарк
+http://87.76.100.99:5555/play/29
+#EXTINF:-1,ІНТЕР
+http://87.76.100.99:5555/play/32
+#EXTINF:-1,Мега
+http://87.76.100.99:5555/play/44
+#EXTINF:-1,Новий канал
+http://87.76.100.99:5555/play/58
+#EXTINF:-1,НТН
+http://87.76.100.99:5555/play/60
+#EXTINF:-1,Сонце
+http://87.76.100.99:5555/play/80
+#EXTINF:-1,СТБ
+http://87.76.100.99:5555/play/84
+#EXTINF:-1,ТЕТ
+http://87.76.100.99:5555/play/91
+#EXTINF:-1,Трофей
+http://87.76.100.99:5555/play/95
+#EXTINF:-1,УНІАН
+http://87.76.100.99:5555/play/98
+#EXTINF:-1,ЧП INFO
+http://87.76.100.99:5555/play/102
+#EXTINF:-1,Еко тв
+http://87.76.100.99:5555/play/105
+#EXTINF:-1,Enter-фильм
+http://87.76.100.99:5555/play/116
+#EXTINF:-1,К 1
+http://87.76.100.99:5555/play/136
+#EXTINF:-1,1+1
+http://87.76.100.99:5555/play/173
+#EXTINF:-1,ZOOM
+http://87.76.100.99:5555/play/176
+#EXTINF:-1,Горизонт
+http://87.76.100.99:5555/play/184
+#EXTINF:-1,Animal planet
+http://87.76.100.99:5555/play/188
+#EXTINF:-1,Discovery
+http://87.76.100.99:5555/play/190
+#EXTINF:-1,Правда тут
+http://87.76.100.99:5555/play/217
+#EXTINF:-1,Наука
+http://87.76.100.99:5555/play/264
+#EXTINF:-1,EPOQUE
+http://87.76.100.99:5555/play/265
+
+
 
 
 #EXTINF:0,TRT 1 HD
