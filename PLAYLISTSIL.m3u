@@ -21,11 +21,100 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:0,Aruz ha-kniyot
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w1042429606_b2128000.m3u8?ttl=1493035864&cdn_token=764dd798ce271452b3ebc159bc72398f
 
+#EXTINF:-1,HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+
+#EXTINF:-1,Первый HD
+http://cdnworld.magictvbox.eu/live/live-hd/id_52_qhd/index.m3u8
+#EXTINF:-1,Пятница
+http://178.162.218.85:8081/chas/pyatnica.stream/playlist.m3u8
+#EXTINF:-1,СТС
+http://178.162.218.85:8081/chas/sts.stream/playlist.m3u8
+#EXTINF:-1,СТС +4
+http://2.recaster.bolshoe.tv/sts/sts/playlist.m3u8
+#EXTINF:-1,СТС Love
+http://149.5.6.18:8081/chas/stslove.stream/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://178.162.205.119:8081/chas/tnt.stream/playlist.m3u8
+#EXTINF:-1,Домашний +2
+http://tvsever.ru:1936/live/adm2/playlist.m3u8
+#EXTINF:-1,НТВ (Молдова)
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:-1,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
+#EXTINF:-1,Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,RTR Planeta
+http://149.5.6.18:8081/chas/rtrpl.stream/playlist.m3u8
+#EXTINF:-1,8 Канал
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+#EXTINF:-1,Ю
+http://149.5.6.18:8081/chas/yutv.stream/playlist.m3u8
+#EXTINF:-1,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:-1,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Страна
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:strana.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1,ТВ3
+http://178.162.205.119:8081/chas/tvtri.stream/playlist.m3u8
+
+#EXTINF:-1,Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,LIFE (720p)
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1,RT Doc
+http://cdn-01.bonus-tv.ru/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
+
+
+
+#EXTINF:-1, Nickelodeon
+http://82.200.127.58:8080/udp/239.54.6.69:1224
+#EXTINF:-1, Nick Jr.
+http://82.200.127.58:8080/udp/239.54.7.5:1224
+#EXTINF:-1,Cartoon Network
+http://149.5.6.18:8081/chas/cartoon.stream/playlist.m3u8
+#EXTINF:-1,Disney
+http://178.162.205.85:8081/chas/disney.stream/playlist.m3u8
+#EXTINF:-1,Канал Disney
+http://82.200.127.58:8080/udp/239.54.5.67:1224
+
 #EXTINF:-1,Тлум HD
 http://62.148.136.134:5000/udp/225.33.53.70:5000
 
-#EXTINF:-1,HD Media
-http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,Карусель
+http://149.5.6.18:8081/chas/karusel.stream/playlist.m3u8
+#EXTINF:-1, Детский мир
+http://82.200.127.58:8080/udp/239.54.5.97:1224
+#EXTINF:-1, Детский
+http://82.200.127.58:8080/udp/239.54.5.127:1224
+#EXTINF:-1, Мультимания
+http://82.200.127.58:8080/udp/239.54.5.158:1224
+#EXTINF:-1, Мульт
+http://82.200.127.58:8080/udp/239.54.6.27:1224
+#EXTINF:-1,Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
+#EXTINF:-1,Рыжий
+http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,Сказки Зайки
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,Смайлик ТВ
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,Улыбка Ребенка
+http://109.68.190.192:1935/WEB_SmileTV/SmileTV.stream/playlist.m3u8
+#EXTINF:-1, Мама
+http://82.200.127.58:8080/udp/239.54.5.44:1224
+
 
 #EXTINF:-1,Fresh TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
@@ -40,94 +129,63 @@ http://rtmp.one.by:2300
 
 
 
-#EXTINF:-1,TV1000
-http://87.76.100.99:5555/play/227
-#EXTINF:-1,TV 1000 ACTION
-http://87.76.100.99:5555/play/225
-#EXTINF:-1,TV 1000 COMEDY
-http://87.76.100.99:5555/play/226
-#EXTINF:-1,ТВ 1000 русское кино
-http://87.76.100.99:5555/play/224
-#EXTINF:-1,VIASAT EXPLORE
-http://87.76.100.99:5555/play/169
-#EXTINF:-1,Viasat history
-http://87.76.100.99:5555/play/170
-#EXTINF:-1,Viasat nature
-http://87.76.100.99:5555/play/171
-#EXTINF:-1,Еврокино
-http://87.76.100.99:5555/play/25
-#EXTINF:-1,XXI
-http://87.76.100.99:5555/play/165
-#EXTINF:-1,RTVi
-http://87.76.100.99:5555/play/157
-#EXTINF:-1,Star sinema
-http://87.76.100.99:5555/play/273
-#EXTINF:-1,BOLT
-http://87.76.100.99:5555/play/283
-#EXTINF:-1,FILMBOX
-http://87.76.100.99:5555/play/195
-#EXTINF:-1,FILMBOX ARTHOUSE
-http://87.76.100.99:5555/play/196
-#EXTINF:-1,Евроспорт
-http://87.76.100.99:5555/play/120
-#EXTINF:-1,Евроспорт 2
-http://87.76.100.99:5555/play/121
-#EXTINF:-1,СПОРТ 1
-http://87.76.100.99:5555/play/82
-#EXTINF:-1,СПОРТ 2
-http://87.76.100.99:5555/play/83
-#EXTINF:-1,XSport
-http://87.76.100.99:5555/play/258
-#EXTINF:-1,Квартал тв
-http://87.76.100.99:5555/play/271
-#EXTINF:-1,1+1
-http://87.76.100.99:5555/play/1
-#EXTINF:-1,R 1
-http://193.8.246.110:8880/play/10007
-#EXTINF:-1,Зоопарк
-http://87.76.100.99:5555/play/29
-#EXTINF:-1,ІНТЕР
-http://87.76.100.99:5555/play/32
-#EXTINF:-1,Мега
-http://87.76.100.99:5555/play/44
-#EXTINF:-1,Новий канал
-http://87.76.100.99:5555/play/58
-#EXTINF:-1,НТН
-http://87.76.100.99:5555/play/60
-#EXTINF:-1,Сонце
-http://87.76.100.99:5555/play/80
-#EXTINF:-1,СТБ
-http://87.76.100.99:5555/play/84
-#EXTINF:-1,ТЕТ
-http://87.76.100.99:5555/play/91
-#EXTINF:-1,Трофей
-http://87.76.100.99:5555/play/95
-#EXTINF:-1,УНІАН
-http://87.76.100.99:5555/play/98
-#EXTINF:-1,ЧП INFO
-http://87.76.100.99:5555/play/102
-#EXTINF:-1,Еко тв
-http://87.76.100.99:5555/play/105
-#EXTINF:-1,Enter-фильм
-http://87.76.100.99:5555/play/116
-#EXTINF:-1,К 1
-http://87.76.100.99:5555/play/136
-#EXTINF:-1,1+1
-http://87.76.100.99:5555/play/173
-#EXTINF:-1,ZOOM
-http://87.76.100.99:5555/play/176
-#EXTINF:-1,Горизонт
-http://87.76.100.99:5555/play/184
-#EXTINF:-1,Animal planet
-http://87.76.100.99:5555/play/188
-#EXTINF:-1,Discovery
-http://87.76.100.99:5555/play/190
-#EXTINF:-1,Правда тут
-http://87.76.100.99:5555/play/217
-#EXTINF:-1,Наука
-http://87.76.100.99:5555/play/264
-#EXTINF:-1,EPOQUE
-http://87.76.100.99:5555/play/265
+
+
+
+#EXTINF:-1,HITV
+http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
+#EXTINF:-1,Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:-1,HitMusic
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
+#EXTINF:-1,Kronehit HD
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1,Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
+#EXTINF:-1,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1,OTV
+http://94.158.80.101:8080/otv/stream.m3u8
+#EXTINF:-1,О2 ТВ
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:-1,RU TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-1,RU TV (Молдова)
+http://217.12.116.122/hls/rutv_direct.m3u8
+#EXTINF:-1,Radio 105 TV
+http://tv.105.net/live/105Test1/playlist.m3u8
+#EXTINF:-1,Russian Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
+#EXTINF:-1,Virgin Radio TV
+http://tv.105.net:1935/live/virgin1/index.m3u8
+
+
+
+#EXTINF:-1,Феникс Плюс Кино
+http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
+#EXTINF:-1,НСТ
+http://149.5.6.18:8081/chas/nst.stream/playlist.m3u8
+
+
+
+#EXTINF:-1,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Охотник и Рыболов
+http://62.76.26.81:8081/sport/oir_28/playlist.m3u8
+#EXTINF:-1,Авто 24
+http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
+#EXTINF:-1,Дача
+http://94.158.80.101:8080/gamma/stream.m3u8
 
 
 
