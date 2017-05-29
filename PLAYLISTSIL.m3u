@@ -38,7 +38,7 @@ http://149.5.6.18:8081/chas/stslove.stream/playlist.m3u8
 http://178.162.205.119:8081/chas/tnt.stream/playlist.m3u8
 #EXTINF:-1,Домашний +2
 http://tvsever.ru:1936/live/adm2/playlist.m3u8
-#EXTINF:0,04 НТВ Moldova
+#EXTINF:0,НТВ Moldova
 http://93.115.137.166/hls/ntvm.m3u8
 #EXTINF:-1,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
@@ -77,16 +77,12 @@ http://tv.life.ru/lifetv/720p/index.m3u8
 http://cdn-01.bonus-tv.ru/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
 
 
-#EXTINF:0,04 НТВ
+#EXTINF:0,НТВ
 http://37.235.137.151:81/udp/225.50.66.94:1234
 #EXTINF:0,Zvezda
 http://5.19.217.226:81/udp/235.10.10.178:1234
 #EXTINF:0,РЕН
 http://188.226.22.227:81//udp/239.255.2.68:1234
-#EXTINF:0,Русский Extreme
-http://84.22.153.203:4022/udp/239.192.7.50:1234
-#EXTINF:0,Русский Иллюзион
-http://109.171.86.53:81/udp/239.54.7.161:1224
 #EXTINF:0,Сарафан
 http://178.163.31.100:81/udp/234.0.0.246:2000
 #EXTINF:0,Телекафе
