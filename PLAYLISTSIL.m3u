@@ -99,8 +99,6 @@ http://149.5.6.18:8081/chas/cartoon.stream/playlist.m3u8
 #EXTINF:-1,Disney
 http://178.162.205.85:8081/chas/disney.stream/playlist.m3u8
 
-#EXTINF:0,Ani
-http://84.22.153.203:4022/udp/239.192.7.127:1234
 #EXTINF:0,Boomerang
 http://46.48.5.93:81//udp/239.255.2.144:1234
 #EXTINF:0,Gulli
@@ -177,6 +175,115 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
 #EXTINF:-1,НСТ
 http://149.5.6.18:8081/chas/nst.stream/playlist.m3u8
+
+#EXTINF:-1,AMC
+http://inetcom.tv/get_channel.php?id=396
+#EXTINF:-1,Amedia Premium
+http://inetcom.tv/get_channel.php?id=324
+#EXTINF:-1,А1
+http://inetcom.tv/get_channel.php?id=319
+#EXTINF:-1,А2
+http://inetcom.tv/get_channel.php?id=320
+#EXTINF:-1,TV1000
+http://inetcom.tv/get_channel.php?id=85
+#EXTINF:-1,TV1000 Action
+http://inetcom.tv/get_channel.php?id=86
+#EXTINF:-1,TV1000 Русское кино
+http://inetcom.tv/get_channel.php?id=92 
+#EXTINF:0,TV1000
+http://193.23.58.156:4025/udp/234.1.20.15:1234
+#EXTINF:0,TV1000 Action 
+http://193.23.58.156:4025/udp/234.1.20.14:1234
+#EXTINF:0,TV1000 Русское кино
+http://193.23.58.156:4025/udp/234.1.20.13:1234
+#EXTINF:0,TV1000 Comedy HD
+http://193.23.58.156:4025/udp/234.1.20.52:1234
+#EXTINF:-1,TV 1000 Comedy HD .
+http://cdnworld.magictvbox.eu/live/live-hd/id_43_qhd/index.m3u8
+#EXTINF:-1,TV 1000 Megahit HD .
+http://cdnworld.magictvbox.eu/live/live-hd/id_44_qhd/index.m3u8
+#EXTINF:-1,TV 1000 Premium HD .
+http://cdnworld.magictvbox.eu/live/live-hd/id_45_qhd/index.m3u8
+#EXTINF:-1,KinoTV
+http://82.200.127.58:8080/udp/239.54.6.102:1224
+#EXTINF:-1,Muzhskoe Kino
+http://82.200.127.58:8080/udp/239.54.6.1:1224
+#EXTINF:-1,Киномикс
+http://46.182.86.189:1111/udp/239.42.3.241:1234
+#EXTINF:-1,КИНОХИТ
+http://cdnworld.magictvbox.eu/live/live-sd/id_58_svga/index.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+http://cdnworld.magictvbox.eu/live/live-sd/id_93_svga/index.m3u8
+#EXTINF:-1,ТОЧКА ТВ
+http://91.205.164.201:8181/udp/239.2.1.2:1234
+#EXTINF:-1,НАШЕ ЛЮБИМОЕ КИНО
+http://91.205.164.201:8181/udp/239.2.1.4:1234
+#EXTINF:0,Любимое кино
+http://193.23.58.156:4025/udp/234.1.20.53:1234
+#EXTINF:-1,Любимое кино
+http://46.182.86.189:1111/udp/239.42.0.226:1234
+#EXTINF:-1,Дом Кино
+http://46.182.86.189:1111/udp/239.42.1.232:1234
+#EXTINF:-1,Дом Кино Премиум
+http://inetcom.tv/get_channel.php?id=415
+#EXTINF:-1,Домашний
+http://inetcom.tv/get_channel.php?id=20
+#EXTINF:-1,Еврокино
+http://inetcom.tv/get_channel.php?id=101
+#EXTINF:-1,RTVi Europe
+http://46.182.86.189:1111/udp/239.42.0.225:1234
+#EXTINF:-1,Eurokino
+http://46.182.86.189:1111/udp/239.42.0.233:1234
+#EXTINF:-1,РУССКИЙ ДЕТЕКТИВ
+http://91.205.164.201:8181/udp/239.1.3.4:1234
+#EXTINF:-1,Russkij illuzion
+http://82.200.127.58:8080/udp/239.54.6.161:1224
+#EXTINF:-1,illuzion +
+http://82.200.127.58:8080/udp/239.54.6.162:1224
+#EXTINF:-1,Иллюзион+
+http://inetcom.tv/get_channel.php?id=105
+#EXTINF:-1,TVXXI
+http://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?token=17ae47b5830d8210a971532ab7a1daf6
+#EXTINF:0,FOX
+http://31.130.49.145:4022/udp/224.0.90.81:1234?pulsetv
+#EXTINF:0,Fox Life
+http://31.130.49.145:4022/udp/224.0.90.82:1234?pulsetv
+#EXTINF:-1,Мистика
+http://212.48.90.121:8000/play/676986975454f
+#EXTINF:-1,CINEMA
+http://inetcom.tv/get_channel.php?id=289
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://inetcom.tv/get_channel.php?id=107
+#EXTINF:-1,Кинокомедия
+http://inetcom.tv/get_channel.php?id=109
+#EXTINF:-1,Киномикс
+http://inetcom.tv/get_channel.php?id=389
+#EXTINF:-1,Кинопоказ HD1
+http://inetcom.tv/get_channel.php?id=377
+#EXTINF:-1,Кинопоказ HD2
+http://inetcom.tv/get_channel.php?id=378
+#EXTINF:-1,Кинопремьера
+http://inetcom.tv/get_channel.php?id=363
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://inetcom.tv/get_channel.php?id=361
+#EXTINF:-1,Киносемья
+http://inetcom.tv/get_channel.php?id=367
+#EXTINF:-1,КИНОСЕРИЯ
+http://inetcom.tv/get_channel.php?id=114
+#EXTINF:-1,Кинохит
+http://inetcom.tv/get_channel.php?id=366
+#EXTINF:-1,Мужское кино
+http://inetcom.tv/get_channel.php?id=108
+#EXTINF:-1,Настоящее страшное ТВ
+http://inetcom.tv/get_channel.php?id=116
+#EXTINF:-1,Наше новое кино
+http://inetcom.tv/get_channel.php?id=365
+#EXTINF:-1,Русский детектив
+http://inetcom.tv/get_channel.php?id=393
+#EXTINF:-1,Русский иллюзион
+http://inetcom.tv/get_channel.php?id=104
+#EXTINF:-1,Русский роман
+http://inetcom.tv/get_channel.php?id=279
 
 
 
