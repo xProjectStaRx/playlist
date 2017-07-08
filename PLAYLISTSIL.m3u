@@ -156,44 +156,17 @@ http://inetcom.tv/get_channel.php?id=85
 http://inetcom.tv/get_channel.php?id=86
 #EXTINF:-1,TV1000 Русское кино
 http://inetcom.tv/get_channel.php?id=92 
-#EXTINF:0,TV1000
-http://193.23.58.156:4025/udp/234.1.20.15:1234
-#EXTINF:0,TV1000 Action 
-http://193.23.58.156:4025/udp/234.1.20.14:1234
-#EXTINF:0,TV1000 Русское кино
-http://193.23.58.156:4025/udp/234.1.20.13:1234
-#EXTINF:0,TV1000 Comedy HD
-http://193.23.58.156:4025/udp/234.1.20.52:1234
+
 #EXTINF:-1,KinoTV
 http://82.200.127.58:8080/udp/239.54.6.102:1224
 #EXTINF:-1,Muzhskoe Kino
 http://82.200.127.58:8080/udp/239.54.6.1:1224
-#EXTINF:-1,Киномикс
-http://46.182.86.189:1111/udp/239.42.3.241:1234
-#EXTINF:-1,НАШЕ ЛЮБИМОЕ КИНО
-http://91.205.164.201:8181/udp/239.2.1.4:1234
-#EXTINF:0,Любимое кино
-http://193.23.58.156:4025/udp/234.1.20.53:1234
-#EXTINF:-1,Любимое кино
-http://46.182.86.189:1111/udp/239.42.0.226:1234
-#EXTINF:-1,Дом Кино
-http://46.182.86.189:1111/udp/239.42.1.232:1234
 #EXTINF:-1,Дом Кино Премиум
 http://inetcom.tv/get_channel.php?id=415
 #EXTINF:-1,Домашний
 http://inetcom.tv/get_channel.php?id=20
 #EXTINF:-1,Еврокино
 http://inetcom.tv/get_channel.php?id=101
-#EXTINF:-1,RTVi Europe
-http://46.182.86.189:1111/udp/239.42.0.225:1234
-#EXTINF:-1,Eurokino
-http://46.182.86.189:1111/udp/239.42.0.233:1234
-#EXTINF:-1,РУССКИЙ ДЕТЕКТИВ
-http://91.205.164.201:8181/udp/239.1.3.4:1234
-#EXTINF:-1,Russkij illuzion
-http://82.200.127.58:8080/udp/239.54.6.161:1224
-#EXTINF:-1,illuzion +
-http://82.200.127.58:8080/udp/239.54.6.162:1224
 #EXTINF:-1,Иллюзион+
 http://inetcom.tv/get_channel.php?id=105
 #EXTINF:-1,TVXXI
@@ -202,8 +175,6 @@ http://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?token=17ae47b5830d821
 http://31.130.49.145:4022/udp/224.0.90.81:1234?pulsetv
 #EXTINF:0,Fox Life
 http://31.130.49.145:4022/udp/224.0.90.82:1234?pulsetv
-#EXTINF:-1,Мистика
-http://212.48.90.121:8000/play/676986975454f
 #EXTINF:-1,CINEMA
 http://inetcom.tv/get_channel.php?id=289
 #EXTINF:-1,ИНДИЙСКОЕ КИНО
@@ -251,6 +222,115 @@ http://62.76.26.81:8081/sport/oir_28/playlist.m3u8
 http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
 #EXTINF:-1,Дача
 http://94.158.80.101:8080/gamma/stream.m3u8
+
+
+
+
+#EXTINF:-1,1 КАНАЛ HD
+http://inetcom.tv/get_channel.php?id=294.m3u8
+#EXTINF:-1,РОССИЯ 1HD
+http://inetcom.tv/get_channel.php?id=293.m3u8
+#EXTINF:-1,НТВ HD
+http://inetcom.tv/get_channel.php?id=409.m3u8
+#EXTINF:-1,МИР HD
+http://inetcom.tv/get_channel.php?id=356.m3u8
+#EXTINF:-1,EUREKA HD
+http://inetcom.tv/get_channel.php?id=412.m3u8
+#EXTINF:-1,ДОМ КИНО ПРЕМИУМ HD
+http://inetcom.tv/get_channel.php?id=415.m3u8
+#EXTINF:-1,AMEDIA PREMIUM HD
+http://inetcom.tv/get_channel.php?id=323.m3u8
+#EXTINF:-1,КИНОПОКАЗ HD1
+http://inetcom.tv/get_channel.php?id=377.m3u8
+#EXTINF:-1,КИНОПОКАЗ HD2
+http://inetcom.tv/get_channel.php?id=378.m3u8
+#EXTINF:-1,GINGER HD
+http://inetcom.tv/get_channel.php?id=390.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://inetcom.tv/get_channel.php?id=352.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://inetcom.tv/get_channel.php?id=297.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://inetcom.tv/get_channel.php?id=298.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://inetcom.tv/get_channel.php?id=299.m3u8
+#EXTINF:-1,FOX HD
+http://inetcom.tv/get_channel.php?id=300.m3u8
+#EXTINF:-1,360
+http://inetcom.tv/get_channel.php?id=355.m3u8
+#EXTINF:-1,МОЯ ПЛАНЕТА HD
+http://inetcom.tv/get_channel.php?id=394.m3u8
+#EXTINF:-1,Планета HD
+http://inetcom.tv/get_channel.php?id=394
+#EXTINF:-1,VIASAT HISTORY HD
+http://inetcom.tv/get_channel.php?id=90.m3u8
+#EXTINF:-1,TELETRAVEL HD
+http://inetcom.tv/get_channel.php?id=376.m3u8
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
+http://inetcom.tv/get_channel.php?id=349.m3u8
+#EXTINF:-1,ЕДА HD
+http://inetcom.tv/get_channel.php?id=380.m3u8
+#EXTINF:-1,МАТЧ
+http://inetcom.tv/get_channel.php?id=395.m3u8
+#EXTINF:-1,ФУТБОЛ 1
+http://inetcom.tv/get_channel.php?id=372.m3u8
+#EXTINF:-1,ФУТБОЛ 2
+http://inetcom.tv/get_channel.php?id=374.m3u8
+#EXTINF:-1,ФУТБОЛ 3
+http://inetcom.tv/get_channel.php?id=375.m3u8
+#EXTINF:-1,ИГРА
+http://inetcom.tv/get_channel.php?id=399.m3u8
+#EXTINF:-1,АРЕНА 
+http://inetcom.tv/get_channel.php?id=263.m3u8
+#EXTINF:-1,НАШ ФУТБОЛ
+http://inetcom.tv/get_channel.php?id=315.m3u8
+#EXTINF:-1,НАШ СПОРТ
+http://inetcom.tv/get_channel.php?id=401.m3u8
+#EXTINF:0,Первый HD 
+http://89.17.141.236:1957/ramdisk/perviy_hd.m3u8
+#EXTINF:0,Россия HD 
+http://89.17.141.236:1957/ramdisk/rossia_hd.m3u8
+#EXTINF:0,НТВ HD 
+http://89.17.141.236:1957/ramdisk/ntv_hd.m3u8
+#EXTINF:0,ТНТ HD 
+http://46.239.218.131:1957/ramdisk/tnt_hd.m3u8
+#EXTINF:0,Дом Кино премиум HD 
+http://89.160.222.14:1957/ramdisk/dom_kino_premium_hd.m3u8
+#EXTINF:0,Наш детектив HD 
+http://89.160.222.14:1957/ramdisk/semeynoe_hd.m3u8
+#EXTINF:0,Наш кинороман HD 
+http://89.17.141.236:1957/ramdisk/nashe_hd.m3u8
+#EXTINF:0,Страшное HD 
+http://89.17.141.236:1957/ramdisk/strashnoe_hd.m3u8
+#EXTINF:0,Матч HD 
+http://89.160.222.14:1957/ramdisk/match_hd.m3u8
+#EXTINF:0,Футбол 1 HD 
+http://89.160.222.14:1957/ramdisk/football1_hd.m3u8
+#EXTINF:-1,КХЛ HD 
+http://89.160.222.14:1957/ramdisk/khl_hd.m3u8
+#EXTINF:0,Охотник и рыболов HD 
+http://89.160.222.14:1957/ramdisk/ohotnik_i_ribolov_hd.m3u8
+#EXTINF:0,Живая природа HD 
+http://89.160.222.14:1957/ramdisk/givaia_priroda_hd.m3u8
+#EXTINF:0,Nat Geo HD 
+http://46.239.218.131:1957/ramdisk/nat_geo_hd.m3u8
+#EXTINF:0,Телепутешествия HD 
+http://89.160.222.14:1957/ramdisk/trevel_hd.m3u8
+#EXTINF:0,Еда HD 
+http://89.160.222.14:1957/ramdisk/eda_hd.m3u8
+#EXTINF:0,Ginger HD 
+http://46.239.218.131:1957/ramdisk/ginger_hd.m3u8
+#EXTINF:0,RT HD 
+http://89.160.222.14:1957/ramdisk/rt_hd.m3u8
+#EXTINF:-1, MyZen.tv HD
+http://195.189.249.6:8000/play/a00n/index.m3u8
+#EXTINF:0,Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
+#EXTINF:0,Охотник и рыболов HD 
+http://89.160.222.14:1957/ramdisk/ohotnik_i_ribolov_hd.m3u8
+
+
+
 
 
 
