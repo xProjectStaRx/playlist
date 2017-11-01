@@ -23,10 +23,9 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:0,Aruz ha-kniyot
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w1042429606_b2128000.m3u8?ttl=1493035864&cdn_token=764dd798ce271452b3ebc159bc72398f
 
-#EXTINF:-1,HD Media
-http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
 
-
+#EXTINF:-1,Первый
+http://live.mediabay.tv/d03c796b3b7106ef786ed584bfa722b8/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc2424382658ed41ddb7e05b38dbc129660339840bc00d19f612349ec75d5d666c2d8be8220619aa9d8ae1a799e7f35513788/chunklist.m3u8
 #EXTINF:-1,СТС +4
 http://2.recaster.bolshoe.tv/sts/sts/playlist.m3u8
 #EXTINF:-1,Домашний +2
@@ -39,8 +38,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u
-#EXTINF:-1,CITY TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Мир HD
@@ -50,41 +47,25 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:strana.smil/chunklist_b1600000.m
 #EXTINF:-1,К1
 http://109.68.40.67/life/k1.m3u8
 
+#EXTINF:-1,HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
 
 #EXTINF:-1,Москва 24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1,LIFE (720p)
-http://tv.life.ru/lifetv/720p/index.m3u8
 
 #EXTINF:-1,RT Doc
 http://cdn-01.bonus-tv.ru/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
 
 
-#EXTINF:0,НТВ
-http://37.235.137.151:81/udp/225.50.66.94:1234
 #EXTINF:0,Zvezda
 http://5.19.217.226:81/udp/235.10.10.178:1234
-#EXTINF:0,РЕН
-http://188.226.22.227:81//udp/239.255.2.68:1234
-#EXTINF:0,Сарафан
-http://178.163.31.100:81/udp/234.0.0.246:2000
-#EXTINF:0,Че
-http://188.134.88.158:81/udp/235.10.10.7:1234
 
 
 
-
-
-
-#EXTINF:0,Boomerang
-http://46.48.5.93:81//udp/239.255.2.144:1234
 #EXTINF:0,Gulli
 http://213.231.3.148:1111/udp/224.5.4.23:1234
 #EXTINF:0,JimJam
 http://37.193.127.5:81/udp/239.1.3.2:1234
-
-
 #EXTINF:-1,Рыжий
 http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ
@@ -94,16 +75,14 @@ http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 
 #EXTINF:-1,Fresh TV
 http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 #EXTINF:-1,RADIO MONTE CARLO TV
 http://wow01.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1,OneBY HD
-http://rtmp.one.by:1300
 #EXTINF:-1,OneRUS HD
 http://rtmp.one.by:2300
-
-
 
 
 
@@ -112,8 +91,6 @@ http://rtmp.one.by:2300
 http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
 #EXTINF:-1,Heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
-#EXTINF:-1,Hit TV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:-1,HitMusic
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1,ТНТ Music
@@ -128,12 +105,8 @@ http://212.26.132.86/hls/mb_ua_2500.m3u8
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:-1,Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:-1,OTV
-http://94.158.80.101:8080/otv/stream.m3u8
 #EXTINF:-1,О2 ТВ
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
-#EXTINF:-1,RU TV
-http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
 #EXTINF:-1,RU TV (Молдова)
 http://217.12.116.122/hls/rutv_direct.m3u8
 #EXTINF:-1,Radio 105 TV
@@ -144,336 +117,29 @@ http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
 http://tv.105.net:1935/live/virgin1/index.m3u8
 
 
-#EXTINF:-1,AMC
-http://inetcom.tv/get_channel.php?id=396
-#EXTINF:-1,Amedia Premium
-http://inetcom.tv/get_channel.php?id=324
-#EXTINF:-1,А1
-http://inetcom.tv/get_channel.php?id=319
-#EXTINF:-1,А2
-http://inetcom.tv/get_channel.php?id=320
-#EXTINF:-1,TV1000
-http://inetcom.tv/get_channel.php?id=85
-#EXTINF:-1,TV1000 Action
-http://inetcom.tv/get_channel.php?id=86
-#EXTINF:-1,TV1000 Русское кино
-http://inetcom.tv/get_channel.php?id=92 
-
-#EXTINF:-1,KinoTV
-http://82.200.127.58:8080/udp/239.54.6.102:1224
-#EXTINF:-1,Muzhskoe Kino
-http://82.200.127.58:8080/udp/239.54.6.1:1224
-#EXTINF:-1,Дом Кино Премиум
-http://inetcom.tv/get_channel.php?id=415
-#EXTINF:-1,Домашний
-http://inetcom.tv/get_channel.php?id=20
-#EXTINF:-1,Еврокино
-http://inetcom.tv/get_channel.php?id=101
-#EXTINF:-1,Иллюзион+
-http://inetcom.tv/get_channel.php?id=105
-#EXTINF:-1,TVXXI
-http://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?token=17ae47b5830d8210a971532ab7a1daf6
-#EXTINF:0,FOX
-http://31.130.49.145:4022/udp/224.0.90.81:1234?pulsetv
-#EXTINF:0,Fox Life
-http://31.130.49.145:4022/udp/224.0.90.82:1234?pulsetv
-#EXTINF:-1,CINEMA
-http://inetcom.tv/get_channel.php?id=289
-#EXTINF:-1,ИНДИЙСКОЕ КИНО
-http://inetcom.tv/get_channel.php?id=107
-#EXTINF:-1,Кинокомедия
-http://inetcom.tv/get_channel.php?id=109
-#EXTINF:-1,Киномикс
-http://inetcom.tv/get_channel.php?id=389
-#EXTINF:-1,Кинопоказ HD1
-http://inetcom.tv/get_channel.php?id=377
-#EXTINF:-1,Кинопоказ HD2
-http://inetcom.tv/get_channel.php?id=378
-#EXTINF:-1,Кинопремьера
-http://inetcom.tv/get_channel.php?id=363
-#EXTINF:-1,КИНОСВИДАНИЕ
-http://inetcom.tv/get_channel.php?id=361
-#EXTINF:-1,Киносемья
-http://inetcom.tv/get_channel.php?id=367
-#EXTINF:-1,КИНОСЕРИЯ
-http://inetcom.tv/get_channel.php?id=114
-#EXTINF:-1,Кинохит
-http://inetcom.tv/get_channel.php?id=366
-#EXTINF:-1,Мужское кино
-http://inetcom.tv/get_channel.php?id=108
-#EXTINF:-1,Настоящее страшное ТВ
-http://inetcom.tv/get_channel.php?id=116
-#EXTINF:-1,Наше новое кино
-http://inetcom.tv/get_channel.php?id=365
-#EXTINF:-1,Русский детектив
-http://inetcom.tv/get_channel.php?id=393
-#EXTINF:-1,Русский иллюзион
-http://inetcom.tv/get_channel.php?id=104
-#EXTINF:-1,Русский роман
-http://inetcom.tv/get_channel.php?id=279
-
 
 
 #EXTINF:-1,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Охотник и Рыболов
-http://62.76.26.81:8081/sport/oir_28/playlist.m3u8
-#EXTINF:-1,Авто 24
-http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
-#EXTINF:-1,Дача
-http://94.158.80.101:8080/gamma/stream.m3u8
-
-
-
-
-#EXTINF:-1,1 КАНАЛ HD
-http://inetcom.tv/get_channel.php?id=294.m3u8
-#EXTINF:-1,РОССИЯ 1HD
-http://inetcom.tv/get_channel.php?id=293.m3u8
-#EXTINF:-1,НТВ HD
-http://inetcom.tv/get_channel.php?id=409.m3u8
-#EXTINF:-1,МИР HD
-http://inetcom.tv/get_channel.php?id=356.m3u8
-#EXTINF:-1,EUREKA HD
-http://inetcom.tv/get_channel.php?id=412.m3u8
-#EXTINF:-1,ДОМ КИНО ПРЕМИУМ HD
-http://inetcom.tv/get_channel.php?id=415.m3u8
-#EXTINF:-1,AMEDIA PREMIUM HD
-http://inetcom.tv/get_channel.php?id=323.m3u8
-#EXTINF:-1,КИНОПОКАЗ HD1
-http://inetcom.tv/get_channel.php?id=377.m3u8
-#EXTINF:-1,КИНОПОКАЗ HD2
-http://inetcom.tv/get_channel.php?id=378.m3u8
-#EXTINF:-1,GINGER HD
-http://inetcom.tv/get_channel.php?id=390.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://inetcom.tv/get_channel.php?id=352.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://inetcom.tv/get_channel.php?id=297.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://inetcom.tv/get_channel.php?id=298.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://inetcom.tv/get_channel.php?id=299.m3u8
-#EXTINF:-1,FOX HD
-http://inetcom.tv/get_channel.php?id=300.m3u8
-#EXTINF:-1,360
-http://inetcom.tv/get_channel.php?id=355.m3u8
-#EXTINF:-1,МОЯ ПЛАНЕТА HD
-http://inetcom.tv/get_channel.php?id=394.m3u8
-#EXTINF:-1,Планета HD
-http://inetcom.tv/get_channel.php?id=394
-#EXTINF:-1,VIASAT HISTORY HD
-http://inetcom.tv/get_channel.php?id=90.m3u8
-#EXTINF:-1,TELETRAVEL HD
-http://inetcom.tv/get_channel.php?id=376.m3u8
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
-http://inetcom.tv/get_channel.php?id=349.m3u8
-#EXTINF:-1,ЕДА HD
-http://inetcom.tv/get_channel.php?id=380.m3u8
-#EXTINF:-1,МАТЧ
-http://inetcom.tv/get_channel.php?id=395.m3u8
-#EXTINF:-1,ФУТБОЛ 1
-http://inetcom.tv/get_channel.php?id=372.m3u8
-#EXTINF:-1,ФУТБОЛ 2
-http://inetcom.tv/get_channel.php?id=374.m3u8
-#EXTINF:-1,ФУТБОЛ 3
-http://inetcom.tv/get_channel.php?id=375.m3u8
-#EXTINF:-1,ИГРА
-http://inetcom.tv/get_channel.php?id=399.m3u8
-#EXTINF:-1,АРЕНА 
-http://inetcom.tv/get_channel.php?id=263.m3u8
-#EXTINF:-1,НАШ ФУТБОЛ
-http://inetcom.tv/get_channel.php?id=315.m3u8
-#EXTINF:-1,НАШ СПОРТ
-http://inetcom.tv/get_channel.php?id=401.m3u8
-#EXTINF:0,Первый HD 
-http://89.17.141.236:1957/ramdisk/perviy_hd.m3u8
-#EXTINF:0,Россия HD 
-http://89.17.141.236:1957/ramdisk/rossia_hd.m3u8
-#EXTINF:0,НТВ HD 
-http://89.17.141.236:1957/ramdisk/ntv_hd.m3u8
-#EXTINF:0,ТНТ HD 
-http://46.239.218.131:1957/ramdisk/tnt_hd.m3u8
-#EXTINF:0,Дом Кино премиум HD 
-http://89.160.222.14:1957/ramdisk/dom_kino_premium_hd.m3u8
-#EXTINF:0,Наш детектив HD 
-http://89.160.222.14:1957/ramdisk/semeynoe_hd.m3u8
-#EXTINF:0,Наш кинороман HD 
-http://89.17.141.236:1957/ramdisk/nashe_hd.m3u8
-#EXTINF:0,Страшное HD 
-http://89.17.141.236:1957/ramdisk/strashnoe_hd.m3u8
-#EXTINF:0,Матч HD 
-http://89.160.222.14:1957/ramdisk/match_hd.m3u8
-#EXTINF:0,Футбол 1 HD 
-http://89.160.222.14:1957/ramdisk/football1_hd.m3u8
-#EXTINF:-1,КХЛ HD 
-http://89.160.222.14:1957/ramdisk/khl_hd.m3u8
-#EXTINF:0,Охотник и рыболов HD 
-http://89.160.222.14:1957/ramdisk/ohotnik_i_ribolov_hd.m3u8
-#EXTINF:0,Живая природа HD 
-http://89.160.222.14:1957/ramdisk/givaia_priroda_hd.m3u8
-#EXTINF:0,Nat Geo HD 
-http://46.239.218.131:1957/ramdisk/nat_geo_hd.m3u8
-#EXTINF:0,Телепутешествия HD 
-http://89.160.222.14:1957/ramdisk/trevel_hd.m3u8
-#EXTINF:0,Еда HD 
-http://89.160.222.14:1957/ramdisk/eda_hd.m3u8
-#EXTINF:0,Ginger HD 
-http://46.239.218.131:1957/ramdisk/ginger_hd.m3u8
-#EXTINF:0,RT HD 
-http://89.160.222.14:1957/ramdisk/rt_hd.m3u8
-#EXTINF:-1, MyZen.tv HD
-http://195.189.249.6:8000/play/a00n/index.m3u8
-#EXTINF:0,Трофей HD
-http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
-#EXTINF:0,Охотник и рыболов HD 
-http://89.160.222.14:1957/ramdisk/ohotnik_i_ribolov_hd.m3u8
 
 
 
 
 
-
-#EXTINF:0, vl-il-ch8
-http://193.8.246.77:8002/play/37887/index.m3u8
-#EXTINF:0, Sport 5 GOLD
-http://193.8.246.77:8002/play/7702435/index.m3u8
-#EXTINF:0, vl-il-disney-jr
-http://193.8.246.77:8002/play/67887/index.m3u8
-#EXTINF:0, Bollywood
-http://193.8.246.77:8002/play/77024681/index.m3u8
-#EXTINF:0, vl-il-history
-http://193.8.246.77:8002/play/17887/index.m3u8
-#EXTINF:0, vl-il-yes-docu
-http://193.8.246.77:8002/play/437887/index.m3u8
-#EXTINF:0, Ego Total
-http://193.8.246.77:8002/play/7702465/index.m3u8
-#EXTINF:0, vl-il-fox-sport
-http://193.8.246.77:8002/play/77887/index.m3u8
-#EXTINF:0, vl-il-action
-http://193.8.246.77:8002/play/87887/index.m3u8
-#EXTINF:0, Nat Geo Wild IL
-http://193.8.246.77:8002/play/7702443/index.m3u8
-#EXTINF:0, vl-il-films
-http://193.8.246.77:8002/play/21003/index.m3u8
-#EXTINF:0, vl-il-fun
-http://193.8.246.77:8002/play/137887/index.m3u8
-#EXTINF:0, Nat Geo HD IL
-http://193.8.246.77:8002/play/7702444/index.m3u8
-#EXTINF:0, vl-il-music24
-http://193.8.246.77:8002/play/277887/index.m3u8
-#EXTINF:0, vl-il-yes3
-http://193.8.246.77:8002/play/377887/index.m3u8
-#EXTINF:0, HBO HD
-http://193.8.246.77:8002/play/7702138/index.m3u8
-#EXTINF:0, vl-il-hot3
-http://193.8.246.77:8002/play/177887/index.m3u8
-#EXTINF:0, vl-il-zoom
-http://193.8.246.77:8002/play/467887/index.m3u8
-#EXTINF:0, vl-il-yes-comedy
-http://193.8.246.77:8002/play/427887/index.m3u8
-#EXTINF:0, vl-il-viva
-http://193.8.246.77:8002/play/327887/index.m3u8
-#EXTINF:0, HOT Bombey
-http://193.8.246.77:8002/play/a004/index.m3u8
-#EXTINF:0, vl-il-yes2-heb
-http://193.8.246.77:8002/play/21004/index.m3u8
-#EXTINF:0, vl-il-health
-http://193.8.246.77:8002/play/227887/index.m3u8
-#EXTINF:0, vl-il-zone
-http://193.8.246.77:8002/play/167887/index.m3u8
-#EXTINF:0, vl-il-yes2
-http://193.8.246.77:8002/play/367887/index.m3u8
-#EXTINF:0, vl-il-logi
-http://193.8.246.77:8002/play/267887/index.m3u8
-#EXTINF:0, vl-il-hot-cinema
-http://193.8.246.77:8002/play/197887/index.m3u8
-#EXTINF:0, vl-il-sport2
-http://193.8.246.77:8002/play/297887/index.m3u8
-#EXTINF:0, vl-il-travel
-http://193.8.246.77:8002/play/317887/index.m3u8
-#EXTINF:0, vl-il-yes-action
-http://193.8.246.77:8002/play/417887/index.m3u8
-#EXTINF:0, vl-il-yes4-heb
-http://193.8.246.77:8002/play/21009/index.m3u8
-#EXTINF:0, vl-il-one
-http://193.8.246.77:8002/play/47878/index.m3u8
-#EXTINF:0, Arutz HaYeladim
-http://193.8.246.77:8002/play/7702219/index.m3u8
-#EXTINF:0, HOT Prime
-http://193.8.246.77:8002/play/a002/index.m3u8
-#EXTINF:0, Sport 5+ Live HD
-http://193.8.246.77:8002/play/770288/index.m3u8
-#EXTINF:0, vl-il-drama
-http://193.8.246.77:8002/play/117887/index.m3u8
-#EXTINF:0, vl-il-amc
-http://193.8.246.77:8002/play/217887/index.m3u8
-#EXTINF:0, vl-il-yes1-heb
-http://193.8.246.77:8002/play/21005/index.m3u8
-#EXTINF:0, HOT PLUS+
-http://193.8.246.77:8002/play/157887/index.m3u8
-#EXTINF:0, vl-il-yes1
-http://193.8.246.77:8002/play/357887/index.m3u8
-#EXTINF:0, WIZ
-http://193.8.246.77:8002/play/7702446/index.m3u8
-#EXTINF:0, vl-il-yes4
-http://193.8.246.77:8002/play/587887/index.m3u8
-#EXTINF:0, Sport4
-http://193.8.246.77:8002/play/7702461/index.m3u8
-#EXTINF:0, vl-il-bombey
-http://193.8.246.77:8002/play/21002/index.m3u8
-#EXTINF:0, vl-il-yam
-http://193.8.246.77:8002/play/347887/index.m3u8
-#EXTINF:0, vl-il-children
-http://193.8.246.77:8002/play/57887/index.m3u8
-#EXTINF:0, vl-il-yes5
-http://193.8.246.77:8002/play/407887/index.m3u8
-#EXTINF:0, vl-il-junior
-http://193.8.246.77:8002/play/307887/index.m3u8
-#EXTINF:0, vl-il-mikan
-http://193.8.246.77:8002/play/207887/index.m3u8
-#EXTINF:0, vl-il-good-life
-http://193.8.246.77:8002/play/907887/index.m3u8
-#EXTINF:0, vl-il-bollywood
-http://193.8.246.77:8002/play/27887/index.m3u8
-#EXTINF:0, vl-il-yes-oh
-http://193.8.246.77:8002/play/457887/index.m3u8
-#EXTINF:0, vl-il-yes3-heb
-http://193.8.246.77:8002/play/21006/index.m3u8
-#EXTINF:0, vl-il-prime
-http://193.8.246.77:8002/play/21001/index.m3u8
-#EXTINF:0, VIVA
-http://193.8.246.77:8002/play/a005/index.m3u8
-#EXTINF:0, vl-il-comedy-cnt / Comedy Central HD
-http://193.8.246.77:8002/play/97887/index.m3u8
-#EXTINF:0, Yaldut_Israelit
-http://193.8.246.77:8002/play/77020469/index.m3u8
-#EXTINF:0, vl-il-discovery
-http://193.8.246.77:8002/play/107887/index.m3u8
-#EXTINF:0, Sport3 
-http://193.8.246.77:8002/play/7702463/index.m3u8
-#EXTINF:0, vl-il-home-plus
-http://193.8.246.77:8002/play/237887/index.m3u8
-#EXTINF:0, Food Channel
-http://193.8.246.77:8002/play/7702400/index.m3u8
-#EXTINF:0, vl-il-hot-entert
-http://193.8.246.77:8002/play/247887/index.m3u8
-#EXTINF:0, vl-il-gold
-http://193.8.246.77:8002/play/147887/index.m3u8
-#EXTINF:0, vl-il-5sport
-http://193.8.246.77:8002/play/1507/index.m3u8
-#EXTINF:0, vl-il-yes-drama / YES DRAMA
-http://193.8.246.77:8002/play/447887/index.m3u8
-#EXTINF:0, vl-il-viva-plus
-http://193.8.246.77:8002/play/337887/index.m3u8
-#EXTINF:0, vl-il-sport1
-http://193.8.246.77:8002/play/287887/index.m3u8
-#EXTINF:0, vl-il-luli
-http://193.8.246.77:8002/play/187887/index.m3u8
-#EXTINF:0, HOT Films
-http://193.8.246.77:8002/play/a003/index.m3u8
+#EXTINF:-1,AzTV
+http://live.mediabay.tv/5f7dac6c15bb3672a9fb1de40c70e757/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc242487da2966def1df8294e2070833da0dc3b2b68fc292f69dc8767cbff0f864fc4e4df52784f837ba811cbc6decf2a6298/chunklist.m3u8
+#EXTINF:-1,Azad Azərbaycan TV
+http://live.mediabay.tv/e76f60b402ba83cdc8562f4b059b8e7c/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc242347ef707c468d3967ede5d54218fb9ce905d85442fcb66535c3895529851db6d0ef142ebc4df6bed5eb2324343c65b15/chunklist.m3u8
+#EXTINF:-1,Medeniyyet - AZ
+http://live.mediabay.tv/e830e43d37ca2a2daf8f43188d2b0508/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc2429b640c58f2776ba3120f84f220e341a715214c97617aaec3f0d0b4fd631464a22e911e273f956f5e9caa9a86b92c4552b9b4445a6823cb7da31a852813e68e3d/chunklist.m3u8
+#EXTINF:-1,Lider TV - AZ
+http://live.mediabay.tv/e7527d1c809d2cfddb7cc1648778af68/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc24298e88b4d120ff889f25b02a54551abd7a830c064daf2cf7b180296894ffd9b5be103fa309a6852d4d983ac356279d1d5/chunklist.m3u8
+#EXTINF:-1,Xəzər - AZ
+http://live.mediabay.tv/209e2c519cbb1a6120afd763dbad7682/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc24210392ebd1cbcaa12bc8d1e7ae2088ee00750c8eff7e7d2e752a9a9597c4cc578db31ca4280ca11781a69e2b76a83313b/chunklist.m3u8
+#EXTINF:-1,Caspian Broadcasting Company - AZ
+http://live.mediabay.tv/b8a5b7c84b2730c954533c356e61ceda/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc242b06b61933b3fbaaa479ff84a05f8ccc98cb86616ddef5ab0a0e919c0273c1ac0543a622f70b0a5b453364d47dc01b782/chunklist.m3u8
 
 
 
