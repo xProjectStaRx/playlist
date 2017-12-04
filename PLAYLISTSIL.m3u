@@ -20,12 +20,19 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
 
 
-
-
+#EXTINF:-1,Первый
+http://50.7.128.107:8081/perkanal/index.m3u8?wmsAuthSign=1512431896Sa2d78897d64f562a8ab3917e515ebdabS28h861h931h77
 #EXTINF:-1,Домашний +2
 http://tvsever.ru:1936/live/adm2/playlist.m3u8
+#EXTINF:0,НТВ
+http://50.7.128.107:8081/ntv/index.m3u8?wmsAuthSign=1512432208S0c62942b5128045df16b6097e4fca637S28h861h931h77
 #EXTINF:0,НТВ Moldova
 http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:СТС
+http://50.7.180.66:8081/sts/index.m3u8?wmsAuthSign=1512432276S65bdc56ed77411f49df845489a90e658S28h861h931h77
+#EXTINF:ТНТ
+http://50.7.128.107:8081/tnt/index.m3u8?wmsAuthSign=1512432339S57e920eaf0f9c3da20ec2ee3dc4049caS28h861h931h77
+
 #EXTINF:-1,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия 24
@@ -62,6 +69,16 @@ http://37.193.127.5:81/udp/239.1.3.2:1234
 http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+
+#EXTINF:-1,Ani
+http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
+#EXTINF:-1,Ералаш
+http://50.7.180.66:8081/eralah/index.m3u8?wmsAuthSign=1512433044S18dd5382ed27b0c2b84aa709aaa7386cS28h861h931h77
+#EXTINF:-1,Nicelodeon
+http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296388162350296234678e5f21S28h861h931h77
+#EXTINF:-1,Tiji
+http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
+
 
 
 
@@ -113,10 +130,24 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 
 #EXTINF:-1,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Travel
+http://50.7.128.107:8081/travel/index.m3u8?wmsAuthSign=1512433236S449174339afcb12299b46d533c7a32d7S28h861h931h77
+#EXTINF:-1,Travel and Adventure
+http://50.7.180.66:8081/traveladve/tracks-1,2/index.m3u8?wmsAuthSign=1512433131Sf5e9b654d24d5b6cebf6ebd5d0305747S28h861h931h77
 #EXTINF:-1,Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-
-
+#EXTINF:-1,History
+http://50.7.128.107:8081/history/index.m3u8?wmsAuthSign=1512432428S27879e44df45648c5051a68cf8e404a4S28h861h931h77
+#EXTINF:-1,История
+http://50.7.180.66:8081/istoriya/index.m3u8?wmsAuthSign=1512432894Sc16b37b5cb576d8f0621a4a7e4a2012dS28h861h931h77
+#EXTINF:-1,National Geographic
+http://50.7.128.107:8081/nat_geogra/tracks-1,2/index.m3u8?wmsAuthSign=1512432584S34f89ad5772aa0a33aad57764b343141S28h861h931h77
+#EXTINF:-1,Discovery
+http://50.7.128.107:8081/discovery/2017/12/04/20/10/17-05320.ts?wmsAuthSign=1512432649Sd8c1320e3343b65deda0b4981a6723c1S28h861h931h77
+#EXTINF:-1,Discovery Science
+http://50.7.180.66:8081/discovery_science/tracks-1,2/index.m3u8?wmsAuthSign=1512432739Sb46bc7cfa5d983b0733f59cf2bc36110S28h861h931h77
+#EXTINF:-1,Animal Planet
+http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4cf6189e2dd0edfd8cffb9efe9cS28h861h931h77
 
 
 
