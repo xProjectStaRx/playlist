@@ -4,13 +4,15 @@
 http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 #EXTINF:0,9 Канал / Израиль+
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
-#EXTINF:-1,Kan 11
+#EXTINF:-1 tvg-logo=”https://s29.postimg.org/6wjioj90n/1200px-_Kan11svg.svg.png", Kan 11
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1,Keshet 12
 http://l5.isramedia.net:1935/chan/smil:12dkk.smil/chunklist_w480459581_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxNDU2OTE1NSZ0b2tlbmVuZHRpbWU9MTUxNDU3Mjc1NSZ0b2tlbmhhc2g9cllmM05pQmF1LU9SeER6MldvdlI3TnRpX1NLSFh0V3pvcnBZMzAzY21rND0=.m3u8
+#EXTINF:-1,Keshet VOD
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:0,Reshet 13
 http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
-#EXTINF:0,Aruz 10
+#EXTINF:-1 tvg-logo="https://s28.postimg.org/ybw6t6vq5/D2_F72_F70-84_CF-4_AA7-_AE53-_E213042_DE1_E3.jpg", Aruz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:0,Aruz 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
@@ -19,7 +21,7 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
 #EXTINF:0,99 Aruz Knesset
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
 #EXTINF:0,21 Aruz Arutz Hakniyot
-http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w755357027_b2128000.m3u8?ttl=1479061599&cdn_token=10b3bd30fe2f4d02d4c668a67c4de3ef
+rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:0,Yes 1
 http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
 #EXTINF:0,Yes OH
@@ -152,46 +154,25 @@ http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4c
 
 
 
-#EXTINF:-1,|AZ| Alternativ TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1230.ts
-#EXTINF:-1,|AZ| Azad Azerbaycan
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1229.ts
-#EXTINF:-1,|AZ| AZ TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1228.ts
-#EXTINF:-1,|AZ| Dunya TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1227.ts
-#EXTINF:-1,|AZ| Gunesh TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1226.ts
-#EXTINF:-1,|AZ| ICtimai TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1225.ts
-#EXTINF:-1,|AZ| Idman Azerbaycan
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1224.ts
-#EXTINF:-1,|AZ| Lider TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1223.ts
-#EXTINF:-1,|AZ| Region TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1222.ts
-#EXTINF:-1,|AZ| Space TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1221.ts
-#EXTINF:-1,|AZ| TTV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1220.ts
-#EXTINF:-1,|AZ| AMC
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3642.ts
-#EXTINF:-1,|AZ| ATV AZ
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3646.ts
-#EXTINF:-1,|AZ| CBC AZERBAJAN
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3643.ts
-#EXTINF:-1,|AZ| CBC SPORT HD
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3649.ts
-#EXTINF:-1,|AZ| Gemaz
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3650.ts
-#EXTINF:-1,|AZ| INTER AZ
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3644.ts
-#EXTINF:-1,|AZ| MEDENIYET TV
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3645.ts
-#EXTINF:-1,|AZ| SETANTA SPORTS EURASIA
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3647.ts
-#EXTINF:-1,|AZ| SETANTA SPORTS PLUS
-http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3648.ts
+#EXTINF:0,AZTV
+http://85.132.71.6/azeri/aztv/index.m3u8
+#EXTINF:0,Medeniyyet TV
+http://85.132.71.6/turk/medeniyyet/index.m3u8
+#EXTINF:0,İdman Azerbaycan TV
+http://85.132.71.6/turk/idman/index.m3u8
+#EXTINF:0,İçtimai TV
+http://85.132.71.6/iptv_ictimai/index.m3u8
+#EXTINF:0,Space TV
+http://85.132.71.6/iptv_space/index.m3u8
+#EXTINF:0,Lider TV
+http://85.132.71.6/iptv_lider/index.m3u8
+#EXTINF:0,Xezer TV
+http://85.132.71.6/iptv_xazar/index.m3u8
+#EXTINF:0,Azad Azerbaycan TV
+http://85.132.71.6/iptv_atv_az/index.m3u8
+#EXTINF:0,CBC Azerbaycan
+http://85.132.71.6/turk/cbc/index.m3u8
+
 
 
 
