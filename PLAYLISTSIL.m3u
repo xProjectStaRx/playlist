@@ -26,13 +26,15 @@ http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
 http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
 #EXTINF:0,Yes 4
 http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
+#EXTINF:0,Viva
+http://192.99.18.85:1935/live/viva/chunklist.m3u8
+#EXTINF:0,Viva Plus
+http://192.99.18.85:1935/live/vivaplus/ chunklist.m3u8
 #EXTINF:0,Discovery Il
 http://192.99.18.85:1935/live/discovery/chunklist_w1289513936.m3u8
 
 #EXTINF:-1,Первый
 http://50.7.128.107:8081/perkanal/index.m3u8?wmsAuthSign=1512431896Sa2d78897d64f562a8ab3917e515ebdabS28h861h931h77
-#EXTINF:-1,Домашний +2
-http://tvsever.ru:1936/live/adm2/playlist.m3u8
 #EXTINF:0,НТВ
 http://50.7.128.107:8081/ntv/index.m3u8?wmsAuthSign=1512432208S0c62942b5128045df16b6097e4fca637S28h861h931h77
 #EXTINF:0,НТВ Moldova
@@ -56,16 +58,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:strana.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,К1
 http://109.68.40.67/life/k1.m3u8
-
-#EXTINF:-1,HD Media
-http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
-
-#EXTINF:-1,Москва 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1,RT Doc
-http://cdn-01.bonus-tv.ru/btv/rtdoc/type/user/devname/LG-SmartTV/devid/LG-1469191659/eol/20200101T00/hash/ffea5a73940afa146f5411783313f1e76ae71a46/playlist.m3u8
-
 
 #EXTINF:0,Zvezda
 http://5.19.217.226:81/udp/235.10.10.178:1234
@@ -160,19 +152,46 @@ http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4c
 
 
 
-#EXTINF:-1,AzTV
-http://yayin5.canlitvlive.io/aztv/live.m3u8?tkn=69ecHDheu_2FbRNSVstZMA&tms=1509587273
-#EXTINF:-1,Azad Azerbaycan TV
-http://live.mediabay.tv/e76f60b402ba83cdc8562f4b059b8e7c/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc242347ef707c468d3967ede5d54218fb9ce905d85442fcb66535c3895529851db6d0ef142ebc4df6bed5eb2324343c65b15/chunklist.m3u8
-#EXTINF:-1,Medeniyyet - AZ
-http://live.mediabay.tv/e830e43d37ca2a2daf8f43188d2b0508/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc2429b640c58f2776ba3120f84f220e341a715214c97617aaec3f0d0b4fd631464a22e911e273f956f5e9caa9a86b92c4552b9b4445a6823cb7da31a852813e68e3d/chunklist.m3u8
-#EXTINF:-1,Lider TV - AZ
-http://live.mediabay.tv/e7527d1c809d2cfddb7cc1648778af68/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc24298e88b4d120ff889f25b02a54551abd7a830c064daf2cf7b180296894ffd9b5be103fa309a6852d4d983ac356279d1d5/chunklist.m3u8
-#EXTINF:-1,Xazar - AZ
-http://live.mediabay.tv/209e2c519cbb1a6120afd763dbad7682/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc24210392ebd1cbcaa12bc8d1e7ae2088ee00750c8eff7e7d2e752a9a9597c4cc578db31ca4280ca11781a69e2b76a83313b/chunklist.m3u8
-#EXTINF:-1,CBC - AZ
-http://live.mediabay.tv/b8a5b7c84b2730c954533c356e61ceda/live/a686ed7a5b1ce3973df5c454dbc4abf612ccffb0a3e39fedfec0444df08cc242b06b61933b3fbaaa479ff84a05f8ccc98cb86616ddef5ab0a0e919c0273c1ac0543a622f70b0a5b453364d47dc01b782/chunklist.m3u8
-
+#EXTINF:-1,|AZ| Alternativ TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1230.ts
+#EXTINF:-1,|AZ| Azad Azerbaycan
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1229.ts
+#EXTINF:-1,|AZ| AZ TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1228.ts
+#EXTINF:-1,|AZ| Dunya TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1227.ts
+#EXTINF:-1,|AZ| Gunesh TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1226.ts
+#EXTINF:-1,|AZ| ICtimai TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1225.ts
+#EXTINF:-1,|AZ| Idman Azerbaycan
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1224.ts
+#EXTINF:-1,|AZ| Lider TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1223.ts
+#EXTINF:-1,|AZ| Region TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1222.ts
+#EXTINF:-1,|AZ| Space TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1221.ts
+#EXTINF:-1,|AZ| TTV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/1220.ts
+#EXTINF:-1,|AZ| AMC
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3642.ts
+#EXTINF:-1,|AZ| ATV AZ
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3646.ts
+#EXTINF:-1,|AZ| CBC AZERBAJAN
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3643.ts
+#EXTINF:-1,|AZ| CBC SPORT HD
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3649.ts
+#EXTINF:-1,|AZ| Gemaz
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3650.ts
+#EXTINF:-1,|AZ| INTER AZ
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3644.ts
+#EXTINF:-1,|AZ| MEDENIYET TV
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3645.ts
+#EXTINF:-1,|AZ| SETANTA SPORTS EURASIA
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3647.ts
+#EXTINF:-1,|AZ| SETANTA SPORTS PLUS
+http://149.202.78.31:2086/live/winsor_UTGfHN/4JzBPVQo/3648.ts
 
 
 
@@ -180,6 +199,22 @@ http://live.mediabay.tv/b8a5b7c84b2730c954533c356e61ceda/live/a686ed7a5b1ce3973d
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:0,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0,TRT ARAPCA 
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0,TRT Diyanet
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:0,TRT 6
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0,TRT TBMM-TV
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:0,Show MAX
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:0,Bloomberg HT
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist_w668226506_b848000.m3u8
+#EXTINF:0,AN TV
+http://broadcasttr.com:1935/birantv/bant1/playlist.m3u8
 #EXTINF:0,TRT SPOR HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:0,TRT ÇOCUK
