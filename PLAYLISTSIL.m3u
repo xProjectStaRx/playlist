@@ -7,7 +7,7 @@ http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_defins
 #EXTINF:-1, Kan 11
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1,Keshet 12
-http://l5.isramedia.net:1935/chan/smil:12dkk.smil/chunklist_w480459581_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxNDU2OTE1NSZ0b2tlbmVuZHRpbWU9MTUxNDU3Mjc1NSZ0b2tlbmhhc2g9cllmM05pQmF1LU9SeER6MldvdlI3TnRpX1NLSFh0V3pvcnBZMzAzY21rND0=.m3u8
+http://193.70.44.53:80/test/playlist.m3u8
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:0,Reshet 13
@@ -36,7 +36,10 @@ http://192.99.18.85:1935/live/vivaplus/ chunklist.m3u8
 http://192.99.18.85:1935/live/discovery/chunklist_w1289513936.m3u8
 #EXTINF:-1,Disney
 http://192.99.18.85:1935/live/disney/chunklist.m3u8
-
+#EXTINF:-1,Sport 3 HD
+http://193.70.44.53:80/sport_3/playlist.m3u8
+#EXTINF:-1,Sport 4 HD
+http://193.70.44.53:80/sport_4/playlist.m3u8
 
 #EXTINF:-1,Первый
 http://50.7.128.107:8081/perkanal/index.m3u8?wmsAuthSign=1512431896Sa2d78897d64f562a8ab3917e515ebdabS28h861h931h77
