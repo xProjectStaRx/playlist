@@ -36,8 +36,7 @@ http://192.99.18.85:1935/live/discovery/chunklist_w1289513936.m3u8
 http://192.99.18.85:1935/live/disney/chunklist.m3u8
 #EXTINF:-1,Sport 3 HD
 http://193.70.44.53:80/sport_3/playlist.m3u8
-#EXTINF:-1,Sport 4 HD
-http://193.70.44.53:80/sport_4/playlist.m3u8
+
 
 #EXTINF:-1,Первый
 http://50.7.128.107:8081/perkanal/index.m3u8?wmsAuthSign=1512431896Sa2d78897d64f562a8ab3917e515ebdabS28h861h931h77
