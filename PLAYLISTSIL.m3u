@@ -37,13 +37,18 @@ http://192.99.18.85:1935/live/disney/chunklist.m3u8
 #EXTINF:-1,Sport 3 HD
 http://193.70.44.53:80/sport_3/playlist.m3u8
 
+#EXTINF:-1,Первый HD
+http://185.231.160.35:5000//156/1/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://185.231.160.35:5000//116/3/index.m3u8
+#EXTINF:-1,НТВ
+http://pstv.krasmix.ru/tv/ntv/playlist.m3u8
+#EXTINF:-1,СТС
+http://176.51.148.141:1234/udp/225.54.205.141:5000
+#EXTINF:-1,Комедия
+http://185.231.160.35:5000//285/2/index.m3u8
 
-#EXTINF:-1,Первый
-http://50.7.128.107:8081/perkanal/index.m3u8?wmsAuthSign=1512431896Sa2d78897d64f562a8ab3917e515ebdabS28h861h931h77
-#EXTINF:0,НТВ
-http://50.7.128.107:8081/ntv/index.m3u8?wmsAuthSign=1512432208S0c62942b5128045df16b6097e4fca637S28h861h931h77
-#EXTINF:0,НТВ Moldova
-http://93.115.137.166/hls/ntvm.m3u8
+
 #EXTINF:СТС
 http://50.7.180.66:8081/sts/index.m3u8?wmsAuthSign=1512432276S65bdc56ed77411f49df845489a90e658S28h861h931h77
 #EXTINF:ТНТ
@@ -84,21 +89,25 @@ http://50.7.180.66:8081/discovery_science/tracks-1,2/index.m3u8?wmsAuthSign=1512
 #EXTINF:-1,Animal Planet
 http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4cf6189e2dd0edfd8cffb9efe9cS28h861h931h77
 
-#EXTINF:0,JimJam
-http://37.193.127.5:81/udp/239.1.3.2:1234
+
 #EXTINF:-1,Рыжий
 http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Ani
-http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
 #EXTINF:-1,Ералаш
 http://50.7.180.66:8081/eralah/index.m3u8?wmsAuthSign=1512433044S18dd5382ed27b0c2b84aa709aaa7386cS28h861h931h77
+#EXTINF:-1,Ani
+http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
+#EXTINF:-1,Boomerang
+http://5.189.85.232:81//udp/239.255.2.144:1234
+#EXTINF:0,JimJam
+http://37.193.127.5:81/udp/239.1.3.2:1234
 #EXTINF:-1,Nickelodeon
 http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296388162350296234678e5f21S28h861h931h77
 #EXTINF:-1,Tiji
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
-
+#EXTINF:0,Cartoon Ru
+http://91.224.178.12:8000/Apple/cartoonru/.m3u8
 
 
 
