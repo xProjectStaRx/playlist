@@ -154,8 +154,6 @@ http://85.132.71.6/iptv_ictimai/index.m3u8
 http://85.132.71.6/iptv_space/index.m3u8
 #EXTINF:0,Lider TV
 http://85.132.71.6/iptv_lider/index.m3u8
-#EXTINF:0,Xezer TV
-http://85.132.71.6/iptv_xazar/index.m3u8
 #EXTINF:0,Azad Azerbaycan TV
 http://85.132.71.6/iptv_atv_az/index.m3u8
 #EXTINF:0,CBC Azerbaycan
