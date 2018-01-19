@@ -38,7 +38,7 @@ http://192.99.18.85:1935/live/disney/chunklist.m3u8
 
 
 #EXTINF:-1,Первый HD
-http://185.231.160.35:5000//156/1/index.m3u8
+
 #EXTINF:-1,ТНТ HD
 http://185.231.160.35:5000//116/3/index.m3u8
 #EXTINF:ТНТ
@@ -144,20 +144,21 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 
 
 
-#EXTINF:0,AZTV
+#EXTINF:-1,AZTV
 http://85.132.71.6/azeri/aztv/index.m3u8
-#EXTINF:0,Medeniyyet TV
+#EXTINF:-1,Medeniyyet TV
 http://85.132.71.6/turk/medeniyyet/index.m3u8
-#EXTINF:0,İçtimai TV
+#EXTINF:-1,İçtimai TV
 http://85.132.71.6/iptv_ictimai/index.m3u8
-#EXTINF:0,Space TV
+#EXTINF:-1,Space TV
 http://85.132.71.6/iptv_space/index.m3u8
-#EXTINF:0,Lider TV
+#EXTINF:-1,Lider TV
 http://85.132.71.6/iptv_lider/index.m3u8
-#EXTINF:0,Azad Azerbaycan TV
+#EXTINF:-1,Azad Azerbaycan TV
 http://85.132.71.6/iptv_atv_az/index.m3u8
-#EXTINF:0,CBC Azerbaycan
+#EXTINF:-1,CBC Azerbaycan
 http://85.132.71.6/turk/cbc/index.m3u8
+
 
 
 
