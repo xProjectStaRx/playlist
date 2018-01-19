@@ -17,28 +17,15 @@ http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/pla
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
 #EXTINF:0,99 Aruz Knesset
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
-#EXTINF:0,21 Aruz Arutz Hakniyot
+#EXTINF:0,21 Arutz Hakniyot
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
-#EXTINF:0,Yes 1
-http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
-#EXTINF:0,Yes OH
-http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
-#EXTINF:0,Yes 4
-http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
-#EXTINF:0,Viva
-http://192.99.18.85:1935/live/viva/chunklist.m3u8
-#EXTINF:0,Viva Plus
-http://192.99.18.85:1935/live/vivaplus/ chunklist.m3u8
-#EXTINF:0,Discovery Il
-http://192.99.18.85:1935/live/discovery/chunklist_w1289513936.m3u8
-#EXTINF:-1,Disney
-http://192.99.18.85:1935/live/disney/chunklist.m3u8
 
 
 
 
-#EXTINF:-1,Первый HD
 
+#EXTINF:-1,Первый
+http://217.13.223.70:81/udp/239.195.1.101:1234
 #EXTINF:-1,ТНТ HD
 http://185.231.160.35:5000//116/3/index.m3u8
 #EXTINF:ТНТ
@@ -51,7 +38,8 @@ http://pstv.krasmix.ru/tv/ntv/playlist.m3u8
 http://playlist.onlybest.tv/ru/channel/8bd0fb81f93bce2d64796c87b71ee097/14/index.m3u8
 #EXTINF:-1,Комедия
 http://185.231.160.35:5000//285/2/index.m3u8
-
+#EXTINF:0,Dozhd TV
+http://178.163.55.241:4022/udp/234.0.0.234:2000
 
 
 #EXTINF:-1,Россия 1 HD
@@ -104,12 +92,12 @@ http://37.193.127.5:81/udp/239.1.3.2:1234
 http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296388162350296234678e5f21S28h861h931h77
 #EXTINF:-1,Tiji
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
+#EXTINF:0,Boomerang
+http://46.160.166.9:81/udp/239.254.2.144:1234
 
 
 
 
-#EXTINF:-1,CITY TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 #EXTINF:-1,HITV
