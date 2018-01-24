@@ -9,11 +9,10 @@ http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.s
 
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
-#EXTINF:-1,Keshet 12
-http://l5.isramedia.net:1935/chan/smil:12xc.smil/chunklist_w1877712607_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxNjQ4NTkwOSZ0b2tlbmVuZHRpbWU9MTUxNjQ4OTUwOSZ0b2tlbmhhc2g9WXRwVEdUSmFMTDU3dnZQdTBTelhfOWgtSVpGSWR1eHlqc2d0a21nWkJqMD0=.m3u8
-
-#EXTINF:0,Reshet 13
-http://besttv2.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
+//#EXTINF:-1,Keshet 12
+//http://l5.isramedia.net:1935/chan/smil:12xc.smil/chunklist_w1877712607_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxNjQ4NTkwOSZ0b2tlbmVuZHRpbWU9MTUxNjQ4OTUwOSZ0b2tlbmhhc2g9WXRwVEdUSmFMTDU3dnZQdTBTelhfOWgtSVpGSWR1eHlqc2d0a21nWkJqMD0=.m3u8
+//#EXTINF:0,Reshet 13
+//http://besttv2.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
 #EXTINF:-1, Aruz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:0,Aruz 20
@@ -22,6 +21,42 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
 #EXTINF:0,21 Arutz Hakniyot
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+
+#EXTINF:-1,IL: Channel 2 IdanPlus
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5492.ts
+#EXTINF:-1,IL: Channel 22 News
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5495.ts
+#EXTINF:-1,IL: Disney Jr.
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5487.ts
+#EXTINF:-1,IL: Hop Yaldut
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5488.ts
+#EXTINF:-1,IL: Hot Junior
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5489.ts
+#EXTINF:-1,IL: Music 24
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5493.ts
+#EXTINF:-1,IL: The Food Channel
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5484.ts
+#EXTINF:-1,IL: The Travel Channel
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/5483.ts
+#EXTINF:-1,IL: YES 1 FHD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/10196.ts
+#EXTINF:-1,IL: YES Comedy FHD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/10191.ts
+#EXTINF:-1,IL: YES Drama FHD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/10189.ts
+#EXTINF:-1,IL: HOT Action HD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/14458.ts
+#EXTINF:-1,IL: HOT HBO
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/14457.ts
+#EXTINF:-1,IL: Yes One FHD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/10187.ts
+#EXTINF:-1,IL: SPORT 2 HD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/4021.ts
+#EXTINF:-1,IL: Sport 5 Plus live FHD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/14454.ts
+#EXTINF:-1,IL: YES Sport1
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/14452.ts
+
 
 
 
