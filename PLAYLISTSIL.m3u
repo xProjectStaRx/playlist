@@ -6,13 +6,9 @@ http://146.185.61.140:1935/live/myStream/chunklist_w344962474.m3u8
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
 #EXTINF:-1, Kan 11
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
-
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
-//#EXTINF:-1,Keshet 12
-//http://l5.isramedia.net:1935/chan/smil:12xc.smil/chunklist_w1877712607_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxNjQ4NTkwOSZ0b2tlbmVuZHRpbWU9MTUxNjQ4OTUwOSZ0b2tlbmhhc2g9WXRwVEdUSmFMTDU3dnZQdTBTelhfOWgtSVpGSWR1eHlqc2d0a21nWkJqMD0=.m3u8
-//#EXTINF:0,Reshet 13
-//http://besttv2.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
+
 #EXTINF:-1, Aruz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:0,Aruz 20
