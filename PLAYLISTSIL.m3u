@@ -35,8 +35,6 @@ http://50.7.180.66:8081/sts/index.m3u8?wmsAuthSign=1512432276S65bdc56ed77411f49d
 http://pstv.krasmix.ru/tv/ntv/playlist.m3u8
 #EXTINF:-1,НТВ 2
 http://playlist.onlybest.tv/ru/channel/8bd0fb81f93bce2d64796c87b71ee097/14/index.m3u8
-#EXTINF:-1,Комедия
-http://185.231.160.35:5000//285/2/index.m3u8
 #EXTINF:0,Dozhd TV
 http://178.163.55.241:4022/udp/234.0.0.234:2000
 
