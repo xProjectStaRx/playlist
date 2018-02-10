@@ -20,11 +20,6 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 
 
 
-
-
-
-#EXTINF:-1,Первый HD
-http://cdnworld.magictvbox.eu/1TV_HD/tracks-v3a1/index.m3u8?token=soc4up
 #EXTINF:-1,Первый
 http://82.200.127.58:8080/udp/239.0.42.114:1224
 #EXTINF:ТНТ
@@ -73,6 +68,24 @@ http://50.7.128.107:8081/history/index.m3u8?wmsAuthSign=1512432428S27879e44df456
 http://50.7.180.66:8081/discovery_science/tracks-1,2/index.m3u8?wmsAuthSign=1512432739Sb46bc7cfa5d983b0733f59cf2bc36110S28h861h931h77
 #EXTINF:-1,Animal Planet
 http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4cf6189e2dd0edfd8cffb9efe9cS28h861h931h77
+
+#EXTINF:-1,Кинокомедия
+http://93.91.113.8:9999/play/a09h/index.m3u8
+#EXTINF:-1,Киносвидание
+http://93.91.113.8:9999/play/a0bd/index.m3u8
+#EXTINF:-1,Киносемья
+http://93.91.113.8:9999/play/a0bi/index.m3u8
+#EXTINF:-1,Киносерия
+http://93.91.113.8:9999/play/a07f/index.m3u8
+#EXTINF:-1,Кинохит
+http://93.91.113.8:9999/play/a0be/index.m3u8
+#EXTINF:-1,Любимое кино
+http://93.91.113.8:9999/play/a06p/index.m3u8
+#EXTINF:-1,Мир сериала
+http://93.91.113.8:9999/play/a092/index.m3u8
+
+
+
 
 
 #EXTINF:-1,Рыжий
