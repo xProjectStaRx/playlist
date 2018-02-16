@@ -95,6 +95,8 @@ http://93.91.113.8:9999/play/a092/index.m3u8
 
 #EXTINF:-1,Рыжий
 http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF: 0,Сказки для зайки 
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1,Ералаш
