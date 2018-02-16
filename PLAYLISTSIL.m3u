@@ -26,8 +26,12 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 
 
+#EXTINF:-1,Первый HD
+http://89.28.21.88/1TV_HD/tracks-v2a1/index.m3u8?token=vsem 
 #EXTINF:-1,Первый
 http://82.200.127.58:8080/udp/239.0.42.114:1224
+#EXTINF:-1,Первый Prime HD 
+http://89.28.21.88/Prime_HD/tracks-v1a1/index.m3u8?token=vsem
 #EXTINF:ТНТ
 http://50.7.128.107:8081/tnt/index.m3u8?wmsAuthSign=1512432339S57e920eaf0f9c3da20ec2ee3dc4049caS28h861h931h77
 #EXTINF:СТС
@@ -177,6 +181,8 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Tropicales
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,MTV Hits
+http://93.87.85.69/PLTV/88888888/224/3221226763/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2johiQmUJIxFLpPPjBKT0RIjAKCj8vKhj8AjffPgA6TN1vK3cK2TT5aIYI9VmMuNoxe%3A20161110073331%3AUTC,END&GuardEncType=2
 
 
 
