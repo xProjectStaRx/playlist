@@ -26,12 +26,6 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 
 
-#EXTINF:-1,Первый HD
-http://89.28.21.88/1TV_HD/tracks-v2a1/index.m3u8?token=vsem 
-#EXTINF:-1,Первый
-http://82.200.127.58:8080/udp/239.0.42.114:1224
-#EXTINF:-1,Первый Prime HD 
-http://89.28.21.88/Prime_HD/tracks-v1a1/index.m3u8?token=vsem
 #EXTINF:ТНТ
 http://50.7.128.107:8081/tnt/index.m3u8?wmsAuthSign=1512432339S57e920eaf0f9c3da20ec2ee3dc4049caS28h861h931h77
 #EXTINF:СТС
@@ -40,8 +34,7 @@ http://50.7.180.66:8081/sts/index.m3u8?wmsAuthSign=1512432276S65bdc56ed77411f49d
 http://pstv.krasmix.ru/tv/ntv/playlist.m3u8
 #EXTINF:-1,НТВ 2
 http://playlist.onlybest.tv/ru/channel/8bd0fb81f93bce2d64796c87b71ee097/14/index.m3u8
-#EXTINF:0,Dozhd TV
-http://178.163.55.241:4022/udp/234.0.0.234:2000
+
 
 
 #EXTINF:-1,Россия 1 HD
@@ -113,7 +106,6 @@ http://37.193.127.5:81/udp/239.1.3.2:1234
 http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296388162350296234678e5f21S28h861h931h77
 #EXTINF:-1,Tiji
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
-
 #EXTINF:0,Boomerang
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo
 
@@ -134,8 +126,6 @@ http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
 http://rtmp.one.by:2300/
 #EXTINF:-1,Music Box
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
-#EXTINF:-1,Music Box UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
 #EXTINF:-1,Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
 #EXTINF:-1,О2 ТВ
@@ -150,38 +140,13 @@ http://rtmp.one.by:1300/
 
 
 
-#EXTINF:-1,Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,NRJ HITS TV
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Dance/EDM
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,R&B Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,MC
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8?JoCaRoIPTV.m3u8
+
 #EXTINF:-1,U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Radio Montecarlo
 http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,MTV Hits
 http://93.87.85.69/PLTV/88888888/224/3221226763/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2johiQmUJIxFLpPPjBKT0RIjAKCj8vKhj8AjffPgA6TN1vK3cK2TT5aIYI9VmMuNoxe%3A20161110073331%3AUTC,END&GuardEncType=2
 
