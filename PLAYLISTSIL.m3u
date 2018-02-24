@@ -7,6 +7,8 @@ http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_defins
 #EXTINF:-1, Kan 11
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
+#EXTINF:-1, Keshet 12
+http://l5.isramedia.net:1935/chan/smil:12fd.smil/chunklist_w1488347956_b450000_tkdG9rZW5zdGFydHRpbWU9MTUxOTQ5NTAwNSZ0b2tlbmVuZHRpbWU9MTUxOTQ5ODYwNSZ0b2tlbmhhc2g9aG5fOFN5c2ViWVVrMG44bzl5RGduM21LRU9fbC05RDBnUFRqQlRlZHpURT0=.m3u8
 #EXTINF:-1, Reshet 13
 http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
 #EXTINF:-1,Keshet VOD
