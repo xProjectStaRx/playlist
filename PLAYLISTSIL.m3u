@@ -27,9 +27,19 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 
 
+#EXTINF:-1,Первый канал  HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/156/index.m3u8
+#EXTINF:-1,Россия 1 HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/157/index.m3u8
 
 #EXTINF:ТНТ
 http://50.7.128.107:8081/tnt/index.m3u8?wmsAuthSign=1512432339S57e920eaf0f9c3da20ec2ee3dc4049caS28h861h931h77
+#EXTINF:-1,ТНТ HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/116/index.m3u8
+#EXTINF:-1,ТНТ (+2h)
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/82/index.m3u8
+#EXTINF:-1,ТНТ4
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/103/index.m3u8
 #EXTINF:СТС
 http://50.7.180.66:8081/sts/index.m3u8?wmsAuthSign=1512432276S65bdc56ed77411f49df845489a90e658S28h861h931h77
 #EXTINF:-1,НТВ 1
@@ -37,7 +47,25 @@ http://pstv.krasmix.ru/tv/ntv/playlist.m3u8
 #EXTINF:-1,НТВ 2
 http://playlist.onlybest.tv/ru/channel/8bd0fb81f93bce2d64796c87b71ee097/14/index.m3u8
 
+#EXTINF:-1,НТВ HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/109/index.m3u8
+#EXTINF:-1,NTV Mir
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/517/index.m3u8
+#EXTINF:-1,НТВ (+2)
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/80/index.m3u8
+#EXTINF:-1,НТВ Право
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/299/index.m3u8
+#EXTINF:-1,НТВ-ХИТ
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/305/index.m3u8
+#EXTINF:-1,НТВ Стиль
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/308/index.m3u8
+#EXTINF:-1,НТВ Сериал
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/301/index.m3u8
 
+#EXTINF:-1,STS International
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/513/index.m3u8
+#EXTINF:-1,Сарафан
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/313/index.m3u8
 
 #EXTINF:-1,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
@@ -72,6 +100,20 @@ http://50.7.128.107:8081/history/index.m3u8?wmsAuthSign=1512432428S27879e44df456
 http://50.7.180.66:8081/discovery_science/tracks-1,2/index.m3u8?wmsAuthSign=1512432739Sb46bc7cfa5d983b0733f59cf2bc36110S28h861h931h77
 #EXTINF:-1,Animal Planet
 http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4cf6189e2dd0edfd8cffb9efe9cS28h861h931h77
+#EXTINF:-1,Animal Planet Russia HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/110/index.m3u8
+#EXTINF:-1,Nat Geo Wild Russia
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/55/index.m3u8
+#EXTINF:-1,Загородная Жизнь
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/190/index.m3u8
+#EXTINF:-1,Авто 24
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/172/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/248/index.m3u8
+#EXTINF:-1,Sea TV
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/944/index.m3u8
+
+
 
 #EXTINF:-1,Кинокомедия
 http://93.91.113.8:9999/play/a09h/index.m3u8
@@ -88,6 +130,39 @@ http://93.91.113.8:9999/play/a06p/index.m3u8
 #EXTINF:-1,Мир сериала
 http://93.91.113.8:9999/play/a092/index.m3u8
 
+#EXTINF:-1,Bollywood HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/171/index.m3u8
+#EXTINF:-1,Индийское Кино
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/250/index.m3u8
+#EXTINF:-1,TR!CK
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/869/index.m3u8
+#EXTINF:-1,Киномикс
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/251/index.m3u8
+#EXTINF:-1,Киносвидание
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/252/index.m3u8
+#EXTINF:-1,Кинохит
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/253/index.m3u8
+#EXTINF:-1,Кинокомедия
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/254/index.m3u8
+#EXTINF:-1,Мир Сериала
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/194/index.m3u8
+#EXTINF:-1,Еврокино
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/127/index.m3u8
+#EXTINF:-1,Теленовелла
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/128/index.m3u8
+#EXTINF:-1,Телеклуб / Детский Мир
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/173/index.m3u8
+#EXTINF:-1,Киносерия
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/259/index.m3u8
+#EXTINF:-1,Мужское кино
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/260/index.m3u8
+#EXTINF:-1,Родное Кино
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/261/index.m3u8
+#EXTINF:-1,Русский Роман
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/318/index.m3u8
+
+
+
 
 
 
@@ -98,18 +173,46 @@ http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,В Гостях У Сказки
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/319/index.m3u8
+#EXTINF:-1,O!
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/226/index.m3u8
 #EXTINF:-1,Ералаш
 http://50.7.180.66:8081/eralah/index.m3u8?wmsAuthSign=1512433044S18dd5382ed27b0c2b84aa709aaa7386cS28h861h931h77
+#EXTINF:-1,Karusel International
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/426/index.m3u8
+#EXTINF:-1,Мульт
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/300/index.m3u8
+#EXTINF:-1,Мультимания
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/873/index.m3u8
+#EXTINF:-1,Тлум HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/292/index.m3u8
+
 #EXTINF:-1,Ani
 http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
 #EXTINF:0,JimJam
 http://37.193.127.5:81/udp/239.1.3.2:1234
+#EXTINF:-1,JimJam Rossiya
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/179/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296388162350296234678e5f21S28h861h931h77
+#EXTINF:-1,Nickelodeon CIS
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/181/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/30/index.m3u8
+#EXTINF:-1,Nick Jr
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/233/index.m3u8
 #EXTINF:-1,Tiji
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
 #EXTINF:0,Boomerang
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo
+#EXTINF:-1,Boomerang Central & Eastern Europe
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/242/index.m3u8
+#EXTINF:-1,TiJi
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/143/index.m3u8
+#EXTINF:-1,Gulli Girl
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/144/index.m3u8
+
 
 
 
@@ -140,9 +243,6 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 http://rtmp.one.by:1300/
 
 
-
-
-
 #EXTINF:-1,U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Radio Montecarlo
@@ -151,10 +251,18 @@ http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,MTV Hits
 http://93.87.85.69/PLTV/88888888/224/3221226763/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2johiQmUJIxFLpPPjBKT0RIjAKCj8vKhj8AjffPgA6TN1vK3cK2TT5aIYI9VmMuNoxe%3A20161110073331%3AUTC,END&GuardEncType=2
-
-
-
-
+#EXTINF:-1,MTV Live HD
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/26/index.m3u8
+#EXTINF:-1,MTV Russia
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/227/index.m3u8
+#EXTINF:-1,MTV Dance
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/228/index.m3u8
+#EXTINF:-1,MTV Hits UK
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/229/index.m3u8
+#EXTINF:-1,VH1 Classic Europe
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/237/index.m3u8
+#EXTINF:-1,VH1 Europe
+http://playlist.onlybest.tv/ru/channel/946c0451774d90da9b18f9cb39b6124a/238/index.m3u8
 
 
 
