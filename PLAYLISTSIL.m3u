@@ -2,15 +2,11 @@
  
 #EXTINF:0,iLand
 http://146.185.61.140:1935/ILAND/smil:iland.smil/chunklist_w897681157_b596000.m3u8
-#EXTINF:0,9 Канал / Израиль+
-http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
+
 #EXTINF:-1, Kan 11
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:-1, Keshet 12
-http://l5.isramedia.net:1935/chan/smil:12fd.smil/chunklist_w1488347956_b450000_tkdG9rZW5zdGFydHRpbWU9MTUxOTQ5NTAwNSZ0b2tlbmVuZHRpbWU9MTUxOTQ5ODYwNSZ0b2tlbmhhc2g9aG5fOFN5c2ViWVVrMG44bzl5RGduM21LRU9fbC05RDBnUFRqQlRlZHpURT0=.m3u8
-#EXTINF:-1, Reshet 13
-http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
+
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
@@ -69,28 +65,6 @@ http://50.7.180.66:8081/discovery_science/tracks-1,2/index.m3u8?wmsAuthSign=1512
 #EXTINF:-1,Animal Planet
 http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4cf6189e2dd0edfd8cffb9efe9cS28h861h931h77
 
-
-
-
-#EXTINF:-1,Кинокомедия
-http://93.91.113.8:9999/play/a09h/index.m3u8
-#EXTINF:-1,Киносвидание
-http://93.91.113.8:9999/play/a0bd/index.m3u8
-#EXTINF:-1,Киносемья
-http://93.91.113.8:9999/play/a0bi/index.m3u8
-#EXTINF:-1,Киносерия
-http://93.91.113.8:9999/play/a07f/index.m3u8
-#EXTINF:-1,Кинохит
-http://93.91.113.8:9999/play/a0be/index.m3u8
-#EXTINF:-1,Любимое кино
-http://93.91.113.8:9999/play/a06p/index.m3u8
-#EXTINF:-1,Мир сериала
-http://93.91.113.8:9999/play/a092/index.m3u8
-
-
-
-
-
 #EXTINF:-1,Рыжий
 http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF: 0,Сказки для зайки 
@@ -99,7 +73,6 @@ http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1,Ералаш
 http://50.7.180.66:8081/eralah/index.m3u8?wmsAuthSign=1512433044S18dd5382ed27b0c2b84aa709aaa7386cS28h861h931h77
-
 
 #EXTINF:-1,Ani
 http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
@@ -111,9 +84,6 @@ http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
 #EXTINF:0,Boomerang
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo
-
-
-
 
 
 #EXTINF:-1,Шансон ТВ
@@ -141,16 +111,12 @@ http://tv.105.net:1935/live/virgin1/index.m3u8
 #EXTINF:-1,1 Muz Eng
 http://rtmp.one.by:1300/
 
-
 #EXTINF:-1,U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Radio Montecarlo
 http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,MTV Hits
-http://93.87.85.69/PLTV/88888888/224/3221226763/04.m3u8?accountinfo=XcVGpvGujorJK2MyShDEaHSuxLJVRilia9KnMOSpRhuNlcj0cBNHzyPT4QjQ4IFfS%2BdevDESJopRdd2jqfrYaWeuVTM3hWdwQmpTYxqRHo7P%2B7BwgLcFaXdB7r1KE2johiQmUJIxFLpPPjBKT0RIjAKCj8vKhj8AjffPgA6TN1vK3cK2TT5aIYI9VmMuNoxe%3A20161110073331%3AUTC,END&GuardEncType=2
-
 
 
 
@@ -190,252 +156,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 
 
-#EXTINF:0,Темный рыцарь 4K
-http://fs28.fex.net/get/399038247959/214256011/4e2e2981/%2B%D0%A2%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C%20The%20Dark%20Knight%20(2008).mp4
-#EXTINF:0,KINGSMAN: ЗОЛОТОЕ КОЛЬЦО 4K
-http://fs28.fex.net/get/399038247959/214250714/23c74997/%2BKingsman%20%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5%20%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%20Kingsman%20The%20Golden%20Circle%20(2017)%20%D1%81%D0%BC.mp4
-#EXTINF:0,Исход: Цари и боги 4K
-http://fs26.fex.net/get/399038247959/197659539/a7fc9df2/%2B%D0%98%D1%81%D1%85%D0%BE%D0%B4%20%D0%91%D0%BE%D0%B3%D0%B8%20%D0%B8%20%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B8%20Exodus%20Gods%20and%20Kings%20(2014).mp4
-#EXTINF:0,Город воров 4K
-http://fs26.fex.net/get/399038247959/197659538/9dcdb178/%2B%D0%93%D0%BE%D1%80%D0%BE%D0%B4%20%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%20,%202010.mp4
-#EXTINF:0,Дюнкерк 4K
-https://fex.net/get/399038247959/197634274
-#EXTINF:0,Хижина в лесу 4K
-https://fex.net/get/399038247959/193908531
-#EXTINF:0,Тачки 3 4K
-https://fex.net/get/399038247959/193908530
-#EXTINF:0,Защитник 4K
-https://fex.net/get/399038247959/193908529
-#EXTINF:0,Яркость 4K
-https://fex.net/get/527342147210/177276631
-#EXTINF:0,Крид: Наследие Рокки 4K
-https://fex.net/get/527342147210/177276632
-#EXTINF:0,Тёмная башня 4K
-https://fex.net/get/527342147210/176174189
-#EXTINF:0,Телохранитель киллера 4K
-https://fex.net/get/527342147210/176174188
-#EXTINF:0,Полтора шпиона 4K
-https://fex.net/get/527342147210/176174187
-#EXTINF:0,Калифорнийский дорожный патруль 4K
-https://fex.net/get/527342147210/176174186
-#EXTINF:0,Планета обезьян: Война 4K
-https://fex.net/get/527342147210/176174185
-#EXTINF:0,Валериан и город тысячи планет 4K
-https://fex.net/get/527342147210/176174184
-#EXTINF:0,Хикок 4K
-https://fex.net/get/527342147210/107655397
-#EXTINF:0,Пипец Kick-Ass 4K
-https://fex.net/get/527342147210/107655396
-#EXTINF:0,Иллюзия обмана 2 4K
-https://fex.net/get/527342147210/107655395
-#EXTINF:0,Джейсон Борн 4K
-https://fex.net/get/527342147210/107655394
-#EXTINF:0,Фантастическая четверка 4K
-https://fex.net/get/527342147210/32405902
-#EXTINF:0,Трансформеры: Последний рыцарь 4K
-https://fex.net/get/527342147210/107029311
-#EXTINF:0,Пираты Карибского моря: Мертвецы не рассказывают сказки 4K
-https://fex.net/get/527342147210/107029310
-#EXTINF:0,Мумия 4K
-https://fex.net/get/527342147210/107029309
-#EXTINF:0,В сердце моря 4K
-https://fex.net/get/527342147210/107029308
-#EXTINF:0,187 4K
-https://fex.net/get/527342147210/107029306
-#EXTINF:0,Аватар 4К
-http://bit.ly/2tAi73v
-#EXTINF:0,Апокалипсис 4К
-http://bit.ly/2x6ssEQ
-#EXTINF:0,Ангелы и Демоны 4К
-http://bit.ly/2hQZC9r
-#EXTINF:0,Бегущий в лабиринте: Испытание огнём 4К
-http://bit.ly/2x9dkqE
-#EXTINF:0,Безумный Макс: Дорога ярости 4К
-https://fex.net/get/527342147210/19467083
-#EXTINF:0,Белоснежка и Охотник 2 4К
-http://bit.ly/2kbUm1i
-#EXTINF:0,Боги Египта 4К
-http://bit.ly/2tzFKtG
-#EXTINF:0,G.I. Joe: Бросок кобры 2 4К
-http://bit.ly/2scMMC3
-#EXTINF:0,Бэтмен против Супермена: На заре справедливости 4К
-https://fex.net/get/527342147210/83549666
-#EXTINF:0,Варкрафт 4К
-http://bit.ly/2rXNPL3
-#EXTINF:0,Великий Гэтсби 4К
-http://bit.ly/2ugTSLz
-#EXTINF:0,Все по новой 4К
-http://bit.ly/2uNCZIV
-#EXTINF:0,Вспомнить все 4К
-http://bit.ly/2w8LfPY
-#EXTINF:0,Выживший 4К
-http://bit.ly/2u7wa3F
-#EXTINF:0,Глубоководный горизонт 4К
-http://bit.ly/2togS7Q
-#EXTINF:0,Годзилла 4К
-http://bit.ly/2tLVuZK
-#EXTINF:0,Голодные игры: И вспыхнет пламя 4К
-http://bit.ly/2tXCibM
-#EXTINF:0,День независимости 4К
-http://bit.ly/2rSeq8h
-#EXTINF:0,День патриота 4К
-http://bit.ly/2sQQLrv
-#EXTINF:0,День сурка 4К
-http://bit.ly/2vSIRgX
-#EXTINF:0,Джек Ричер 2: Никогда не возвращайся 4К
-http://bit.ly/2tKSAqM
-#EXTINF:0,Джерри Магуайер 4К
-http://bit.ly/2ia8wyP
-#EXTINF:0,Дракула 4К
-http://bit.ly/2fAYC58
-#EXTINF:0,Дэдпул 4К
-http://bit.ly/2tk8Hvg
-#EXTINF:0,Жизнь Пи 4К
-http://bit.ly/2rXMMdQ
-#EXTINF:0,Игра Джеральда 4К
-https://fex.net/get/527342147210/83549527
-#EXTINF:0,Игра Эндера 4К
-http://bit.ly/2rZ4U7r
-#EXTINF:0,Иллюзия обмана 4К
-http://bit.ly/2g0tRay
-#EXTINF:0,Инопланетное вторжение: Битва за Лос-Анджелес 4К
-http://bit.ly/2kcWqWK
-#EXTINF:0,Инферно 4К
-http://bit.ly/2xSR4oX
-#EXTINF:0,Kingsman: Секретная служба 4К
-http://bit.ly/2rJKNWx
-#EXTINF:0,Капитан Филлипс 4К
-http://bit.ly/2wqNGOw
-#EXTINF:0,Каспер 4К
-http://bit.ly/2x6yDh0
-#EXTINF:0,Код Да Винчи 4К
-http://bit.ly/2hUEqQi
-#EXTINF:0,Крадущийся тигр, затаившийся дракон 4К
-http://bit.ly/2tRRUkU
-#EXTINF:0,Крадущийся тигр, затаившийся дракон: Меч судьбы 4К
-http://bit.ly/2w9aKR3
-#EXTINF:0,Крутые чуваки на Байю 4К
-http://bit.ly/2v6xYXm
-#EXTINF:0,Ла-Ла Ленд 4К
-http://bit.ly/2wqdMAU
-#EXTINF:0,Ледниковый период: Столкновение неизбежно 4К
-http://bit.ly/2sREul9
-#EXTINF:0,Логан 4К
-http://bit.ly/2hExNl1
-#EXTINF:0,Люди в черном 4К
-http://bit.ly/2tcZaTd
-#EXTINF:0,Люди в черном 2 4К
-http://bit.ly/2u7FK6N
-#EXTINF:0,Люди в черном 3 4К
-http://bit.ly/2tLYh66
-#EXTINF:0,Люси 4К
-http://bit.ly/2tLY6qn
-#EXTINF:0,Малыш на драйве 4К
-https://fex.net/get/527342147210/97676499
-#EXTINF:0,Миссия невыполнима: Племя изгоев 4К
-http://bit.ly/2z5TIFJ
-#EXTINF:0,На гребне волны 4К
-http://bit.ly/2xSIzdt
-#EXTINF:0,Неоновый демон 4К
-http://bit.ly/2fCb44O
-#EXTINF:0,Неудержимые 3 4К
-http://bit.ly/2kaxtuQ
-#EXTINF:0,Обитель зла: Последняя глава 4К
-http://bit.ly/2tBiFpY
-#EXTINF:0,Обливион 4К
-http://bit.ly/2tzSSPp
-#EXTINF:0,Осада Жадовиля 4К
-http://bit.ly/2fxkGRj
-#EXTINF:0,Отмель 4К
-http://bit.ly/2x9ESMF
-#EXTINF:0,Охотники за привидениями 4К
-http://bit.ly/2uwgGDw
-#EXTINF:0,Охотники за привидениями 2 4К
-http://bit.ly/2fxlEgp
-#EXTINF:0,Парни со стволами 4K
-https://fex.net/get/527342147210/97676504
-#EXTINF:0,Пассажиры 4К
-http://bit.ly/2soSWCC
-#EXTINF:0,Планета Земля 2 4К
-http://bit.ly/2yw5ZX6
-#EXTINF:0,По соображениям совести 4К
-http://bit.ly/2trFpZq
-#EXTINF:0,Преступник 4К
-http://bit.ly/2wV6shy
-#EXTINF:0,Прибытие 4К
-http://bit.ly/2tHKKi3
-#EXTINF:0,Прометей 4K
-https://fex.net/get/527342147210/97676502
-#EXTINF:0,Пятый элемент 4K
-http://bit.ly/2fxAqnu
-#EXTINF:0,Разлом Сан-Андреас 4К
-http://bit.ly/2tLDbVt
-#EXTINF:0,Слезы стали 4К
-http://bit.ly/2fRs0rr
-#EXTINF:0,Смурфики 2 4К
-http://bit.ly/2u6ez8F
-#EXTINF:0,Солт 4К
-http://bit.ly/2wOqkCa
-#EXTINF:0,Союзники 4К
-http://bit.ly/2tolScM
-#EXTINF:0,Спасатели Малибу 4К
-https://fex.net/get/527342147210/97676500
-#EXTINF:0,Срочная доставка 4К
-http://bit.ly/2yPCzQv
-#EXTINF:0,Звездный путь 4К
-http://bit.ly/2sBrQpy
-#EXTINF:0,Стартрек: Возмездие 4К
-http://bit.ly/2tY2iGH
-#EXTINF:0,Стартрек: Бесконечность 4К
-http://bit.ly/2ttzCob
-#EXTINF:0,Стражи Галактики. Часть 2 4К
-http://bit.ly/2rUx3IK
-#EXTINF:0,Терминатор: Генезис 4К
-https://fex.net/get/527342147210/97676503
-#EXTINF:0,Тетрадь смерти 4К
-http://bit.ly/2yOQHbW
-#EXTINF:0,Тихоокеанский рубеж 4К
-http://bit.ly/2fJoKOV
-#EXTINF:0,Трансформеры: Эпоха истребления 4К
-http://bit.ly/2gk0Iai
-#EXTINF:0,Турист 4К
-http://bit.ly/2hQJFQl
-#EXTINF:0,Убийца 4К
-http://bit.ly/2rUGFTz
-#EXTINF:0,Уцелевший 4К
-http://bit.ly/2uw7wXn
-#EXTINF:0,Фантастические твари и где они обитают 4К
-http://bit.ly/2tKZLPT
-#EXTINF:0,Форрест Гамп 4К
-http://bit.ly/2sHFEj8
-#EXTINF:0,Форсаж 8 4К
-http://bit.ly/2x6ciAs
-#EXTINF:0,Хитмэн: Агент 47 4К
-http://bit.ly/2sopsT2
-#EXTINF:0,Человек, который изменил всё 4К
-http://bit.ly/2wEDceq
-#EXTINF:0,Шпионы по соседству 4К
-http://bit.ly/2rSaJiY
-#EXTINF:0,Человек-паук 4К
-http://bit.ly/2wb10qo
-#EXTINF:0,Человек-паук 2 4К
-http://bit.ly/2hrpNmJ
-#EXTINF:0,Человек-паук 3: Враг в отражении 4К
-http://bit.ly/2uo1APt
-#EXTINF:0,Новый Человек-паук 4К
-http://bit.ly/2hrgrHI
-#EXTINF:0,Новый Человек-паук: Высокое напряжение 4К
-http://bit.ly/2fcN7UF
-#EXTINF:0,Черепашки-ниндзя 2 4К
-http://bit.ly/2u2oBMj
-#EXTINF:0,Чужой: Завет 4К
-http://bit.ly/2x6d1MV
-#EXTINF:0,Эверест 4K
-https://fex.net/get/527342147210/97676501
-#EXTINF:0,Я – легенда 4К
-http://bit.ly/2tURWnB
-#EXTINF:0,Ярость 4К
-http://bit.ly/2rSsZIL
+
 
 #EXTINF:0,Первое Радио (ISR) WEB
 http://gb25.streamgates.net/radios891fm/feed720_in/playlist.m3u8
