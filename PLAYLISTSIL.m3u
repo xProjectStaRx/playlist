@@ -26,6 +26,10 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 
+#EXTINF:-1,Первый канал
+http://5.43.137.159:81/udp/239.255.0.1:1234
+#EXTINF:-1,НТВ
+http://5.43.137.159:81/udp/239.255.0.3:1234
 
 #EXTINF:ТНТ
 http://50.7.128.107:8081/tnt/index.m3u8?wmsAuthSign=1512432339S57e920eaf0f9c3da20ec2ee3dc4049caS28h861h931h77
@@ -69,15 +73,6 @@ http://50.7.180.66:8081/discovery_science/tracks-1,2/index.m3u8?wmsAuthSign=1512
 #EXTINF:-1,Animal Planet
 http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4cf6189e2dd0edfd8cffb9efe9cS28h861h931h77
 
-#EXTINF:-1,Рыжий
-http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
-#EXTINF: 0,Сказки для зайки 
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
-#EXTINF:-1,Смайлик ТВ
-http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Ералаш
-http://50.7.180.66:8081/eralah/index.m3u8?wmsAuthSign=1512433044S18dd5382ed27b0c2b84aa709aaa7386cS28h861h931h77
-
 #EXTINF:-1,Ani
 http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
 #EXTINF:0,JimJam
@@ -88,6 +83,43 @@ http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
 #EXTINF:0,Boomerang
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo
+
+#EXTINF:-1,Boomerang
+http://5.43.137.159:81/udp/239.255.0.50:1234
+#EXTINF:-1,Disney Channel +2
+http://5.43.137.159:81/udp/239.255.0.56:1234
+#EXTINF:-1,Cartoon Network
+http://5.43.137.159:81/udp/239.255.0.96:1234
+#EXTINF:-1,Карусель
+http://176.102.166.36:81/udp/239.192.10.11:1234
+#EXTINF:-1,Nickelodeon
+http://176.102.166.36:81/udp/239.192.10.77:1234
+#EXTINF:-1,Nickelodeon
+http://5.43.137.159:81/udp/239.255.0.42:1234
+#EXTINF:-1,Nick Jr.
+http://5.43.137.159:81/udp/239.255.0.49:1234
+#EXTINF:-1,Детский Мир
+http://188.191.187.253:81/udp/239.192.10.146:1234
+#EXTINF:-1,Мульт
+http://5.43.137.159:81/udp/239.255.0.115:1234
+#EXTINF:-1,В гостях у сказки
+http://5.43.137.159:81/udp/239.255.0.53:1234
+#EXTINF:-1,Мультимания
+http://5.43.137.159:81/udp/239.255.0.165:1234
+#EXTINF:-1,Ginger HD
+http://5.43.137.159:81/udp/239.255.0.206:1234
+#EXTINF:-1,Мультик HD
+http://5.43.137.159:81/udp/239.255.0.209:1234
+
+
+#EXTINF:-1,Рыжий
+http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,Смайлик ТВ
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,Ералаш
+http://50.7.180.66:8081/eralah/index.m3u8?wmsAuthSign=1512433044S18dd5382ed27b0c2b84aa709aaa7386cS28h861h931h77
+#EXTINF: 0,Сказки зайки 
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
 
 #EXTINF:-1,Шансон ТВ
