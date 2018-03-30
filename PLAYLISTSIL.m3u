@@ -58,6 +58,9 @@ http://serv24.vintera.tv:8081/26region/26region1/playlist.m3u8
 #EXTINF:0,Zvezda
 http://5.19.217.226:81/udp/235.10.10.178:1234
 
+#EXTINF:0,Super
+http://5.43.137.159:81/udp/239.255.0.212:1234
+
 #EXTINF:-1,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Travel
