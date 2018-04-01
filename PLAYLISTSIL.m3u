@@ -58,8 +58,6 @@ http://serv24.vintera.tv:8081/26region/26region1/playlist.m3u8
 #EXTINF:0,Zvezda
 http://5.19.217.226:81/udp/235.10.10.178:1234
 
-#EXTINF:0,Super
-http://5.43.137.159:81/udp/239.255.0.212:1234
 
 #EXTINF:-1,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
@@ -86,33 +84,6 @@ http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
 #EXTINF:0,Boomerang
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo
-
-#EXTINF:-1,Boomerang
-http://5.43.137.159:81/udp/239.255.0.50:1234
-#EXTINF:-1,Disney Channel +2
-http://5.43.137.159:81/udp/239.255.0.56:1234
-#EXTINF:-1,Cartoon Network
-http://5.43.137.159:81/udp/239.255.0.96:1234
-#EXTINF:-1,Карусель
-http://176.102.166.36:81/udp/239.192.10.11:1234
-#EXTINF:-1,Nickelodeon
-http://176.102.166.36:81/udp/239.192.10.77:1234
-#EXTINF:-1,Nickelodeon
-http://5.43.137.159:81/udp/239.255.0.42:1234
-#EXTINF:-1,Nick Jr.
-http://5.43.137.159:81/udp/239.255.0.49:1234
-#EXTINF:-1,Детский Мир
-http://188.191.187.253:81/udp/239.192.10.146:1234
-#EXTINF:-1,Мульт
-http://5.43.137.159:81/udp/239.255.0.115:1234
-#EXTINF:-1,В гостях у сказки
-http://5.43.137.159:81/udp/239.255.0.53:1234
-#EXTINF:-1,Мультимания
-http://5.43.137.159:81/udp/239.255.0.165:1234
-#EXTINF:-1,Ginger HD
-http://5.43.137.159:81/udp/239.255.0.206:1234
-#EXTINF:-1,Мультик HD
-http://5.43.137.159:81/udp/239.255.0.209:1234
 
 
 #EXTINF:-1,Рыжий
