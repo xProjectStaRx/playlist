@@ -11,6 +11,12 @@ http://31.168.246.217:9981/stream/channelid/1683812876
 #EXTINF:-1,Ch 13 Reshet
 http://31.168.246.217:9981/stream/channelid/1504208352
 
+#EXTINF:-1,Ch 12 Keshet
+http://langamepp.com/chtst/630295855D280A8C31A22EDB9D6B2CA95234A4BD6D1D76EF59931CB0F81844CC1759FCE900
+#EXTINF:-1,Ch 13 Reshet
+http://langamepp.com/chtst/AE399D20E96F1F93394121AC42732AA59F0FAC18D95A63F0517012DE270042C0DA62F44CB4
+
+
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
@@ -22,6 +28,8 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
 #EXTINF:0,21 Arutz Hakniyot
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+#EXTINF:0,23 Arutz Hinuhit
+http://langamepp.com/chtst/5ABBC7432AE6D66427F710696A3A0FDF6B8DF67B1AD3AA074FC52332035652
 #EXTINF:0,24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
