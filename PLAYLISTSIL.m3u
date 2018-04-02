@@ -26,10 +26,6 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 
-#EXTINF:-1,Первый канал
-http://5.43.137.159:81/udp/239.255.0.1:1234
-#EXTINF:-1,НТВ
-http://5.43.137.159:81/udp/239.255.0.3:1234
 
 #EXTINF:ТНТ
 http://50.7.128.107:8081/tnt/index.m3u8?wmsAuthSign=1512432339S57e920eaf0f9c3da20ec2ee3dc4049caS28h861h931h77
