@@ -7,9 +7,9 @@ http://146.185.61.140:1935/ILAND/smil:iland.smil/chunklist_w897681157_b596000.m3
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
 #EXTINF:-1,Ch 12 Keshet
-http://31.168.246.217:9981/stream/channelid/1683812876
+http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1683812876
 #EXTINF:-1,Ch 13 Reshet
-http://31.168.246.217:9981/stream/channelid/1504208352
+http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1504208352
 
 
 #EXTINF:-1,Keshet VOD
