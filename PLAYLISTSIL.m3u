@@ -73,6 +73,10 @@ http://50.7.180.66:8081/discovery_science/tracks-1,2/index.m3u8?wmsAuthSign=1512
 #EXTINF:-1,Animal Planet
 http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4cf6189e2dd0edfd8cffb9efe9cS28h861h931h77
 
+#EXTINF:-1,Avto 24
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/172/index.m3u8
+
+
 #EXTINF:-1,Ani
 http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
 #EXTINF:0,JimJam
