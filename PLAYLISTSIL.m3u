@@ -79,8 +79,17 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/172/inde
 http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
 #EXTINF:0,JimJam
 http://37.193.127.5:81/udp/239.1.3.2:1234
-#EXTINF:-1,Nickelodeon
-http://50.7.128.107:8081/nickelodeon/index.m3u8?wmsAuthSign=1512433351S40aefa296388162350296234678e5f21S28h861h931h77
+
+#EXTINF:0,Disney Channel
+http://77.75.10.154:81/udp/239.195.0.44:1234
+#EXTINF:0,Cartoon Network
+http://109.171.14.41:81/udp/239.54.6.57:1224
+#EXTINF:0,Nickelodeon
+http://178.163.28.30:4022/udp/234.0.0.153:2000
+#EXTINF:0,Nick Jr.
+http://158.46.241.29:81/udp/239.255.42.126:1234
+
+
 #EXTINF:-1,Tiji
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
 #EXTINF:0,Boomerang
