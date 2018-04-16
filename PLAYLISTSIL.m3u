@@ -28,7 +28,8 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:0,24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
-
+#EXTINF:-1,Первый канал  HD
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/156/index.m3u8
 
 #EXTINF:ТНТ
 http://50.7.128.107:8081/tnt/index.m3u8?wmsAuthSign=1512432339S57e920eaf0f9c3da20ec2ee3dc4049caS28h861h931h77
