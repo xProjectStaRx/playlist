@@ -31,7 +31,7 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:0, Aruz Hakniyot 
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:0, Sport5 live
-http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_1_av-b.m3u8?sd=10&rebase=on
+http://osasnmioa10mf.tarefet.com:8080/hls/sport5live.m3u8
 
 #EXTINF:-1,Первый канал  HD
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/156/index.m3u8
