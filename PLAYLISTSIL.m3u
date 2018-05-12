@@ -111,18 +111,12 @@ http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF:-1,HITV
-http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
 #EXTINF:-1,Heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:-1,HitMusic
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1,Russian Music Box
-http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
 #EXTINF:-1,1 Muz Rus
 http://rtmp.one.by:2300/
-#EXTINF:-1,Music Box
-http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1,Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
 #EXTINF:-1,О2 ТВ
@@ -178,6 +172,31 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:0,TRT MÜZİK
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 
+
+#EXTINF:-1, [AZ] ARB
+http://astra.climetv.eu:35471/play/arbaz?token=AZERBAFRH
+#EXTINF:-1, [AZ] CBC SPORT HD
+http://astra.climetv.eu:35471/play/cbcsporthd?token=AZERBAFRH
+#EXTINF:-1, [AZ] ARB ULDUZ
+http://astra.climetv.eu:35471/play/arbulduz?token=AZERBAFRH
+#EXTINF:-1, [AZ] CBC
+http://astra.climetv.eu:35471/play/cbcaz?token=AZERBAFRH
+#EXTINF:-1, [AZ] ARB GUNESH
+http://astra.climetv.eu:35471/play/arbgun?token=AZERBAFRH
+#EXTINF:-1, [AZ] ATV HD
+http://astra.climetv.eu:35471/play/atvhdaz?token=AZERBAFRH
+#EXTINF:-1, [AZ] XEZER TV
+http://astra.climetv.eu:35471/play/xazar?token=AZERBAFRH
+#EXTINF:-1, [AZ] Lider TV
+http://astra.climetv.eu:35471/play/lideraz?token=AZERBAFRH
+#EXTINF:-1, [AZ] Real TV
+http://astra.climetv.eu:35471/play/realtvaz?token=AZERBAFRH
+#EXTINF:-1, [AZ] CBC SPORT
+http://astra.climetv.eu:35471/play/cbcsportaz?token=AZERBAFRH
+#EXTINF:-1, [AZ] ATV
+http://astra.climetv.eu:35471/play/atvaz?token=AZERBAFRH
+#EXTINF:-1, [AZ] IDMAN AZERBAYCAN
+http://astra.climetv.eu:35471/play/idmanaz?token=AZERBAFRH
 
 
 
