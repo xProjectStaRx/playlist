@@ -8,10 +8,15 @@ http://50.7.168.114:8081/9_izrail/index.m3u8?wmsAuthSign=2d519af826acacc636d7f1f
 #EXTINF:-1, Kan 11
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:-1,Ch 12 Keshet
+#EXTINF:-1,Ch 12 Keshet Dune
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1683812876
-#EXTINF:-1,Ch 13 Reshet
+#EXTINF:-1,Ch 13 Reshet Dune
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1504208352
+
+#EXTINF:-1,Ch 12 Keshet
+http://31.168.246.217:9981/stream/channelid/1683812876
+#EXTINF:-1,Ch 13 Reshet
+http://31.168.246.217:9981/stream/channelid/1504208352
 
 
 #EXTINF:-1,Keshet VOD
@@ -79,33 +84,16 @@ http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4c
 #EXTINF:-1,Avto 24
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/172/index.m3u8
 
-
-#EXTINF:-1,Ani
-http://50.7.128.107:8081/ani/index.m3u8?wmsAuthSign=1512432956S88c9ca170c4c11337ac97891222562d7S28h861h931h77
 #EXTINF:0,JimJam
 http://37.193.127.5:81/udp/239.1.3.2:1234
-
-#EXTINF:0,Disney Channel
-http://77.75.10.154:81/udp/239.195.0.44:1234
-#EXTINF:0,Cartoon Network
-http://109.171.14.41:81/udp/239.54.6.57:1224
-#EXTINF:0,Nickelodeon
-http://178.163.28.30:4022/udp/234.0.0.153:2000
-
 
 #EXTINF:-1,Tiji
 http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
 #EXTINF:0,Boomerang
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo
-
-
-#EXTINF:-1,Рыжий
-http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Ералаш
-http://50.7.180.66:8081/eralah/index.m3u8?wmsAuthSign=1512433044S18dd5382ed27b0c2b84aa709aaa7386cS28h861h931h77
-#EXTINF: 0,Сказки зайки 
+#EXTINF:-1,Сказки зайки
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
 
