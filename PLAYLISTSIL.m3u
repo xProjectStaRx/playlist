@@ -18,7 +18,6 @@ http://31.168.246.217:9981/stream/channelid/1683812876
 #EXTINF:-1,Ch 13 Reshet
 http://31.168.246.217:9981/stream/channelid/1504208352
 
-
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
@@ -32,7 +31,6 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:0,24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-
 #EXTINF:0, Aruz Hakniyot 
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 
