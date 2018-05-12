@@ -38,13 +38,8 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:-1,Первый канал  HD
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/156/index.m3u8
 
-#EXTINF:ТНТ
-http://50.7.128.107:8081/tnt/index.m3u8?wmsAuthSign=1512432339S57e920eaf0f9c3da20ec2ee3dc4049caS28h861h931h77
-#EXTINF:СТС
-http://50.7.180.66:8081/sts/index.m3u8?wmsAuthSign=1512432276S65bdc56ed77411f49df845489a90e658S28h861h931h77
 #EXTINF:-1,НТВ 1
 http://pstv.krasmix.ru/tv/ntv/playlist.m3u8
-
 
 #EXTINF:-1,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
@@ -66,18 +61,8 @@ http://5.19.217.226:81/udp/235.10.10.178:1234
 
 #EXTINF:-1,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,Travel
-http://50.7.128.107:8081/travel/index.m3u8?wmsAuthSign=1512433236S449174339afcb12299b46d533c7a32d7S28h861h931h77
-#EXTINF:-1,Travel and Adventure
-http://50.7.180.66:8081/traveladve/tracks-1,2/index.m3u8?wmsAuthSign=1512433131Sf5e9b654d24d5b6cebf6ebd5d0305747S28h861h931h77
 #EXTINF:-1,Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,History
-http://50.7.128.107:8081/history/index.m3u8?wmsAuthSign=1512432428S27879e44df45648c5051a68cf8e404a4S28h861h931h77
-#EXTINF:-1,Discovery Science
-http://50.7.180.66:8081/discovery_science/tracks-1,2/index.m3u8?wmsAuthSign=1512432739Sb46bc7cfa5d983b0733f59cf2bc36110S28h861h931h77
-#EXTINF:-1,Animal Planet
-http://50.7.128.107:8081/animal_planet/index.m3u8?wmsAuthSign=1512432520S400ae4cf6189e2dd0edfd8cffb9efe9cS28h861h931h77
 
 #EXTINF:-1,Avto 24
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/172/index.m3u8
@@ -85,8 +70,6 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/172/inde
 #EXTINF:0,JimJam
 http://37.193.127.5:81/udp/239.1.3.2:1234
 
-#EXTINF:-1,Tiji
-http://50.7.128.107:8081/tiji/index.m3u8?wmsAuthSign=1512433440Sa7dbb777b0078fb6f6c6913e59f37556S28h861h931h77
 #EXTINF:0,Boomerang
 http://91.149.172.100:80/channel?id=119&u=demo&p=demo
 #EXTINF:-1,Смайлик ТВ
