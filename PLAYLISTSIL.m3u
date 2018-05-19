@@ -106,6 +106,53 @@ http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
 
+#EXTINF:-1 tvg-id="ONE By HD 1080P" group-title="Music - מוזיקה" tvg-logo="",ONE By HD 1080P
+http://rtmp.one.by:1300/
+#EXTINF:-1 tvg-id="One By RUSSIA HD 720P" group-title="Music - מוזיקה" tvg-logo="",One By RUSSIA HD 720P
+http://rtmp.one.by:2300/
+#EXTINF:-1 tvg-id="cityTV" group-title="Music - מוזיקה" tvg-logo="",cityTV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:-1 tvg-id="CMC TV country" group-title="Music - מוזיקה" tvg-logo="",CMC TV country
+rtmp://cmctv.flash.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV live=1 pageUrl=http://www.cmc-tv.com/
+#EXTINF:-1 tvg-id="gotv music" group-title="Music - מוזיקה" tvg-logo="https://www.wownet.ro/logo/0126.png",gotv music
+rtmp://nstream17.gotv.at:1936/live playpath=gotvlive_576p swfUrl=http://www.gotv.at/stream/flowplayer/flowplayer-3.2.18.swf pageUrl=http://www.gotv.at/stream/?q=H
+#EXTINF:-1 tvg-id="CAPITAL TV" group-title="Music - מוזיקה" tvg-logo="http://www.thisisglobal.com/wp-content/uploads/2012/10/Capital-TV-430x160.png",CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Heart TV" group-title="Music - מוזיקה" tvg-logo="http://4.bp.blogspot.com/-uB91vxe1PS8/UbTZ5Ada0rI/AAAAAAAAAsI/VWRa6har84E/w200/1.png",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="1music.ro" group-title="Music - מוזיקה" tvg-logo="http://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg",1music.ro
+http://127.0.0.1:65007/?url=http%3A//www.livestream.com/1_music_channel/&mode=3
+#EXTINF:-1 tvg-id="Stars TV" group-title="Music - מוזיקה" tvg-logo="http://media2.pl/g/0/31809.jpg",Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+#EXTINF:-1 tvg-id="4fun.tv" group-title="Music - מוזיקה" tvg-logo="http://www.4funmedia.pl/pub/uploadimages/gtx/3_2014-11-25_4fun.tv2014.jpg",4fun.tv
+http://127.0.0.1:65007/?url=4funtv&mode=31
+#EXTINF:-1 tvg-id="4fun.tv" group-title="Music - מוזיקה" tvg-logo="",4fun.tv
+http://video.popler.tv:1935/publishlive/4funtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vox olds cool TV" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",Vox olds cool TV
+rtmp://stream.smcdn.pl/vox-t/vox_720p
+#EXTINF:-1 tvg-id="music Vox TV" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",music Vox TV
+rtmp://stream.smcdn.pl/vox2-p/stream1
+#EXTINF:-1 tvg-id="eska rock" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",eska rock
+rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p
+#EXTINF:-1 tvg-id="eska party" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",eska party
+rtmp://stream.smcdn.pl/eska_party-t/eska_party_720p
+#EXTINF:-1 tvg-id="eska best Music" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",eska best Music
+rtmp://stream.smcdn.pl/best-t/best_720p
+#EXTINF:-1 tvg-id="Eska Wawa TV Polska" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",Eska Wawa TV Polska
+rtmp://stream.smcdn.pl/wawa-t/wawa_720p
+#EXTINF:-1 tvg-id="Polo Party TV" group-title="Music - מוזיקה" tvg-logo="",Polo Party TV
+rtmp://stream.smcdn.pl/polo_party-t/polo_party_720p
+#EXTINF:-1 tvg-id="Clubbing TV" group-title="Music - מוזיקה" tvg-logo="http://static.filmon.com/couch/channels/691/extra_big_logo.png",Clubbing TV
+http://127.0.0.1:65007/?url=play2&mode=17
+#EXTINF:-1 tvg-id="Zougla HD" group-title="Music - מוזיקה" tvg-logo="",Zougla HD
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
+#EXTINF:-1 tvg-id="Virgin TV" group-title="Music - מוזיקה" tvg-logo="http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png",Virgin TV
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:-1 tvg-id="Virgin TV" group-title="Music - מוזיקה" tvg-logo="http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png",Virgin TV
+rtmp://fms.105.net:1935/live/ playpath=virgin1 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/357/virgin-1 live=1 timeout=10
+#EXTINF:-1 tvg-id="m2o TV" group-title="Music - מוזיקה" tvg-logo="http://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png",m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
 
 
 #EXTINF:0,TRT 1 HD
