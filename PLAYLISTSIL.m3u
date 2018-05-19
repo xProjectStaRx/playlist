@@ -2,6 +2,8 @@
  
 #EXTINF:0,iLand
 http://146.185.61.140:1935/ILAND/smil:iland.smil/chunklist_w897681157_b596000.m3u8
+#EXTINF:0,iLand HD
+https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist_w1783276280_b1496000.m3u8
 #EXTINF:0,9 канал Израиль
 http://50.7.168.114:8081/9_izrail/index.m3u8?wmsAuthSign=2d519af826acacc636d7f1fde710b581-1523676256-28i861i931i77
 
@@ -140,32 +142,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:0,TRT MÜZİK
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-
-
-#EXTINF:-1, [AZ] ARB
-http://astra.climetv.eu:35471/play/arbaz?token=AZERBAFRH
-#EXTINF:-1, [AZ] CBC SPORT HD
-http://astra.climetv.eu:35471/play/cbcsporthd?token=AZERBAFRH
-#EXTINF:-1, [AZ] ARB ULDUZ
-http://astra.climetv.eu:35471/play/arbulduz?token=AZERBAFRH
-#EXTINF:-1, [AZ] CBC
-http://astra.climetv.eu:35471/play/cbcaz?token=AZERBAFRH
-#EXTINF:-1, [AZ] ARB GUNESH
-http://astra.climetv.eu:35471/play/arbgun?token=AZERBAFRH
-#EXTINF:-1, [AZ] ATV HD
-http://astra.climetv.eu:35471/play/atvhdaz?token=AZERBAFRH
-#EXTINF:-1, [AZ] XEZER TV
-http://astra.climetv.eu:35471/play/xazar?token=AZERBAFRH
-#EXTINF:-1, [AZ] Lider TV
-http://astra.climetv.eu:35471/play/lideraz?token=AZERBAFRH
-#EXTINF:-1, [AZ] Real TV
-http://astra.climetv.eu:35471/play/realtvaz?token=AZERBAFRH
-#EXTINF:-1, [AZ] CBC SPORT
-http://astra.climetv.eu:35471/play/cbcsportaz?token=AZERBAFRH
-#EXTINF:-1, [AZ] ATV
-http://astra.climetv.eu:35471/play/atvaz?token=AZERBAFRH
-#EXTINF:-1, [AZ] IDMAN AZERBAYCAN
-http://astra.climetv.eu:35471/play/idmanaz?token=AZERBAFRH
 
 
 
