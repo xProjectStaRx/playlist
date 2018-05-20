@@ -15,6 +15,9 @@ http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channe
 #EXTINF:-1,Ch 13 Reshet Dune
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1504208352
 
+#EXTINF:-1,Ch 13 Gibuy
+http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
+
 #EXTINF:-1,Ch 12 Keshet
 http://31.168.246.217:9981/stream/channelid/1683812876
 #EXTINF:-1,Ch 13 Reshet
@@ -35,6 +38,13 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:0, Aruz Hakniyot 
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+
+
+#EXTINF:-1, Sport 5 Live
+http://sport5_live1-lh.akamaihd.net/i/live3_0@129322/index_1_av-b.m3u8?sd=10&rebase=on
+
+
+
 
 
 #EXTINF:-1,Первый канал  HD
