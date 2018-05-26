@@ -189,7 +189,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://193.169.52.206/a-tom-jerry/1-90.mp4
 #EXTINF:-1,Tom y Jerry 1-89
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://193.169.52.206/a-tom-jerry/1-89.mp4
-#EXTINF:-1,Tom y Jerry
+#EXTINF:-1,Tom y Jerry 1-88
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://193.169.52.206/a-tom-jerry/1-88.mp4
 #EXTINF:-1,Tom y Jerry 1-87
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://193.169.52.206/a-tom-jerry/1-87.mp4
