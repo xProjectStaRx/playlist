@@ -44,7 +44,8 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/156/inde
 
 #EXTINF:-1,НТВ 1
 http://pstv.krasmix.ru/tv/ntv/playlist.m3u8
-
+#EXTINF:-1,ТНТ HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/116/index.m3u8
 #EXTINF:-1,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Euronews
@@ -69,20 +70,36 @@ http://5.19.217.226:81/udp/235.10.10.178:1234
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Nat Geo Wild Russia
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/55/index.m3u8
+#EXTINF:-1,National Geographic HD Russia & Türkiye
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/161/index.m3u8
 
 #EXTINF:-1,Avto 24
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/172/index.m3u8
 
 #EXTINF:0,JimJam
 http://37.193.127.5:81/udp/239.1.3.2:1234
-#EXTINF:0,Nikelodeon CIS
+#EXTINF:0,JimJam
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/179/index.m3u8
+#EXTINF:-1,Ани
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/104/index.m3u8
+#EXTINF:0,Nickelodeon HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/30/index.m3u8
+#EXTINF:0,Nickelodeon CIS
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/181/index.m3u8
+#EXTINF:0,Nickelodeon CIS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/181/index.m3u8
+#EXTINF:0,Nick JR
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/233/index.m3u8
 #EXTINF:0,Boomerang
-http://91.149.172.100:80/channel?id=119&u=demo&p=demo
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/242/index.m3u8
 #EXTINF:0,Boomerang Dune
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://91.149.172.100:80/channel?id=119&u=demo&p=demo
 #EXTINF:-1,Смайлик ТВ
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:0,Мультимания
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/873/index.m3u8
 #EXTINF:-1,Сказки зайки
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
