@@ -35,7 +35,8 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:0,24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
-
+#EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", ערוץ החדשות
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
 
 
