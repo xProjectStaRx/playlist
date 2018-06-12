@@ -127,8 +127,6 @@ http://rtmp.one.by:1300/
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Radio Montecarlo
 http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-id="ONE By HD 1080P" group-title="Music - מוזיקה" tvg-logo="",ONE By HD 1080P
 http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-id="One By RUSSIA HD 720P" group-title="Music - מוזיקה" tvg-logo="",One By RUSSIA HD 720P
@@ -137,18 +135,7 @@ http://rtmp.one.by:2300/
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 #EXTINF:-1 tvg-id="CMC TV country" group-title="Music - מוזיקה" tvg-logo="",CMC TV country
 rtmp://cmctv.flash.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV live=1 pageUrl=http://www.cmc-tv.com/
-#EXTINF:-1 tvg-id="CAPITAL TV" group-title="Music - מוזיקה" tvg-logo="http://www.thisisglobal.com/wp-content/uploads/2012/10/Capital-TV-430x160.png",CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="music Vox TV" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",music Vox TV
-rtmp://stream.smcdn.pl/vox2-p/stream1
-#EXTINF:-1 tvg-id="eska rock" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",eska rock
-rtmp://stream.smcdn.pl/eska_rock-t/eska_rock_720p
-#EXTINF:-1 tvg-id="eska party" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",eska party
-rtmp://stream.smcdn.pl/eska_party-t/eska_party_720p
-#EXTINF:-1 tvg-id="Eska Wawa TV Polska" group-title="Music - מוזיקה" tvg-logo="http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg",Eska Wawa TV Polska
-rtmp://stream.smcdn.pl/wawa-t/wawa_720p
-#EXTINF:-1 tvg-id="Polo Party TV" group-title="Music - מוזיקה" tvg-logo="",Polo Party TV
-rtmp://stream.smcdn.pl/polo_party-t/polo_party_720p
+
 #EXTINF:-1 tvg-id="Virgin TV" group-title="Music - מוזיקה" tvg-logo="http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png",Virgin TV
 http://wow01.105.net/live/virgin1/playlist.m3u8
 #EXTINF:-1 tvg-id="m2o TV" group-title="Music - מוזיקה" tvg-logo="http://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png",m2o TV
