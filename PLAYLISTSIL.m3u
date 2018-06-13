@@ -8,18 +8,11 @@ http://50.7.168.114:8081/9_izrail/index.m3u8?wmsAuthSign=2d519af826acacc636d7f1f
 #EXTINF:-1, Kan 11
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:-1,Ch 12 Keshet Dune
+#EXTINF:-1,Ch 12 Keshet
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1683812876
-#EXTINF:-1,Ch 13 Reshet Dune
-http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1504208352
-
-#EXTINF:-1,Ch 13 Gibuy
+#EXTINF:-1,Ch 13 Reshet
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
 
-#EXTINF:-1,Ch 12 Keshet
-http://31.168.246.217:9981/stream/channelid/1683812876
-#EXTINF:-1,Ch 13 Reshet
-http://31.168.246.217:9981/stream/channelid/1504208352
 
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
@@ -35,7 +28,7 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:0,24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
-#EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", ערוץ החדשות
+#EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", Arutz Hadashot
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
 
@@ -43,14 +36,20 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1,Первый канал  HD
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/156/index.m3u8
 
+#EXTINF:-1,НТВ HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/109/index.m3u8
 #EXTINF:-1,НТВ 1
 http://pstv.krasmix.ru/tv/ntv/playlist.m3u8
 #EXTINF:-1,ТНТ HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/116/index.m3u8
-#EXTINF:-1,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,CTC
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/274/index.m3u8
+#EXTINF:-1,CTC Love
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/275/index.m3u8
 #EXTINF:-1,Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
 #EXTINF:-1,Россия К
@@ -63,6 +62,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:strana.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,К1
 http://109.68.40.67/life/k1.m3u8
+#EXTINF:0,Пятница!
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/207/index.m3u8
 #EXTINF:0,Zvezda
 http://5.19.217.226:81/udp/235.10.10.178:1234
 
@@ -78,6 +79,8 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/161/inde
 
 #EXTINF:-1,Avto 24
 http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/172/index.m3u8
+#EXTINF:-1,Avto Plus
+http:\\playlist.onlybest.tv\ru\channel\262f9cb9e35b2e64d0571c3e9c1cd4fa\248\index.m3u8
 
 #EXTINF:0,JimJam
 http://37.193.127.5:81/udp/239.1.3.2:1234
@@ -97,22 +100,39 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/233/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/242/index.m3u8
 #EXTINF:0,Boomerang Dune
 http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://91.149.172.100:80/channel?id=119&u=demo&p=demo
+#EXTINF:0,Disney Russia
+http:\\playlist.onlybest.tv\ru\channel\262f9cb9e35b2e64d0571c3e9c1cd4fa\11\index.m3u8
+#EXTINF:0,Тлум HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/292/index.m3u8
 #EXTINF:-1,Смайлик ТВ
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:0,Мульт
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/300/index.m3u8
 #EXTINF:0,Мультимания
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/873/index.m3u8
+#EXTINF:0,Карусель
+http:\\playlist.onlybest.tv\ru\channel\262f9cb9e35b2e64d0571c3e9c1cd4fa\244\index.m3u8
 #EXTINF:-1,Сказки зайки
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
-
 #EXTINF:-1,Шансон ТВ
+http:\\playlist.onlybest.tv\ru\channel\262f9cb9e35b2e64d0571c3e9c1cd4fa\198\index.m3u8
+#EXTINF:-1,Шансон ТВ2
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1,Муз-ТВ
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/12/index.m3u8
+#EXTINF:-1,Музыка Первого
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/245/index.m3u8
+#EXTINF:-1,THT Music
+http:\\playlist.onlybest.tv\ru\channel\262f9cb9e35b2e64d0571c3e9c1cd4fa\22\index.m3u8
 #EXTINF:-1,Heart
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:-1,HitMusic
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1,1 Muz Rus
 http://rtmp.one.by:2300/
+#EXTINF:-1,1 MTV Russia
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/227/index.m3u8
 #EXTINF:-1,Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
 #EXTINF:-1,О2 ТВ
