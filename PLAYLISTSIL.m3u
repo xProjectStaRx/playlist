@@ -6,7 +6,7 @@ https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist_w1783276280
 http://50.7.168.114:8081/9_izrail/index.m3u8?wmsAuthSign=2d519af826acacc636d7f1fde710b581-1523676256-28i861i931i77
 
 #EXTINF:-1, Kan 11
-http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+https://82-80-192-13.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w2031543557_b1928000.m3u8?ttl=1521305692&cdn_token=4025d974a95779e2df3d70178e3752d8
 
 #EXTINF:-1,Ch 12 Keshet
 http://77.139.63.98:9981/stream/channelid/5?ticket=AED3FC7314737381002A10C3B7419452969ECAC2
