@@ -80,6 +80,12 @@ http://5.19.217.226:81/udp/235.10.10.178:1234
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http:\\91.149.172.100:80\channel?id=7&u=demo&p=demo
+#EXTINF:-1,National Geographic HD
+http://91.149.172.100:80/channel?id=91&u=demo&p=demo
+#EXTINF:-1,Travel channel HD
+http:\\91.149.172.100:80\channel?id=144&u=demo&p=demo
 
 
 
