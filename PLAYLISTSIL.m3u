@@ -3,18 +3,17 @@
 #EXTINF:0,iLand HD
 https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist_w1783276280_b1496000.m3u8
 #EXTINF:0,9 канал Израиль
-http://50.7.168.114:8081/9_izrail/index.m3u8?wmsAuthSign=2d519af826acacc636d7f1fde710b581-1523676256-28i861i931i77
+http://50.7.136.50:8081/9_izrail/index.m3u8
 
 #EXTINF:-1, Kan 11
 https://82-80-192-13.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w2031543557_b1928000.m3u8?ttl=1521305692&cdn_token=4025d974a95779e2df3d70178e3752d8
 
 #EXTINF:-1,Ch 12 Keshet
-http://l12.isramedia.net:1935/chan/smil:12vv.smil/chunklist_w343042112_b600000_tkdG9rZW5zdGFydHRpbWU9MTUzMDEyMjEwNiZ0b2tlbmVuZHRpbWU9MTUzMDEyNTcwNiZ0b2tlbmhhc2g9ZHZTSEh3ZkVOSGcyYjk1aC1leDJWT3BFX1hDamdacXBLc3RmcXRON2xlOD0=.m3u8
+https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12es.smil/chunklist_w1569582264_b800000_tkdG9rZW5zdGFydHRpbWU9MTUzMjk3NjkxMCZ0b2tlbmVuZHRpbWU9MTUzMjk4MDUxMCZ0b2tlbmhhc2g9SGtkMURoU1k1R01JZk5ncDdjWmRZQlE5dU1XZ2lBZFdOUjZfWWFUVlc3Yz0=.m3u8
 #EXTINF:-1,Ch 13 Reshet
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
 #EXTINF:-1,Ch 13 Reshet Gibuy
-http://77.139.63.98:9981/stream/channelid/1?ticket=02869011B5C63AFE5D85A0313EAC6EFE81601789
-
+http:\\besttv199.aoslive.it.best-tv.com\reshet\studio\index_4.m3u8
 
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
@@ -23,14 +22,14 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:0,Aruz 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
-#EXTINF:0,99 Aruz Knesset
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
+#EXTINF:0,99 Aruz Haknesset
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:0,21 Arutz Hakniyot
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 #EXTINF:0,24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1,Hinuhit
-http://77.139.63.98:9981/stream/channelid/3?ticket=175DF34567F79CF3E48047108472687D8F920828
+http://IL28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/chunklist_w2104786917.m3u8
 
 #EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", Arutz Hadashot
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
