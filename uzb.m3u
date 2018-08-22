@@ -1,19 +1,19 @@
 #EXTM3U
  
-#EXTINF:0,CHANNELNAME
-CHANNELLINK
+#EXTINF:0,O'zbekiston 24
+https://str-1.mediabay.tv/Uzbekistan24/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,CHANNELNAME
-CHANNELLINK
+#EXTINF:0,O'zbekiston
+https://str-1.mediabay.tv/Uzbekistan/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,CHANNELNAME
-CHANNELLINK
+#EXTINF:0,Toshkent
+https://str-1.mediabay.tv/Toshkent/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,CHANNELNAME
-CHANNELLINK
+#EXTINF:0,Sport
+https://str-1.mediabay.tv/SportUz/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,CHANNELNAME
-CHANNELLINK
+#EXTINF:0,Yoshlar
+https://str-1.mediabay.tv/Yoshlar/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,CHANNELNAME
 CHANNELLINK
