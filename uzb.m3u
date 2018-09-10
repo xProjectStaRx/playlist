@@ -52,6 +52,9 @@ https://str-1.mediabay.tv/Atameken/tracks-v1a1/mono.m3u8
 #EXTINF:0,Boorsok TV
 https://str-1.mediabay.tv/BoorsokTV/tracks-v1a1/mono.m3u8
 
+#EXTINF:0,AzTV
+https://str-1.mediabay.tv/AZTV/tracks-v1a1/mono.m3u8?token=69616a13bb58816feb2776ada1916980a796c91f
+
 #EXTINF:0,ATV
 https://str-1.mediabay.tv/Azad_Azerbaycan/tracks-v1a1/mono.m3u8
 
