@@ -8,8 +8,6 @@ http://50.7.136.50:8081/9_izrail/index.m3u8
 #EXTINF:-1, Kan 11
 http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
-#EXTINF:0 tvg-name="Keshet", Keshet
-http://37.152.88.252/Keshet/video.m3u8?token=israel
 
 #EXTINF:-1,Ch 13 Reshet
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
@@ -32,49 +30,6 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", Arutz Hadashot
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
-
-#EXTINF:0 tvg-name="ONE_HD", ONE_HD
-http://37.152.88.252/ONE_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="Sport_1_HD", Sport_1_HD
-http://37.152.88.252/Sport_1_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="Sport_2_HD", Sport_2_HD
-http://37.152.88.252/Sport_2_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="Sport_3_HD", Sport_3_HD
-http://37.152.88.252/Sport_3_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="Sport_4_HD", Sport_4_HD
-http://37.152.88.252/Sport_4_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="Sport_5_HD", Sport_5_HD
-http://37.152.88.252/Sport_5_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="Sport_5_Live_HD", Sport_5_Live_HD
-http://37.152.88.252/Sport_5_Live_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="Sport_5_Plus", Sport_5_Plus
-http://37.152.88.252/Sport_5_Plus/video.m3u8?token=israel
-#EXTINF:0 tvg-name="HOT_3_HD", HOT_3_HD
-http://37.152.88.252/HOT_3_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="HOT_FUN_HD", HOT_FUN_HD
-http://37.152.88.252/HOT_FUN_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="HOT_ZONE_HD", HOT_ZONE_HD
-http://37.152.88.252/HOT_ZONE_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="HOT_ACTION_HD", HOT_ACTION_HD
-http://37.152.88.252/HOT_ACTION_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="HOT_COMEDY_HD", HOT_COMEDY_HD
-http://37.152.88.252/HOT_COMEDY_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="HOT_BIDUR_ISRAELI", HOT_BIDUR_ISRAELI
-http://37.152.88.252/HOT_BIDUR_ISRAELI/video.m3u8?token=israel
-#EXTINF:0 tvg-name="NAT_GEO_HD", NAT_GEO_HD
-http://37.152.88.252/NAT_GEO_HD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="NAT_GEO_WILD", NAT_GEO_WILD
-http://37.152.88.252/NAT_GEO_WILD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="JUNIOR", JUNIOR
-http://37.152.88.252/JUNIOR/video.m3u8?token=israel
-#EXTINF:0 tvg-name="DISNEY_JUNIOR", DISNEY_JUNIOR
-http://37.152.88.252/DISNEY_JUNIOR/video.m3u8?token=israel
-#EXTINF:0 tvg-name="HOP_YALDUT_ISRAELIT", HOP_YALDUT_ISRAELIT
-http://37.152.88.252/HOP_YALDUT_ISRAELIT/video.m3u8?token=israel
-#EXTINF:0 tvg-name="FOOD", FOOD
-http://37.152.88.252/FOOD/video.m3u8?token=israel
-#EXTINF:0 tvg-name="TRAVEL", TRAVEL
-http://37.152.88.252/TRAVEL/video.m3u8?token=israel
 
 
 
