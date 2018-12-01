@@ -4,15 +4,10 @@
 https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
 
 
-#EXTINF:-1, Kan 11
-http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
-
 
 #EXTINF:-1,Ch 13 Reshet
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
 
-#EXTINF:-1,Keshet VOD
-http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 
 #EXTINF:-1, Aruz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
@@ -36,8 +31,6 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1,Дождь
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1,Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u
 #EXTINF:-1,Мир 24
@@ -53,10 +46,6 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 
-
-#EXTINF:0,Boomerang Dune
-http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://91.149.172.100:80/channel?id=119&u=demo&p=demo
-
 #EXTINF:-1,Смайлик ТВ
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1,Сказки зайки
@@ -66,8 +55,6 @@ http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:-1,Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 
-#EXTINF:-1,Heart
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:-1,HitMusic
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1,1 Muz Rus
@@ -75,8 +62,6 @@ http://rtmp.one.by:2300/
 
 #EXTINF:-1,1 MTV Azerbaijan
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
-#EXTINF:-1,Nebiset
-http://hls.nebiset.tv/nebiset.m3u8
 #EXTINF:-1,О2 ТВ
 http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
 #EXTINF:-1,Radio 105 TV
@@ -86,8 +71,6 @@ http://rtmp.one.by:1300/
 
 #EXTINF:-1,U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Radio Montecarlo
-http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-id="ONE By HD 1080P" group-title="Music - מוזיקה" tvg-logo="",ONE By HD 1080P
 http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-id="One By RUSSIA HD 720P" group-title="Music - מוזיקה" tvg-logo="",One By RUSSIA HD 720P
