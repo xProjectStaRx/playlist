@@ -87,6 +87,19 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
 
+#EXTINF:CBC AZ
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:ATV AZ
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:ATV AZ-2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:ATV AZ-4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:Muz TV AZ
+http:\\85.132.78.6:1935\live\muztv.stream\index.m3u8
+
+
+
 #EXTINF:0,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:0,TRT HABER HD
