@@ -1,7 +1,4 @@
 ﻿#EXTM3U
- 
-#EXTINF:0,iLand HD
-https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
 
 
 
@@ -26,34 +23,11 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
 
 
-#EXTINF:-1,Первый Канал
-http://persik.by/stream/0423/382795/8.m3u8
-#EXTINF:-1,Пятница
-http://176.101.224.21:8080/udp/239.195.32.32:1234
-#EXTINF:-1,Рен ТВ International
-http://stream.euroasia.lfstrm.tv/rentv/1/index.m3u8
-#EXTINF:-1,Рен-ТВ
-http://46.32.64.42/s/live/6/9.9.9.9/0/0.m3u8
-#EXTINF:-1,НТВ
-http://176.101.224.21:8080/udp/239.195.32.7:1234
-#EXTINF:-1,НТВ Mир
-http://92.43.140.200/s17/index.m3u8
-#EXTINF:-1,ТНТ
-http://176.101.224.21:8080/udp/239.195.32.11:1234
-#EXTINF:-1,Домашний
-http://gorod.tv/s/live/17/134.249.65.172/1/0.m3u8
+
 #EXTINF:-1,Ю
 http://46.32.64.42/s/live/9/9.9.9.9/1/0.m3u8
-#EXTINF:-1,Перец
-http://streams.tv.mts.by/peretz_int/1/index.m3u8
 #EXTINF:-1,СТС
 http://gorod.tv/s/live/22/134.249.65.172/0/0.m3u8
-#EXTINF:-1,rtvi
-http://stream.euroasia.lfstrm.tv/rtvi/1/index.m3u8
-#EXTINF:-1,Супер
-http://37.49.212.64:81/udp/239.54.7.129:1224
-
-
 
 
 
@@ -110,16 +84,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
 
-#EXTINF:CBC AZ
-http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
-#EXTINF:ATV AZ
-http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
-#EXTINF:ATV AZ-2
-http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:ATV AZ-4
-http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:Muz TV AZ
-http:\\85.132.78.6:1935\live\muztv.stream\index.m3u8
 
 
 
