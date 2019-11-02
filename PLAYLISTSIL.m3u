@@ -85,12 +85,6 @@ http://178.124.183.5/hls/KBHOKBYSSX/variant.m3u8?version=2
 
 
 
-#EXTINF:-1,Ю
-http://46.32.64.42/s/live/9/9.9.9.9/1/0.m3u8
-#EXTINF:-1,СТС
-http://gorod.tv/s/live/22/134.249.65.172/0/0.m3u8
-
-
 
 #EXTINF:-1,Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
@@ -102,7 +96,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 
-
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/boomerang.png"  group-title="БЕЛАРУСЬ",Boomerang
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
 
 
 #EXTINF:-1,Шансон ТВ
