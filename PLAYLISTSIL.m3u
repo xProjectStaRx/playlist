@@ -1,15 +1,6 @@
 ﻿#EXTM3U
 
 
-
-#EXTINF:-1,Ch 13 Reshet
-http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
-
-
-#EXTINF:-1, Aruz 10
-http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
-#EXTINF:0,Aruz 20
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
 #EXTINF:0,99 Aruz Haknesset
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:0,21 Arutz Hakniyot
@@ -18,18 +9,6 @@ rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", Arutz Hadashot
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://ott.onlineott.tv/logos/350.png"  group-title="БЕЛАРУСЬ", Рен ТВ
-http://uiptv.do.am/1ufc/102323759/playlist.m3u8?streamType=live
-#EXTINF:-1 tvg-logo="http://ott.onlineott.tv/logos/609.png"  group-title="БЕЛАРУСЬ", Рен ТВ International
-https://sc.id-tv.kz/RenTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/TV1000_Premium_Baltic_HD.png"  group-title="Кинозалы",TV1000 Premium HD
-http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-2 tvg-name="Советское Кино" tvg-logo="http://img.s-tv.ru/logos/sovet_kino.jpg"  group-title="Кинозалы",Советское Кино
-http://178.124.183.5/hls/CH_SOVKINO/variant.m3u8
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/eurokino.png"  group-title="Кинозалы",Классика кино
 http://serv25.vintera.tv:8081/klasskino/k_kino/chunks.m3u8
 #EXTINF:0 tvg-logo="https://plex.ucoz.com/_ph/4/2/683467963.png"  group-title="Кинозалы",ГАЛ TV 
@@ -42,47 +21,6 @@ http://95.188.107.89:6767/hls1/channel/baaa.m3u8?q=1569317342501
 http://188.35.9.11:11159/i
 #EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/index_files/hdmedia.png"  group-title="Кинозалы",КИНОМЕНЮ HD
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv1000rukino.png"  group-title="БЕЛАРУСЬ",TV1000 Русское кино
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tv1000action.png"  group-title="БЕЛАРУСЬ",TV1000 Action
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/fox.png"  group-title="БЕЛАРУСЬ",FOX
-http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/foxlife.png"  group-title="БЕЛАРУСЬ",FOX Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
-#EXTINF:-1  group-title="БЕЛАРУСЬ",СТС Kids
-http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
-#EXTINF:-1  group-title="БЕЛАРУСЬ",BOLT
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
-#EXTINF:-1  group-title="БЕЛАРУСЬ",STAR CINEMA
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
-#EXTINF:-1  group-title="БЕЛАРУСЬ",STAR FAMILY
-http://178.124.183.5/hls/CH_FAMILY/variant.m3u8?version=2
-#EXTINF:-1  group-title="БЕЛАРУСЬ",Киносерия
-http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
-
-
-
-
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/rtvi.png"  group-title="БЕЛАРУСЬ",RTVI
-http://178.124.183.5/hls/PN9VRQ5DGR/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/tntint.png"  group-title="БЕЛАРУСЬ",ТНТ international
-http://178.124.183.5/hls/MVNP5DA4U9/variant.m3u8?version=2
-
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/natgeo.png"  group-title="БЕЛАРУСЬ",National Geographic Channel
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/natgeowild.png"  group-title="БЕЛАРУСЬ",Nat Geo Wild
-http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/nauka.png"  group-title="БЕЛАРУСЬ",Наука
-http://178.124.183.5/hls/LWWBCKZAPZ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/moyaPlaneta.png"  group-title="БЕЛАРУСЬ",Моя планета
-http://178.124.183.5/hls/FV47BRVQW4/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/techno24.png"  group-title="БЕЛАРУСЬ",Техно 24
-http://178.124.183.5/hls/ZIVFRAFR2I/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/eureka.png"  group-title="БЕЛАРУСЬ",Eureka
-http://178.124.183.5/hls/KBHOKBYSSX/variant.m3u8?version=2
-
-
 
 
 
@@ -96,8 +34,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/boomerang.png"  group-title="БЕЛАРУСЬ",Boomerang
-http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
 
 
 #EXTINF:-1,Шансон ТВ
@@ -105,27 +41,13 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 
 #EXTINF:-1,1 Muz Rus
 http://rtmp.one.by:2300/
-
-#EXTINF:-1,1 MTV Azerbaijan
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
-#EXTINF:-1,Radio 105 TV
-http://tv.105.net/live/105Test1/playlist.m3u8
 #EXTINF:-1,1 Muz Eng
 http://rtmp.one.by:1300/
-
-#EXTINF:-1,U TV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 tvg-id="ONE By HD 1080P" group-title="Music - מוזיקה" tvg-logo="",ONE By HD 1080P
 http://rtmp.one.by:1300/
 #EXTINF:-1 tvg-id="One By RUSSIA HD 720P" group-title="Music - מוזיקה" tvg-logo="",One By RUSSIA HD 720P
 http://rtmp.one.by:2300/
-#EXTINF:-1 tvg-id="cityTV" group-title="Music - מוזיקה" tvg-logo="",cityTV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:-1 tvg-id="CMC TV country" group-title="Music - מוזיקה" tvg-logo="",CMC TV country
-rtmp://cmctv.flash.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV live=1 pageUrl=http://www.cmc-tv.com/
 
-#EXTINF:-1 tvg-id="Virgin TV" group-title="Music - מוזיקה" tvg-logo="http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png",Virgin TV
-http://wow01.105.net/live/virgin1/playlist.m3u8
 #EXTINF:-1 tvg-id="m2o TV" group-title="Music - מוזיקה" tvg-logo="http://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png",m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
@@ -163,21 +85,46 @@ https://streams.livetv.az/azerbaijan/dunya/chunks.m3u8
 #EXTINF:0,http://streams2.livetv.az/azerbaijan/idmanhd/playlist.m3u8
 #EXTINF:0,http://streams2.livetv.az/azerbaijan/interaz/playlist.m3u8
 #EXTINF:0,Khttp://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0,Lider TV
-http://streams2.livetv.az/azerbaijan/lider_stream/playlist.m3u8
+
 #EXTINF:0,Medeniyyet
 https://streams.livetv.az/azerbaijan/medeniyyet_stream2/chunks.m3u8
 #EXTINF:0,Muz TV
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
-#EXTINF:0,Naxзivan TV
-https://streams.livetv.az/azerbaijan/naxicevan/chunks.m3u8
-#EXTINF:0,Real TV
-http://streams2.livetv.az/azerbaijan/real/playlist.m3u8
-#EXTINF:0,Space TV
-http://streams2.livetv.az/azerbaijan/space_stream/playlist.m3u8
-#EXTINF:0,Xhttp://streams2.livetv.az/azerbaijan/xazar_sd_stream2/playlist.m3u8
-#EXTINF:0,Ьmьd
-http://win26.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",ARB
+http://str2.tvshka.space:3000/dubonidze/121173/443
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",ARB Gunesh
+http://str2.tvshka.space:3000/dubonidze/121173/444
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",AzTV
+http://str2.tvshka.space:3000/dubonidze/121173/445
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Azad Azerbaycan TV
+http://str2.tvshka.space:3000/dubonidze/121173/446
+#EXTINF:-1 tvg-id="nodata" group-title="Azerbaijan" tvg-logo="",CBC HD
+http://str2.tvshka.space:3000/dubonidze/121173/447
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",CBC Sport HD
+http://str2.tvshka.space:3000/dubonidze/121173/448
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Dalga TV
+http://str2.tvshka.space:3000/dubonidze/121173/449
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Dunya TV
+http://str2.tvshka.space:3000/dubonidze/121173/450
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Ictimai TV
+http://str2.tvshka.space:3000/dubonidze/121173/451
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Idman Azerbaycan
+http://str2.tvshka.space:3000/dubonidze/121173/452
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Lider TV
+http://str2.tvshka.space:3000/dubonidze/121173/453
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Medeniyyet TV
+http://str2.tvshka.space:3000/dubonidze/121173/454
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Real TV
+http://str2.tvshka.space:3000/dubonidze/121173/455
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Space TV
+http://str2.tvshka.space:3000/dubonidze/121173/456
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",Xezer TV
+http://str2.tvshka.space:3000/dubonidze/121173/457
+#EXTINF:-1 tvg-id="" group-title="Azerbaijan" tvg-logo="",ARB 24
+http://str2.tvshka.space:3000/dubonidze/121173/458
+
 
 
 
