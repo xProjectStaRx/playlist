@@ -1,19 +1,19 @@
 ﻿#EXTM3U
 
 
-#EXTINF:0,Kan 11
-https:\\kanlivep2event-i.akamaihd.net\hls\live\747610\747610\source1_2.5k\chunklist.m3u8
-#EXTINF:0,99 Aruz Haknesset
+#EXTINF:0,Ch Kan 11
+https://kanlivep2event-i.akamaihd.net\hls\live\747610\747610\source1_2.5k\chunklist.m3u8
+#EXTINF:0,Ch 99 Aruz Haknesset
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:0,Makan 33 מכאן
+#EXTINF:0,Ch 33 Makan
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
-#EXTINF:0,21 Arutz Hakniyot
+#EXTINF:0,Ch 21 Arutz Hakniyot
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
-#EXTINF:0,CH 23 החינוכית
+#EXTINF:0,Ch 23 Hinuhit
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:0,24 Music
+#EXTINF:0,Ch 24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:0,Sport 5
+#EXTINF:0,Ch Sport 5
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
 
 
